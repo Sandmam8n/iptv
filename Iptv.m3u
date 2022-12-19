@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz" 
 
+#EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="http://epg.it999.ru/img/146.png" tvg-rec="7",Первый канал FHD
+http://he11o.akadatel.com/iptv/CXQM2GTQN3TE39/2402/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://epg.it999.ru/img/983.png" ,Первый канал +2
 http://188.233.238.144:34040/udp/225.0.59.1:1234
 #EXTINF:-1 group-title="Общие" tvg-logo="http://epg.it999.ru/img/984.png" ,Россия HD
