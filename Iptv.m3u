@@ -78,225 +78,225 @@ http://127.0.0.1:6878/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d&
 http://127.0.0.1:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&.mp4
 #EXTINF:-1 group-title="Общие",СТС HD
 http://127.0.0.1:6878/ace/getstream?id=5e06a45d6939341fb7427189245380086c1d63c7&.mp4
-#EXTINF:-1 group-title="Обшие+",Первый канал (-1)
+#EXTINF:-1 group-title="Россия Общие +",Первый канал (-1)
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Первый канал
+#EXTINF:-1 group-title="Россия Общие +",Первый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Первый канал (+1)
+#EXTINF:-1 group-title="Россия Общие +",Первый канал (+1)
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Первый канал (+2)
+#EXTINF:-1 group-title="Россия Общие +",Первый канал (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Первый канал (+3)
+#EXTINF:-1 group-title="Россия Общие +",Первый канал (+3)
 https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Первый канал (+4)
+#EXTINF:-1 group-title="Россия Общие +",Первый канал (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Первый канал (+5)
+#EXTINF:-1 group-title="Россия Общие +",Первый канал (+5)
 https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Первый канал (+6)
+#EXTINF:-1 group-title="Россия Общие +",Первый канал (+6)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Первый канал (+7)
+#EXTINF:-1 group-title="Россия Общие +",Первый канал (+7)
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Первый канал (+8)
+#EXTINF:-1 group-title="Россия Общие +",Первый канал (+8)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Первый канал (+9)
+#EXTINF:-1 group-title="Россия Общие +",Первый канал (+9)
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",НТВ (-1)
+#EXTINF:-1 group-title="Россия Общие +",НТВ (-1)
 http://a3569458162-rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8?offset=-3600&utcstart=1611486000&version=2
-#EXTINF:-1 group-title="Обшие+",НТВ
+#EXTINF:-1 group-title="Россия Общие +",НТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",НТВ (+1)
+#EXTINF:-1 group-title="Россия Общие +",НТВ (+1)
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",НТВ (+2)
+#EXTINF:-1 group-title="Россия Общие +",НТВ (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",НТВ (+3)
+#EXTINF:-1 group-title="Россия Общие +",НТВ (+3)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",НТВ (+4)
+#EXTINF:-1 group-title="Россия Общие +",НТВ (+4)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",НТВ (+5)
+#EXTINF:-1 group-title="Россия Общие +",НТВ (+5)
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R03_NTV_BURAT/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",НТВ (+6)
+#EXTINF:-1 group-title="Россия Общие +",НТВ (+6)
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_NTV_ZK/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",НТВ (+7)
+#EXTINF:-1 group-title="Россия Общие +",НТВ (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Россия 1
+#EXTINF:-1 group-title="Россия Общие +",Россия 1
 http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Россия 1 (+1)
+#EXTINF:-1 group-title="Россия Общие +",Россия 1 (+1)
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus1/playlist_2.m3u8
-#EXTINF:-1 group-title="Обшие+",Россия 1 (+2)
+#EXTINF:-1 group-title="Россия Общие +",Россия 1 (+2)
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus2/playlist_2.m3u8
-#EXTINF:-1 group-title="Обшие+",Россия 1 (+3)
+#EXTINF:-1 group-title="Россия Общие +",Россия 1 (+3)
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus3/playlist_2.m3u8
-#EXTINF:-1 group-title="Обшие+",Россия 1 (+4)
+#EXTINF:-1 group-title="Россия Общие +",Россия 1 (+4)
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus4/playlist_2.m3u8
-#EXTINF:-1 group-title="Обшие+",Россия 1 (+5)
+#EXTINF:-1 group-title="Россия Общие +",Россия 1 (+5)
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus5/playlist_2.m3u8
-#EXTINF:-1 group-title="Обшие+",Россия 1 (+6)
+#EXTINF:-1 group-title="Россия Общие +",Россия 1 (+6)
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus6/playlist_2.m3u8
-#EXTINF:-1 group-title="Обшие+",Россия 1 (+7)
+#EXTINF:-1 group-title="Россия Общие +",Россия 1 (+7)
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus7/playlist_2.m3u8
-#EXTINF:-1 group-title="Обшие+",Россия 1 (+8)
+#EXTINF:-1 group-title="Россия Общие +",Россия 1 (+8)
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus8/playlist_2.m3u8
-#EXTINF:-1 group-title="Обшие+",Россия 1 (+9)
+#EXTINF:-1 group-title="Россия Общие +",Россия 1 (+9)
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus9/playlist_2.m3u8
-#EXTINF:-1 group-title="Обшие+",ТВ Центр (-1)
+#EXTINF:-1 group-title="Россия Общие +",ТВ Центр (-1)
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",ТВ Центр
+#EXTINF:-1 group-title="Россия Общие +",ТВ Центр
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",ТВ Центр (+1)
+#EXTINF:-1 group-title="Россия Общие +",ТВ Центр (+1)
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_ASTRH_TVC/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",ТВ Центр (+2)
+#EXTINF:-1 group-title="Россия Общие +",ТВ Центр (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",ТВ Центр (+3)
+#EXTINF:-1 group-title="Россия Общие +",ТВ Центр (+3)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_TVC_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",ТВ Центр (+5)
+#EXTINF:-1 group-title="Россия Общие +",ТВ Центр (+5)
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_TVC_BURAT/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Россия К (+1)
+#EXTINF:-1 group-title="Россия Общие +",Россия К (+1)
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_ASTRH_ROSSIAK/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Россия К (+2)
+#EXTINF:-1 group-title="Россия Общие +",Россия К (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Россия К (+3)
+#EXTINF:-1 group-title="Россия Общие +",Россия К (+3)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Россия К (+4)
+#EXTINF:-1 group-title="Россия Общие +",Россия К (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Россия К (+5)
+#EXTINF:-1 group-title="Россия Общие +",Россия К (+5)
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_BURAT/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Россия К (+7)
+#EXTINF:-1 group-title="Россия Общие +",Россия К (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Пятый канал (-1)
+#EXTINF:-1 group-title="Россия Общие +",Пятый канал (-1)
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_OTT_NW_KLGR_5TV/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Пятый канал
+#EXTINF:-1 group-title="Россия Общие +",Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Пятый канал (+1)
+#EXTINF:-1 group-title="Россия Общие +",Пятый канал (+1)
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_ASTRH_5TV/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Пятый канал (+2)
+#EXTINF:-1 group-title="Россия Общие +",Пятый канал (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Пятый канал (+3)
+#EXTINF:-1 group-title="Россия Общие +",Пятый канал (+3)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_5TV_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Пятый канал (+4)
+#EXTINF:-1 group-title="Россия Общие +",Пятый канал (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Пятый канал (+5)
+#EXTINF:-1 group-title="Россия Общие +",Пятый канал (+5)
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_5TV_BURAT/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Пятый канал (+7)
+#EXTINF:-1 group-title="Россия Общие +",Пятый канал (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",ТНТ
+#EXTINF:-1 group-title="Россия Общие +",ТНТ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",ТНТ (+2)
+#EXTINF:-1 group-title="Россия Общие +",ТНТ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",ТНТ (+4)
+#EXTINF:-1 group-title="Россия Общие +",ТНТ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",ТНТ (+7)
+#EXTINF:-1 group-title="Россия Общие +",ТНТ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",ТВ3 (-1)
+#EXTINF:-1 group-title="Россия Общие +",ТВ3 (-1)
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",ТВ3
+#EXTINF:-1 group-title="Россия Общие +",ТВ3
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",ТВ3 (+1)
+#EXTINF:-1 group-title="Россия Общие +",ТВ3 (+1)
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ASTRH_TV3/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",ТВ3 (+2)
+#EXTINF:-1 group-title="Россия Общие +",ТВ3 (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",ТВ3 (+3)
+#EXTINF:-1 group-title="Россия Общие +",ТВ3 (+3)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_TV3_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",ТВ3 (+4)
+#EXTINF:-1 group-title="Россия Общие +",ТВ3 (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",ТВ3 (+5)
+#EXTINF:-1 group-title="Россия Общие +",ТВ3 (+5)
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TV3_BURAT/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",ТВ3 (+7)
+#EXTINF:-1 group-title="Россия Общие +",ТВ3 (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Че
+#EXTINF:-1 group-title="Россия Общие +",Че
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Че (+2)
+#EXTINF:-1 group-title="Россия Общие +",Че (+2)
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Че (+4)
+#EXTINF:-1 group-title="Россия Общие +",Че (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Че (+7)
+#EXTINF:-1 group-title="Россия Общие +",Че (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",СТС Мир
+#EXTINF:-1 group-title="Россия Общие +",СТС Мир
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_TSM/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",СТС (-1)
+#EXTINF:-1 group-title="Россия Общие +",СТС (-1)
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",СТС
+#EXTINF:-1 group-title="Россия Общие +",СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",СТС (+1)
+#EXTINF:-1 group-title="Россия Общие +",СТС (+1)
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_ASTRH_STS/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",СТС (+2)
+#EXTINF:-1 group-title="Россия Общие +",СТС (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",СТС (+4)
+#EXTINF:-1 group-title="Россия Общие +",СТС (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",СТС (+6)
+#EXTINF:-1 group-title="Россия Общие +",СТС (+6)
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_STS_ZK/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",СТС (+7)
+#EXTINF:-1 group-title="Россия Общие +",СТС (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",СТС Love
+#EXTINF:-1 group-title="Россия Общие +",СТС Love
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",СТС Love (+2)
+#EXTINF:-1 group-title="Россия Общие +",СТС Love (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",СТС Love (+7)
+#EXTINF:-1 group-title="Россия Общие +",СТС Love (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Пятница (-1)
+#EXTINF:-1 group-title="Россия Общие +",Пятница (-1)
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Пятница
+#EXTINF:-1 group-title="Россия Общие +",Пятница
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Пятница (+2)
+#EXTINF:-1 group-title="Россия Общие +",Пятница (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Пятница (+4)
+#EXTINF:-1 group-title="Россия Общие +",Пятница (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Пятница (+7)
+#EXTINF:-1 group-title="Россия Общие +",Пятница (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Суббота!
+#EXTINF:-1 group-title="Россия Общие +",Суббота!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Суббота! (+2)
+#EXTINF:-1 group-title="Россия Общие +",Суббота! (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Суббота! (+4)
+#EXTINF:-1 group-title="Россия Общие +",Суббота! (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Суббота! (+7)
+#EXTINF:-1 group-title="Россия Общие +",Суббота! (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",РЕН ТВ (-1)
+#EXTINF:-1 group-title="Россия Общие +",РЕН ТВ (-1)
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",РЕН ТВ
+#EXTINF:-1 group-title="Россия Общие +",РЕН ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",РЕН ТВ (+1)
+#EXTINF:-1 group-title="Россия Общие +",РЕН ТВ (+1)
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_ASTRH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",РЕН ТВ (+2)
+#EXTINF:-1 group-title="Россия Общие +",РЕН ТВ (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",РЕН ТВ (+4)
+#EXTINF:-1 group-title="Россия Общие +",РЕН ТВ (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",РЕН ТВ (+5)
+#EXTINF:-1 group-title="Россия Общие +",РЕН ТВ (+5)
 http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_BURAT/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",РЕН ТВ (+7)
+#EXTINF:-1 group-title="Россия Общие +",РЕН ТВ (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Звезда (-1)
+#EXTINF:-1 group-title="Россия Общие +",Звезда (-1)
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Звезда
+#EXTINF:-1 group-title="Россия Общие +",Звезда
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Звезда (+2)
+#EXTINF:-1 group-title="Россия Общие +",Звезда (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Звезда (+4)
+#EXTINF:-1 group-title="Россия Общие +",Звезда (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Звезда (+6)
+#EXTINF:-1 group-title="Россия Общие +",Звезда (+6)
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_ZVEZDA_ZK/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Звезда (+7)
+#EXTINF:-1 group-title="Россия Общие +",Звезда (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Ю
+#EXTINF:-1 group-title="Россия Общие +",Ю
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Ю (+2)
+#EXTINF:-1 group-title="Россия Общие +",Ю (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Ю (+4)
+#EXTINF:-1 group-title="Россия Общие +",Ю (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Ю (+7)
+#EXTINF:-1 group-title="Россия Общие +",Ю (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Домашний (-1)
+#EXTINF:-1 group-title="Россия Общие +",Домашний (-1)
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Домашний
+#EXTINF:-1 group-title="Россия Общие +",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Домашний (+2)
+#EXTINF:-1 group-title="Россия Общие +",Домашний (+2)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Домашний (+4)
+#EXTINF:-1 group-title="Россия Общие +",Домашний (+4)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/bw2000000/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Домашний (+5)
+#EXTINF:-1 group-title="Россия Общие +",Домашний (+5)
 http://rt-sth-mahachk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_MAHACHK_DOMASHNY/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Домашний (+6)
+#EXTINF:-1 group-title="Россия Общие +",Домашний (+6)
 http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_DOMASHN_ZK/variant.m3u8
-#EXTINF:-1 group-title="Обшие+",Домашний (+7)
+#EXTINF:-1 group-title="Россия Общие +",Домашний (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="RU-Region",Мир Белогорья
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
@@ -470,6 +470,7 @@ https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
 #EXTINF:-1 group-title="RU-Region",41 Регион (Камчатка)
 https://s14131.cdn.ngenix.net/hls/CH_R02_OTT_DV_KAM_41REG_OTT/variant.m3u8
+
 
 #EXTINF:-1 group-title="Познавательные" ,Galaxy
 http://flu.ttk.mx:9090/Galaxy/index.m3u8?token=orh6o
