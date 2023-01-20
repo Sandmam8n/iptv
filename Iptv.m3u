@@ -103,6 +103,8 @@ http://127.0.0.1:6878/ace/getstream?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613&
 http://127.0.0.1:6878/ace/getstream?id=65707378011c08c27dca1f0162d545f369756c5f&.mp4
 #EXTINF:-1 group-title="Познавательные",DTX HD
 http://127.0.0.1:6878/ace/getstream?id=b2c8dfc5ec5fdfb098ae4285335ee465f0b63885&.mp4
+#EXTINF:0 group-title="Познавательные",Investigation Discovery HD
+http://he11o.akadatel.com/iptv/CXQM2GTQN3TE39/9054/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Science HD
 http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
 #EXTINF:-1 group-title="Познавательные",Discovery HD
