@@ -439,8 +439,6 @@ http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390&
 http://flu.ttk.mx:9090/Match_HD/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Спорт",Матч ТВ HD
 http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2&.mp4
-#EXTINF:0 group-title="Спорт" tvg-id="2250" tvg-logo="http://epg.it999.ru/img/2250.png" tvg-rec="3",Матч! Премьер FHD
-http://he11o.akadatel.com/iptv/CXQM2GTQN3TE39/2414/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! Премьер HD
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
 #EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
