@@ -111,8 +111,6 @@ https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
 http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
 #EXTINF:-1 group-title="Познавательные",Discovery HD
 https://livetv.mylifeisgood.ml/channels/discovery.m3u8
-#EXTINF:-1 group-title="Познавательные",Discovery HD
-http://127.0.0.1:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771&.mp4
 #EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
 http://127.0.0.1:6878/ace/getstream?id=b85a8f5825dc7fca3e8046af445bb776541b8bd0&.mp4
 #EXTINF:-1 group-title="Познавательные",Дикая охота HD
