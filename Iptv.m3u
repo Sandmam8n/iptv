@@ -197,6 +197,8 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://i.postimg.cc/Y9DqZS4j/1.png" ,START World
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино", Фантастика HD
+http://hlss.goodgame.ru/hls/187241.m3u8
 #EXTINF:-1 group-title="Кино", Fox HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино", Fox Life HD
