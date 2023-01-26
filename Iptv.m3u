@@ -181,6 +181,7 @@ http://127.0.0.1:6878/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&
 http://127.0.0.1:6878/ace/getstream?id=75860e73e6149fed0f781f08e7f93b19c9dc00d2&.mp4
 #EXTINF:-1 group-title="Познавательные",Da Vinci
 http://127.0.0.1:6878/ace/getstream?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14&.mp4
+
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/2823.png" ,VIP Comedy HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/1012.png" ,VIP Megahit HD
@@ -193,7 +194,7 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://i.postimg.cc/Y9DqZS4j/1.png" ,START World
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
-#EXTINF:-1 group-title="Кино", ММ Фантастика HD
+#EXTINF:-1 group-title="Кино", Фантастика HD
 http://hlss.goodgame.ru/hls/187241.m3u8
 #EXTINF:-1 group-title="Кино", Fox HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
@@ -431,6 +432,7 @@ http://127.0.0.1:6878/ace/getstream?id=3a71745381e1a6821a881c96a230b6cd365d4da5&
 http://127.0.0.1:6878/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379&.mp4
 #EXTINF:-1 group-title="Кино",Ultra HD Cinema
 http://127.0.0.1:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8&.mp4
+
 #EXTINF:-1 group-title="Спорт" ,Матч! HD
 http://flu.ttk.mx:9090/Match_HD/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="Спорт",Матч ТВ HD
@@ -533,6 +535,7 @@ http://127.0.0.1:6878/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a&
 http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91&.mp4
 #EXTINF:-1 group-title="Спорт",SKY Bundesliga UHD
 http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390&.mp4
+
 #EXTINF:-1 group-title="Музыка",1HD
 http://127.0.0.1:6878/ace/getstream?id=29dc5b990bbcf66b7466a7a7a13df3bf7e29c30a&.mp4
 #EXTINF:-1 group-title="Музыка",VIVA HD
@@ -569,6 +572,7 @@ http://127.0.0.1:6878/ace/getstream?id=0f777acf2def9b2c0ae254041796fbae5ba60501&
 http://127.0.0.1:6878/ace/getstream?id=0ef17cf868ef54b443dd41516803276779b76aac&.mp4
 #EXTINF:-1 group-title="Музыка",Мультимузыка
 http://127.0.0.1:6878/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19&.mp4
+
 #EXTINF:-1 group-title="Радио",(Феодосия)
 http://webcam.feonet.net:8080/poleznoeradio/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Радио",1 [RU]
@@ -629,6 +633,7 @@ http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 https://stream1.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Радио",Шансон ТВ
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+
 #EXTINF:-1 group-title="Детские",Мультиландия
 http://127.0.0.1:6878/ace/getstream?id=78f1672c711f67c5588ecc96580f7524c0fb87fb&.mp4
 #EXTINF:-1 group-title="Детские",Карусель
@@ -657,6 +662,7 @@ http://127.0.0.1:6878/ace/getstream?id=4da0f57fb96330c7f6ad5f4bce0ba93038b628c3&
 http://127.0.0.1:6878/ace/getstream?id=9eb31bd34245c4bbe60f0fe6081f854b7d1dde52&.mp4
 #EXTINF:-1 group-title="Детские",Disney
 http://127.0.0.1:6878/ace/getstream?id=a257179a41c0f69411ed7fe86260fe7cc5c823f3&.mp4
+
 #EXTINF:-1 group-title="Мультики" ,Дядя Степа - милиционер
 https://mults.info/mp4/diadia_stepa_militsioner.mp4
 #EXTINF:-1 group-title="Мультики",Федя Зайцев
@@ -975,6 +981,7 @@ https://mults.info/mp4/kanikuly_v_prostokvashino.mp4
 https://mults.info/mp4/meteor_na_ringe.mp4
 #EXTINF:-1 group-title="Мультики",Мешок яблок
 https://mults.info/mp4/meshok_yablok.mp4
+
 #EXTINF:-1 group-title="Федеральные +",Первый канал (+1)
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
 #EXTINF:-1 group-title="Федеральные +",Первый канал (+2)
