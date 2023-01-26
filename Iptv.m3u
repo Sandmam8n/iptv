@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg2.xml.gz" 
 
 #EXTINF:-1 group-title="Общие" tvg-logo="http://epg.it999.ru/img/983.png" ,Первый канал
+http://78.25.155.47:1309/channel/ORT_HD.ts
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.it999.ru/img/983.png" ,Первый канал
 http://188.233.238.144:34040/udp/225.0.59.1:1234
 #EXTINF:-1 group-title="Общие" tvg-logo="http://epg.it999.ru/img/984.png" ,Россия HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
@@ -103,10 +105,14 @@ http://127.0.0.1:6878/ace/getstream?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613&
 http://127.0.0.1:6878/ace/getstream?id=65707378011c08c27dca1f0162d545f369756c5f&.mp4
 #EXTINF:-1 group-title="Познавательные",DTX HD
 http://127.0.0.1:6878/ace/getstream?id=b2c8dfc5ec5fdfb098ae4285335ee465f0b63885&.mp4
+#EXTINF:0 group-title="Познавательные" tvg-id="2507" tvg-logo="http://epg.it999.ru/img/2507.png" tvg-rec="3",Investigation Discovery HD
+https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2507" tvg-logo="http://epg.it999.ru/img/2507.png" tvg-rec="3",Investigation Discovery HD orig
 http://he11o.akadatel.com/iptv/CXQM2GTQN3TE39/9054/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery Science HD
 http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
+#EXTINF:-1 group-title="Познавательные",Discovery HD
+https://livetv.mylifeisgood.ml/channels/discovery.m3u8
 #EXTINF:-1 group-title="Познавательные",Discovery HD
 http://127.0.0.1:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771&.mp4
 #EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
