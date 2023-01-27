@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_LITE","http://epg.it999.ru/epg2.xml.gz" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE","http://epg.it999.ru/epg2.xml.gz"
 
 #EXTINF:-1 group-title="📺 Общие" tvg-logo="http://epg.it999.ru/img/983.png" ,Первый канал
 http://78.25.155.47:1309/channel/ORT_HD.ts
