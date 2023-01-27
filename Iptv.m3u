@@ -1,8 +1,7 @@
 url-tvg="https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.site/epg_lite.xml.gz,http://epg.it999.ru/epg2.xml.gz"
+
 #EXTINF:-1 group-title="📺 Общие" tvg-logo="http://epg.it999.ru/img/983.png" ,Первый канал
 http://78.25.155.47:1309/channel/ORT_HD.ts
-#EXTINF:-1 group-title="📺 Общие" tvg-logo="http://epg.it999.ru/img/983.png" ,Первый канал
-http://188.233.238.144:34040/udp/225.0.59.1:1234
 #EXTINF:-1 group-title="📺 Общие" tvg-logo="http://epg.it999.ru/img/984.png" ,Россия HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
 #EXTINF:-1 group-title="📺 Общие" tvg-logo="http://epg.it999.ru/img/2001.png" ,НТВ HD
@@ -25,8 +24,6 @@ http://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
 #EXTINF:-1 group-title="📺 Общие" tvg-logo="http://epg.it999.ru/img/79.png" ,СТС HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
-#EXTINF:-1 group-title="📺 Общие",ТНТ HD
-http://127.0.0.1:6878/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094b&.mp4
 #EXTINF:-1 group-title="📺 Общие", Пятница! HD
 https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
 #EXTINF:-1 group-title="📺 Общие", 360 Новости
@@ -59,26 +56,12 @@ https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
 http://127.0.0.1:6878/ace/getstream?id=4b91bbf01a5574583e7e4af5b258de3e454d83e4&.mp4
 #EXTINF:-1 group-title="📺 Общие",ТНТ4 HD
 http://127.0.0.1:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
-#EXTINF:-1 group-title="📺 Общие",НТВ ХИТ
-http://127.0.0.1:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&.mp4
-#EXTINF:-1 group-title="📺 Общие",НТВ Стиль
-http://127.0.0.1:6878/ace/getstream?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6&.mp4
-#EXTINF:-1 group-title="📺 Общие",НТВ Сериал
-http://127.0.0.1:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993&.mp4
-#EXTINF:-1 group-title="📺 Общие",Домашний HD
-http://127.0.0.1:6878/ace/getstream?id=66e2f44bd0a7687a61f5cc4f03bcfc20a505057c&.mp4
-#EXTINF:-1 group-title="📺 Общие",ТВ3 HD
-http://127.0.0.1:6878/ace/getstream?id=3b878b202b26e2b15bf7304e21a7d5283ebf236b&.mp4
-#EXTINF:-1 group-title="📺 Общие",Пятница HD
-http://127.0.0.1:6878/ace/getstream?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce&.mp4
 #EXTINF:-1 group-title="📺 Общие",Суббота! HD
 http://127.0.0.1:6878/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69&.mp4
 #EXTINF:-1 group-title="📺 Общие",СТС Love
 http://127.0.0.1:6878/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d&.mp4
 #EXTINF:-1 group-title="📺 Общие",СТС Kids HD
 http://127.0.0.1:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&.mp4
-#EXTINF:-1 group-title="📺 Общие",СТС HD
-http://127.0.0.1:6878/ace/getstream?id=5e06a45d6939341fb7427189245380086c1d63c7&.mp4
 
 #EXTINF:-1 group-title="Познавательные" ,Galaxy
 http://flu.ttk.mx:9090/Galaxy/index.m3u8?token=orh6o
@@ -309,22 +292,9 @@ http://127.0.0.1:6878/ace/getstream?id=c2877f4320f2029a59f2121525280c539fb1b9e9&
 http://127.0.0.1:6878/ace/getstream?id=4403739564a9b19055786e9844ea48147b3f930b&.mp4
 #EXTINF:-1 group-title="📽️ Фильмовые",Блокбастер HD
 http://127.0.0.1:6878/ace/getstream?id=6019512392cd7316a5362e275966779bf9011fee&.mp4
-#EXTINF:-1 group-title="📽️ Фильмовые",VIP Serial HD
-http://127.0.0.1:6878/ace/getstream?id=d13dd140058b7a528959e2b709aca4111b7cc076&.mp4
-#EXTINF:-1 group-title="📽️ Фильмовые",VIP Premiere HD
-http://127.0.0.1:6878/ace/getstream?id=dc939e7815f47c5db59bd3e9fe4bb61ddecc45a5&.mp4
-#EXTINF:-1 group-title="📽️ Фильмовые",VIP Megahit HD
-http://127.0.0.1:6878/ace/getstream?id=d83992b759e6227f7cc9a20e4e4dae1b58e645c8&.mp4
-#EXTINF:-1 group-title="📽️ Фильмовые",VIP Comedy HD
 http://127.0.0.1:6878/ace/getstream?id=8c7b8be6682d84e033352724243719378c3e1540&.mp4
-#EXTINF:-1 group-title="📽️ Фильмовые",TV1000 Русское кино HD
-http://127.0.0.1:6878/ace/getstream?id=af4baf7f76a3057eeea815c90747860e9fec488a&.mp4
 #EXTINF:-1 group-title="📽️ Фильмовые",TV1000 World Kino
 http://127.0.0.1:6878/ace/getstream?id=f8d38c09a74612b9fabf0206cbd28bc11d6bc27d&.mp4
-#EXTINF:-1 group-title="📽️ Фильмовые",TV1000 Action HD
-http://127.0.0.1:6878/ace/getstream?id=05a7dd3bf60e16ed1674cb437e1e00084392285e&.mp4
-#EXTINF:-1 group-title="📽️ Фильмовые",TV1000 HD
-http://127.0.0.1:6878/ace/getstream?id=ae0d6d703ef80198263a1a868740cf059eac4e9e&.mp4
 #EXTINF:-1 group-title="📽️ Фильмовые",Paramount Channel HD
 http://127.0.0.1:6878/ace/getstream?id=a106bfefca51175ca4c7a73d7acfe78b7ece709e&.mp4
 #EXTINF:-1 group-title="📽️ Фильмовые",Hollywood HD
