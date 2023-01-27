@@ -575,65 +575,65 @@ http://127.0.0.1:6878/ace/getstream?id=0ef17cf868ef54b443dd41516803276779b76aac&
 #EXTINF:-1 group-title="🎵 Музыкальные",Мульти🎵 Музыкальные
 http://127.0.0.1:6878/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19&.mp4
 
-#EXTINF:-1 group-title="Радио",(Феодосия)
+#EXTINF:-1 group-title="📻 Радио",(Феодосия)
 http://webcam.feonet.net:8080/poleznoeradio/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Радио",1 [RU]
+#EXTINF:-1 group-title="📻 Радио",1 [RU]
 http://cdn.radio1.news:1935/rtvp/live/playlist.m3u8
-#EXTINF:-1 group-title="🎙 Радио",101.8 [Пенза]
+#EXTINF:-1 group-title="📻 Радио",101.8 [Пенза]
 http://video.penzainform.ru/e/r1018.m3u8
-#EXTINF:-1 group-title="🎙 Радио",Kids FM
+#EXTINF:-1 group-title="📻 Радио",Kids FM
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
-#EXTINF:-1 group-title="🎙 Радио",MCM [Иркутск]
+#EXTINF:-1 group-title="📻 Радио",MCM [Иркутск]
 http://tv.streams.baikal-telecom.net/MCM/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎙 Радио",Вести FM
+#EXTINF:-1 group-title="📻 Радио",Вести FM
 http://livehlsvgtrkrf.cdnvideo.ru/hls2/vesti_fm/playlist_6.m3u8
-#EXTINF:-1 group-title="🎙 Радио",Волгоград FM (Веб-камера)
+#EXTINF:-1 group-title="📻 Радио",Волгоград FM (Веб-камера)
 http://www.volgogradfm.ru/cam/hls/volgogradfm.m3u8
-#EXTINF:-1 group-title="🎙 Радио",Говорит Москва (Веб-камера)
+#EXTINF:-1 group-title="📻 Радио",Говорит Москва (Веб-камера)
 https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎙 Радио",Джем FM [ЕКБ]
+#EXTINF:-1 group-title="📻 Радио",Джем FM [ЕКБ]
 https://m.jamfm.ru/cam/hls/jam.m3u8
-#EXTINF:-1 group-title="🎙 Радио",За облаками (ВЕБ)
+#EXTINF:-1 group-title="📻 Радио",За облаками (ВЕБ)
 rtmp://195.88.63.114/live/cam
-#EXTINF:-1 group-title="🎙 Радио",Искатель (Казань)
+#EXTINF:-1 group-title="📻 Радио",Искатель (Казань)
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/TatTVR_Iskatel/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 group-title=group-title="Радио",Китап
 http://89.251.159.37:8080/hls/kitapfm.m3u8
-#EXTINF:-1 group-title="🎙 Радио",Красноярск FM
+#EXTINF:-1 group-title="📻 Радио",Красноярск FM
 https://krasnoyarskfm.ru/cam/hls/krasnoyarskfm.m3u8
-#EXTINF:-1 group-title="🎙 Радио",Крым (Веб-камера)
+#EXTINF:-1 group-title="📻 Радио",Крым (Веб-камера)
 https://cdn.1tvcrimea.ru/radio.m3u8
-#EXTINF:-1 group-title="🎙 Радио",Кунел
+#EXTINF:-1 group-title="📻 Радио",Кунел
 http://89.251.159.37:8080/hls/kunelfm.m3u8
-#EXTINF:-1 group-title="🎙 Радио",Лемма (Владивосток)
+#EXTINF:-1 group-title="📻 Радио",Лемма (Владивосток)
 https://livestream.8kanal.tv/hls/lemma_src.m3u8
-#EXTINF:-1 group-title="🎙 Радио",Макс FM [Сочи] (Веб-камера)
+#EXTINF:-1 group-title="📻 Радио",Макс FM [Сочи] (Веб-камера)
 http://serv30.vintera.tv:8081/sochi/maks_fm/playlist.m3u8
-#EXTINF:-1 group-title="🎙 Радио",Маяк (Веб-камера)
+#EXTINF:-1 group-title="📻 Радио",Маяк (Веб-камера)
 http://livehlsvgtrkrf.cdnvideo.ru/live/smil:mayak.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="🎙 Радио",Мир [BY]
+#EXTINF:-1 group-title="📻 Радио",Мир [BY]
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
-#EXTINF:-1 group-title="🎙 Радио",Москва FM
+#EXTINF:-1 group-title="📻 Радио",Москва FM
 http://livehlsvgtrkrf.cdnvideo.ru/live/givc9.smil/chunklist_b2600000.m3u8
-#EXTINF:-1 group-title="🎙 Радио",Пилот [ЕКБ]
+#EXTINF:-1 group-title="📻 Радио",Пилот [ЕКБ]
 http://pilotfm.ru:80/cam/hls/pilothd.m3u8
-#EXTINF:-1 group-title="🎙 Радио",Тартип
+#EXTINF:-1 group-title="📻 Радио",Тартип
 http://89.251.159.37:8080/hls/tartipfm.m3u8
-#EXTINF:-1 group-title="🎙 Радио",Трансмит (Череповец)
+#EXTINF:-1 group-title="📻 Радио",Трансмит (Череповец)
 https://live.35media.ru/transmit-video/1080/s.m3u8
-#EXTINF:-1 group-title="🎙 Радио",Рекорд (KG)
+#EXTINF:-1 group-title="📻 Радио",Рекорд (KG)
 rtmp://datatop.ts.kg/myapp/recordonline
-#EXTINF:-1 group-title="🎙 Радио",России
+#EXTINF:-1 group-title="📻 Радио",России
 http://livehlsvgtrkrf.cdnvideo.ru/hls/radio_rus/playlist_4.m3u8
-#EXTINF:-1 group-title="🎙 Радио",России (Уфа)
+#EXTINF:-1 group-title="📻 Радио",России (Уфа)
 rtmp://109.233.169.139:1935/rrb/rrb
-#EXTINF:-1 group-title="🎙 Радио",Спутник (Веб-камера)
+#EXTINF:-1 group-title="📻 Радио",Спутник (Веб-камера)
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
-#EXTINF:-1 group-title="🎙 Радио",Хит (Орск)
+#EXTINF:-1 group-title="📻 Радио",Хит (Орск)
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:-1 group-title="🎙 Радио",Центр FM [BY]
+#EXTINF:-1 group-title="📻 Радио",Центр FM [BY]
 https://stream1.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
-#EXTINF:-1 group-title="🎙 Радио",Шансон ТВ
+#EXTINF:-1 group-title="📻 Радио",Шансон ТВ
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 
 #EXTINF:-1 group-title="👶 Детские",Мультиландия
