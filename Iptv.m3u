@@ -496,10 +496,14 @@ https://hls.goodgame.ru/hls/153640.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Твоё ТВ
 http://84.38.180.145:8080/tvoetv/index.m3u8
 
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
+https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 http://194.143.148.28:8080/MatchHD/mpegts
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
 http://flu.ttk.mx:9090/Match_HD/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
+https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",tvg-id="match-priemer" tvg-logo="http://epg.it999.ru/img2/2736.png",Матч Премьер HD
 https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
@@ -637,7 +641,7 @@ http://127.0.0.1:6878/ace/getstream?id=755483260c00e095f825286bc8b3562966814022&
 http://127.0.0.1:6878/ace/getstream?id=0f777acf2def9b2c0ae254041796fbae5ba60501&.mp4
 #EXTINF:-1 group-title="🎵 Музыкальные",Рыжий
 http://127.0.0.1:6878/ace/getstream?id=0ef17cf868ef54b443dd41516803276779b76aac&.mp4
-#EXTINF:-1 group-title="🎵 Музыкальные",Мульти🎵 Музыкальные
+#EXTINF:-1 group-title="🎵 Музыкальные",Мульти Музыкальные
 http://127.0.0.1:6878/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19&.mp4
 
 #EXTINF:-1 group-title="📻 Радио",(Феодосия)
