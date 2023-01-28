@@ -44,16 +44,24 @@ http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
 http://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
 #EXTINF:-1 group-title="📺 Общие", МИР
 https://okkotv-live.cdnvideo.ru/channel/Mir_OTT/480p.m3u8
+#EXTINF:-1 group-title="📺 Общие",Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="📺 Общие", Спас
 https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8
 #EXTINF:-1 group-title="📺 Общие", ТВ3 HD
 https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
-#EXTINF:-1 group-title="📺 Общие", Россия 24
-https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8
 #EXTINF:-1 group-title="📺 Общие", Россия К
 https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
+#EXTINF:-1 group-title="📺 Общие", Россия 24
+https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8
+#EXTINF:-1 group-title="📺 Общие", Настоящее время
+https://rfe-ingest.akamaized.net/dash/live/2033030/tvmc05/manifest.mpd
+#EXTINF:-1 group-title="📺 Общие", Соловьёв Live
+https://livehlsvgtrkrf.cdnvideo.ru/hls/solovievlive/playlist_4.m3u8
 #EXTINF:-1 group-title="📺 Общие",Дождь
 http://127.0.0.1:6878/ace/getstream?id=4b91bbf01a5574583e7e4af5b258de3e454d83e4&.mp4
+#EXTINF:-1 group-title="📺 Общие",Оружие
+https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
 #EXTINF:-1 group-title="📺 Общие",ТНТ4 HD
 http://127.0.0.1:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
 #EXTINF:-1 group-title="📺 Общие",Суббота! HD
@@ -402,6 +410,8 @@ http://127.0.0.1:6878/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379&
 #EXTINF:-1 group-title="📽️ Фильмовые",Ultra HD Cinema
 http://127.0.0.1:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8&.mp4
 
+#EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
+http://194.143.148.28:8080/MatchHD/mpegts
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
 http://flu.ttk.mx:9090/Match_HD/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="⚽ Спортивные",tvg-id="match-priemer" tvg-logo="http://epg.it999.ru/img2/2736.png",Матч Премьер HD
