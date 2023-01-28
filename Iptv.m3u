@@ -502,8 +502,6 @@ https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 http://194.143.148.28:8080/MatchHD/mpegts
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
 http://flu.ttk.mx:9090/Match_HD/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
-https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",tvg-id="match-priemer" tvg-logo="http://epg.it999.ru/img2/2736.png",Матч Премьер HD
 https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
