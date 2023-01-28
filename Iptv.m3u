@@ -1,73 +1,111 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
 
-#EXTINF:-1 group-title="📺 Общие" tvg-logo="http://epg.it999.ru/img/983.png" ,Первый канал
+#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/983.png" ,Первый канал
 http://78.25.155.47:1309/channel/ORT_HD.ts
-#EXTINF:-1 group-title="📺 Общие" tvg-logo="http://epg.it999.ru/img/984.png" ,Россия HD
+#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/984.png" ,Россия HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
-#EXTINF:-1 group-title="📺 Общие" tvg-logo="http://epg.it999.ru/img/2001.png" ,НТВ HD
+#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/2001.png" ,НТВ HD
 http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 group-title="📺 Общие" tvg-logo="http://epg.it999.ru/img/2036.png" ,НТВ +2
+#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/2036.png" ,НТВ +2
 http://ntv-hls-orig.cdnvideo.ru/ntv2/index.m3u8
-#EXTINF:-1 group-title="📺 Общие" tvg-logo="http://epg.it999.ru/img/2964.png" ,НТВ +4
+#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/2964.png" ,НТВ +4
 http://ntv-hls-orig.cdnvideo.ru/ntv4/index.m3u8
-#EXTINF:-1 group-title="📺 Общие" tvg-logo="http://epg.it999.ru/img/3028.png" ,НТВ +7
+#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/3028.png" ,НТВ +7
 http://ntv-hls-orig.cdnvideo.ru/ntv7/index.m3u8
-#EXTINF:-1 group-title="📺 Общие" tvg-logo="http://epg.it999.ru/img/2041.png" ,НТВ Хит
+#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/2041.png" ,НТВ Хит
 http://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
-#EXTINF:-1 group-title="📺 Общие" tvg-logo="http://epg.it999.ru/img/1754.png" ,НТВ Сериал
+#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/1754.png" ,НТВ Сериал
 http://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
-#EXTINF:-1 group-title="📺 Общие" tvg-logo="http://epg.it999.ru/img/1753.png" ,НТВ Право
+#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/1753.png" ,НТВ Право
 http://ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8
-#EXTINF:-1 group-title="📺 Общие" tvg-logo="http://epg.it999.ru/img/1755.png" ,НТВ Стиль
+#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/1755.png" ,НТВ Стиль
 http://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
-#EXTINF:-1 group-title="📺 Общие", ТНТ HD
+#EXTINF:-1 group-title="📺 Эфирные", ТНТ HD
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
-#EXTINF:-1 group-title="📺 Общие" tvg-logo="http://epg.it999.ru/img/79.png" ,СТС HD
+#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/79.png" ,СТС HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
-#EXTINF:-1 group-title="📺 Общие", Пятница! HD
+#EXTINF:-1 group-title="📺 Эфирные", Пятница! HD
 https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
-#EXTINF:-1 group-title="📺 Общие", 360 Новости
-https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/1080p.m3u8
-#EXTINF:-1 group-title="📺 Общие", Звезда
+#EXTINF:-1 group-title="📺 Эфирные", Звезда
 https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8
-#EXTINF:-1 group-title="📺 Общие", Ю
+#EXTINF:-1 group-title="📺 Эфирные", Ю
 https://okkotv-live.cdnvideo.ru/channel/Yu_OTT/480p.m3u8
-#EXTINF:-1 group-title="📺 Общие" tvg-logo="http://epg.it999.ru/img/1598.png" ,Че
+#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/1598.png" ,Че
 http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
-#EXTINF:-1 group-title="📺 Общие" tvg-logo="http://epg.it999.ru/img/2271.png" ,Известия HD
+#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/2271.png" ,Известия HD
 https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8
-#EXTINF:-1 group-title="📺 Общие", Домашний HD
+#EXTINF:-1 group-title="📺 Эфирные", Домашний HD
 http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
-#EXTINF:-1 group-title="📺 Общие", Пятый канал
+#EXTINF:-1 group-title="📺 Эфирные", Пятый канал
 http://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
-#EXTINF:-1 group-title="📺 Общие", МИР
+#EXTINF:-1 group-title="📺 Эфирные", МИР
 https://okkotv-live.cdnvideo.ru/channel/Mir_OTT/480p.m3u8
-#EXTINF:-1 group-title="📺 Общие",Союз
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 group-title="📺 Общие", Спас
 https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8
-#EXTINF:-1 group-title="📺 Общие", ТВ3 HD
+#EXTINF:-1 group-title="📺 Эфирные", ТВ3 HD
 https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
-#EXTINF:-1 group-title="📺 Общие", Россия К
+#EXTINF:-1 group-title="📺 Эфирные", Россия К
 https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
-#EXTINF:-1 group-title="📺 Общие", Россия 24
-https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8
-#EXTINF:-1 group-title="📺 Общие", Настоящее время
-https://rfe-ingest.akamaized.net/dash/live/2033030/tvmc05/manifest.mpd
-#EXTINF:-1 group-title="📺 Общие", Соловьёв Live
-https://livehlsvgtrkrf.cdnvideo.ru/hls/solovievlive/playlist_4.m3u8
-#EXTINF:-1 group-title="📺 Общие",Дождь
-http://127.0.0.1:6878/ace/getstream?id=4b91bbf01a5574583e7e4af5b258de3e454d83e4&.mp4
-#EXTINF:-1 group-title="📺 Общие",Оружие
+#EXTINF:-1 group-title="📺 Эфирные",Оружие
 https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
-#EXTINF:-1 group-title="📺 Общие",ТНТ4 HD
+#EXTINF:-1 group-title="📺 Эфирные",ТНТ4 HD
 http://127.0.0.1:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
-#EXTINF:-1 group-title="📺 Общие",Суббота! HD
+#EXTINF:-1 group-title="📺 Эфирные",Суббота! HD
 http://127.0.0.1:6878/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69&.mp4
-#EXTINF:-1 group-title="📺 Общие",СТС Love
+#EXTINF:-1 group-title="📺 Эфирные",СТС Love
 http://127.0.0.1:6878/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d&.mp4
-#EXTINF:-1 group-title="📺 Общие",СТС Kids HD
+#EXTINF:-1 group-title="📺 Эфирные",СТС Kids HD
 http://127.0.0.1:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&.mp4
+
+#EXTINF:-1 tvg-id="dozhd" group-title="📰 Новости",Дождь
+http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="📰 Новости",РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="📰 Новости",CGTN-Русский
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 tvg-id="ldpr-tv" group-title="📰 Новости",ЛДПР ТВ
+https://stream01.fishka.ws:443/ldpr/index.m3u8
+#EXTINF:-1 group-title="📰 Новости",Беларусь 24
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/c1/%D0%A6%D0%B0%D1%80%D1%8C%D0%B3%D1%80%D0%B0%D0%B4_%282017%2C_%D0%B1%D0%B5%D0%B7_%D0%BD%D0%B0%D0%B4%D0%BF%D0%B8%D1%81%D0%B8%29.svg/revision/latest/scale-to-width-down/220?cb=20170313153415&path-prefix=ru" group-title="📰 Новости",Царьград
+https://live-new.kinescopecdn.net:443/on-air/182276a1-1f52-4754-9fa6-f05292ccc160/093a575b-34ee-4c17-b665-5eb63d74c4be/1080p/media.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/hdr/323/963/4.jpg" group-title="📰 Новости",Соловьев Live HD
+http://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338&ext=.m3u8
+#EXTINF:-1 group-title="📰 Новости",Настоящее время HD
+https://rfe-ingest.akamaized.net/dash/live/2033030/tvmc05/manifest.mpd
+#EXTINF:-1 tvg-id="ua-tv" group-title="📰 Новости",FreeДОМ
+http://176.74.80.162:8099/UA/index.m3u8
+#EXTINF:-1 tvg-id="bbc" group-title="📰 Новости",BBC World News
+http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/BBC_WORLD_NEWS/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
+#EXTINF:-1 tvg-id="rtd-ru" group-title="📰 Новости",RT Д HD
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+#EXTINF:-1 tvg-id="rt-doc" group-title="📰 Новости",RT Doc
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="360-news" group-title="📰 Новости",360 📰 Новости
+https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/1080p.m3u8
+#EXTINF:-1 group-title="📰 Новости",Известия HD
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8
+#EXTINF:-1 tvg-id="euronews-en" group-title="📰 Новости",Euronews EN
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="📰 Новости",Евро📰 Новости
+http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="📰 Новости",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="📰 Новости",Кубань 24
+http://origin5.mediacdn.ru/live/cuban24/playlist.m3u8
+#EXTINF:-1 tvg-id="vmeste-rf" group-title="📰 Новости",Вместе-РФ
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="krik-tv" group-title="📰 Новости",Крик-ТВ
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://periscope-app.ru/netcat_files/393/606/moskva_24.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📰 Новости",Москва 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8
+#EXTINF:-1 tvg-id="moskva-24" tvg-logo="http://periscope-app.ru/netcat_files/393/606/moskva_24.jpg" group-title="📰 Новости",Москва 24 HD
+http://5.254.16.186/Moskva24/index.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📰 Новости",Россия 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" group-title="📰 Новости",Россия 24 HD
+http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc18/playlist_6.m3u8
 
 #EXTINF:-1 group-title="Познавательные" ,Galaxy
 http://flu.ttk.mx:9090/Galaxy/index.m3u8?token=orh6o
@@ -406,6 +444,64 @@ http://127.0.0.1:6878/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379&
 #EXTINF:-1 group-title="📽️ Фильмовые",Ultra HD Cinema
 http://127.0.0.1:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8&.mp4
 
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Akudji TV
+#EXTVLCOPT:http-user-agent=MrDeniZ
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Cinema Classic
+https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",FILM TV HD
+#EXTVLCOPT:http-user-agent=MrDeniZ
+https://hls.goodgame.ru/hls/163253.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Kino.Watch Доку HD
+https://edge-01.kino.watch/docu/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Kino.Watch Свежаки HD
+https://edge-01.kino.watch/fresh/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Kino.Watch Ужастик HD
+https://edge-01.kino.watch/horror/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Kino.Watch Уже видел HD
+https://edge-01.kino.watch/hit/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",MediaService Lorenz TV
+http://84.38.180.145:8080/Uhierjfk/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Millennium TV
+http://mmg.ooo/live/ngrp:tv.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",PZN Streams
+#EXTVLCOPT:http-user-agent=MrDeniZ
+https://hls.goodgame.ru/hls/180960.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",STR TV
+#EXTVLCOPT:http-user-agent=MrDeniZ
+https://hls.goodgame.ru/hls/185110.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",SCR TV HD
+#EXTVLCOPT:http-user-agent=MrDeniZ
+https://hls.goodgame.ru/hls/61358.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",TDM777 FMC
+#EXTVLCOPT:http-user-agent=MrDeniZ
+https://hls.goodgame.ru/hls/187741.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",TDM777 Series TV
+#EXTVLCOPT:http-user-agent=MrDeniZ
+https://hls.goodgame.ru/hls/186021.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",VKTV HD
+#EXTVLCOPT:http-user-agent=MrDeniZ
+https://hls.goodgame.ru/hls/173945.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Видеокассета VHS
+https://autopilot.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Память
+https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Кинозал! Ужас
+#EXTVLCOPT:http-user-agent=MrDeniZ
+https://hls.goodgame.ru/hls/193665.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Ужастик
+https://autopilot.catcast.tv/content/38896/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Фантастика
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Фантастика HD
+#EXTVLCOPT:http-user-agent=MrDeniZ
+https://hls.goodgame.ru/hls/187241.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Кинозал! Хит
+#EXTVLCOPT:http-user-agent=MrDeniZ
+https://hls.goodgame.ru/hls/153640.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Твоё ТВ
+http://84.38.180.145:8080/tvoetv/index.m3u8
+
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 http://194.143.148.28:8080/MatchHD/mpegts
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
@@ -610,6 +706,17 @@ http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 https://stream1.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
 #EXTINF:-1 group-title="📻 Радио",Шансон ТВ
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/1s.png" tvg-name="Союз" group-title="⛪ Религиозные",Союз
+http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/2s.png" tvg-name="Спас ТВ" group-title="⛪ Религиозные",Спас
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tri-angela" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/3ABN-Rusia-en-directo-Online.png" group-title="⛪ Религиозные",Три Ангела
+http://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/3r.png" tvg-name="Радость_Моя" group-title="⛪ Религиозные",Радость Моя
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/5m.png" tvg-name="МузСоюз" group-title="⛪ Религиозные",Муз Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 
 #EXTINF:-1 group-title="👶 Детские",Мультиландия
 http://127.0.0.1:6878/ace/getstream?id=78f1672c711f67c5588ecc96580f7524c0fb87fb&.mp4
@@ -959,233 +1066,316 @@ https://mults.info/mp4/meteor_na_ringe.mp4
 #EXTINF:-1 group-title="Мультики",Мешок яблок
 https://mults.info/mp4/meshok_yablok.mp4
 
-#EXTINF:-1 group-title="➕ Федеральные",Первый канал (+1)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Первый канал (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Первый канал (+3)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Первый канал (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Первый канал (+6)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Первый канал (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Первый канал (+8)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Первый канал (+9)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Россия 1 (+1)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Россия 1 (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Россия 1 (+3)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Россия 1 (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Россия 1 (+6)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Россия 1 (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Россия 1 (+8)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Россия 1 (+9)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Россия К (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Россия К (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Россия К (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",НТВ (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",НТВ (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",НТВ (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Пятый канал (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Пятый канал (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Пятый канал (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",РЕН ТВ (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",РЕН ТВ (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",РЕН ТВ (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",СТС (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",СТС (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",СТС (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",СТС Love (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",СТС Love (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",ТНТ (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",ТНТ (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",ТНТ (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",ТНТ4 (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",ТНТ4 (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",ТНТ4 (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",ТВ 3 (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",ТВ 3 (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",ТВ 3 (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Домашний (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Домашний (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Домашний (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",ТВ Центр (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",ТВ Центр (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",ТВ Центр (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Супер (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Супер (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Супер (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Пятница! (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Пятница! (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Пятница! (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Че! (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Че! (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Че! (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Ю (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Ю (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Ю (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",2x2 (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",2x2 (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",2x2 (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Канал Disney (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Канал Disney (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Карусель (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Карусель (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Карусель (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Звезда (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Звезда (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Звезда (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Мир (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Мир (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Мир (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Муз ТВ (+2)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Муз ТВ (+4)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8?version=2
-#EXTINF:-1 group-title="➕ Федеральные",Муз ТВ (+7)
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="kaskad24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Каскад-24
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://teleon.tv/images/logos/telekanal_2x2_ru.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",2x2 (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://teleon.tv/images/logos/telekanal_2x2_ru.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",2x2 (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://teleon.tv/images/logos/telekanal_2x2_ru.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",2x2 (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/014_domashniy_1.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Домашний (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/014_domashniy_1.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Домашний (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/014_domashniy_1.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Домашний (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Звезда (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Звезда (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/zvezda_telekanal2.jpeg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Звезда (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/822.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Карусель (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/822.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Карусель (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/822.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Карусель (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Мир (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Мир (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Мир (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/1313.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Муз ТВ (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/1313.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Муз ТВ (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://only4.tv/ch/1313.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Муз ТВ (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",НТВ (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",НТВ (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/ntv.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",НТВ (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Первый канал (+1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Первый канал (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Первый канал (+3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Первый канал (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Первый канал (+6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Первый канал (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Первый канал (+8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Первый канал (+9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BF%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Пятница (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BF%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Пятница (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://kct.me/static/media/images/ktv/%D0%BF%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Пятница (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Пятый канал (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Пятый канал (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/5_channel.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Пятый канал (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/ren-logo.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Рен ТВ (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/ren-logo.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Рен ТВ (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/ren-logo.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Рен ТВ (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Россия 1 (+1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Россия 1 (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Россия 1 (+3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Россия 1 (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Россия 1 (+6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Россия 1 (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_1.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Россия 1 (+8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Россия К (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Россия К (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Россия К (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",СТС (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",СТС (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/ctc_logo-01.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",СТС (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/sts2_love.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",СТС Love (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://kusa.k-itv.ru/wp-content/uploads/2016/08/sts2_love.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",СТС Love (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/super_s.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Супер (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/super_s.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Супер (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/super_s.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Супер (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://nv.tvstroka.com/images/tvc.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",ТВ Центр (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://nv.tvstroka.com/images/tvc.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",ТВ Центр (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://nv.tvstroka.com/images/tvc.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",ТВ Центр (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/logo-tnt_s.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",ТНТ (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/logo-tnt_s.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",ТНТ (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/logo-tnt_s.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",ТНТ (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/tht4.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",ТНТ4 (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/tht4.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",ТНТ4 (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/tht4.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",ТНТ4 (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/che_s.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Че (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/che_s.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Че (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/che_s.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Че (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/027_u.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Ю (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/027_u.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Ю (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="http://www.oreol.tv/img/027_u.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Ю (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg" group-title="🔞 Взрослые",Шёлк
+http://live-1.otcnet.ru/shelkhdmts/index.m3u8
+#EXTINF:-1 tvg-id="extasy4k" group-title="🔞 Взрослые",Extasy 4K
+http://195.181.168.196:2222/playboy/index.m3u8
+#EXTINF:-1 tvg-id="playboy-tv-uk" group-title="🔞 Взрослые",Playboy UK
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="playboy-tv" group-title="🔞 Взрослые",Playboy
+http://93.125.29.22:8901/playboy-tv
+#EXTINF:-1 tvg-id="o-la-la" group-title="🔞 Взрослые",O-la-la
+http://93.125.29.22:8787/Olala
+#EXTINF:-1 tvg-id="babes-tv" group-title="🔞 Взрослые",Babes TV
+http://85.11.144.9:4222/BabesTVHD?token=test
+#EXTINF:-1 tvg-id="passionxxx" group-title="🔞 Взрослые",PassionXXX
+http://85.11.144.9:4222/PassionXXX?token=test
+#EXTINF:-1 tvg-id="penthouse-gold" group-title="🔞 Взрослые",Penthouse Gold
+http://85.11.144.9:4222/PenthouseGold?token=test
+#EXTINF:-1 tvg-id="private-tv" group-title="🔞 Взрослые",Private TV
+http://85.11.144.9:4222/Private?token=test
+#EXTINF:-1 tvg-logo="https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg" group-title="🔞 Взрослые",XY Max
+http://85.11.144.9:4222/XYMAXHD?token=test
+#EXTINF:-1 tvg-logo="https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg" group-title="🔞 Взрослые",KALOOPY
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2115
+#EXTINF:-1 tvg-logo="https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg" group-title="🔞 Взрослые",Miami TV
+http://59ec5453559f0.streamlock.net:1935/Miamitv/smil:WEB/chuklist.m3u8
+#EXTINF:-1 tvg-logo="https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg" group-title="🔞 Взрослые",Babestation
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+#EXTINF:-1 tvg-logo="https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg" group-title="🔞 Взрослые",Eropuls DE 18+
+https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+#EXTINF:-1 tvg-logo="https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg" group-title="🔞 Взрослые",Shemale Tube TV HD (18+)
+https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF:-1 tvg-logo="https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg" group-title="🔞 Взрослые",Shemale Tube TV 2 HD (18+)
+https://www.ast.tv/stream/2/ultra.m3u8
+#EXTINF:-1 tvg-logo="https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg" group-title="🔞 Взрослые",XXX Cartoon
+http://144.76.58.245:2307/cartoon/index.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",🔹🔹👇🔹🔹ADULT IPTV🔹🔹👇🔹🔹
+http://online.radiorelax.ua/RadioRelax_Christmas_HD
+#EXTINF:-1 group-title="🔞 Взрослые",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Bigass HD
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Cuckold HD
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Fetish HD
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Hard Core
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Interracial HD
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Latina HD 720
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Lesbian HD
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Milf HD
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",Pornstar HD
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title="🔞 Взрослые",POV HD 720
+http://live.redtraffic.xyz/pov.m3u8
