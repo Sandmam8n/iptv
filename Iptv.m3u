@@ -6,7 +6,6 @@ http://78.25.155.47:1309/channel/ORT_HD.ts
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/2001.png" ,НТВ HD
 http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
-http://ntv-hls-orig.cdnvideo.ru/ntv7/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/2041.png" ,НТВ Хит
 http://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/1754.png" ,НТВ Сериал
