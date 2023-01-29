@@ -20,24 +20,23 @@ https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 #EXTINF:-1 group-title="📺 Эфирные", Пятница! HD
 https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
-#EXTINF:-1 group-title="📺 Эфирные", Звезда
-https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD/480p.m3u8
-#EXTINF:-1 group-title="📺 Эфирные", Ю
-https://okkotv-live.cdnvideo.ru/channel/Yu_OTT/480p.m3u8
+#EXTINF:-1 tvg-id="zvezda" group-title="📺 Эфирные",Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="yu" tvg-logo="http://www.oreol.tv/img/027_u.jpg" group-title="📺 Эфирные",Ю ТВ
+https://strm.yandex.ru/kal/utv/utv0.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/1598.png" ,Че
 http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
-#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/2271.png" ,Известия HD
-https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8
+#EXTINF:-1 tvg-id="perec-int" group-title="📺 Эфирные",Перец
+http://iptvmedia.live:8080/stadnik/8f064f8602/283062
 #EXTINF:-1 group-title="📺 Эфирные", Домашний HD
 http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
-#EXTINF:-1 group-title="📺 Эфирные", Пятый канал
-http://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
-#EXTINF:-1 group-title="📺 Эфирные", МИР
-https://okkotv-live.cdnvideo.ru/channel/Mir_OTT/480p.m3u8
-https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8
+#EXTINF:-1 tvg-id="5kanal-ru" group-title="📺 Эфирные",Пятый канал HD
+https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
+#EXTINF:-1 tvg-id="mir" group-title="📺 Эфирные",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="📺 Эфирные", ТВ3 HD
 https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
-#EXTINF:-1 group-title="📺 Эфирные", Россия К
+#EXTINF:-1 tvg-id="kultura" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" group-title="📺 Эфирные",Россия К HD
 https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Оружие
 https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
@@ -49,6 +48,16 @@ http://127.0.0.1:6878/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69&
 http://127.0.0.1:6878/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",СТС Kids HD
 http://127.0.0.1:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&.mp4
+#EXTINF:-1 tvg-id="gags-network" group-title="📺 Эфирные",Gags Network HD
+http://89.223.46.189:8080/raz-tv/index.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",КВН ТВ
+http://146.158.0.56:80/KVN/index.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Телекафе
+http://31.148.48.15:80/Telekafe/index.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Анекдот ТВ
+https://livetv.mylifeisgood.ml/channels/anekdot.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Luxury HD
+http://nano.teleservice.su:8080/hls/luxury.m3u8
 
 #EXTINF:-1 tvg-id="dozhd" group-title="📰 Новости",Дождь
 http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
@@ -101,8 +110,14 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" group-title="📰 Новости",Россия 24 HD
 http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc18/playlist_6.m3u8
 
-#EXTINF:-1 group-title="Познавательные" ,Galaxy
+#EXTINF:-1 group-title="🌏 Познавательные" ,Galaxy
 http://flu.ttk.mx:9090/Galaxy/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-id="morskoy" group-title="🌏 Познавательные",Моя стихия HD
+http://79.141.211.254:8000/Morskoy
+#EXTINF:-1 group-title="🌏 Познавательные",HDL
+http://91.207.180.142:80/HDL/index.m3u8
+#EXTINF:-1 tvg-id="travel-xp-hd" group-title="🌏 Познавательные",Travel XP HD
+http://95.217.196.109:8081/russia/discovery_sd_new/playlist.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat Nature/History HD
 http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat Nature HD
