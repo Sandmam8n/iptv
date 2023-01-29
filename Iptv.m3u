@@ -239,7 +239,7 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
 #EXTINF:-1 group-title="📽️ Фильмовые,TV1000 Русское кино HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые", Star Family HD
+#EXTINF:-1 group-title="📽️ Фильмовые",tvg-logo="https://assets.iptv2022.com/static/channel/14456/logo_256_1657869452.png", Star Family HD
 https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
 #EXTINF:-1 group-title="📽️ Фильмовые" tvg-logo="http://epg.it999.ru/img/1371.png" ,Amedia 1
 http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
