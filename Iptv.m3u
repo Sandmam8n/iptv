@@ -110,6 +110,16 @@ http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc18/playlist_6.m3u8
 
 #EXTINF:-1 group-title="🌏 Познавательные",Galaxy
 https://flu.ttk.mx/Galaxy/index.m3u8?token=orh6o
+#EXTINF:-1 group-title="🌏 Познавательные",Investigation Discovery HD
+http://91.146.94.234:10001/play/a045
+#EXTINF:-1 group-title="🌏 Познавательные",Discovery Central Europe HD
+http://91.146.94.234:10001/play/a041
+#EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
+http://91.146.94.234:10001/play/a03q
+#EXTINF:-1 group-title="🌏 Познавательные",Discovery Channel HD
+https://livetv.mylifeisgood.ml/channels/discovery.m3u8
+#EXTINF:-1 group-title="🌏 Познавательные",TLC HD
+http://91.146.94.234:10001/play/a04e
 #EXTINF:-1 tvg-id="morskoy" group-title="🌏 Познавательные",Моя стихия HD
 http://79.141.211.254:8000/Morskoy
 #EXTINF:-1 tvg-id="travel-xp-hd" group-title="🌏 Познавательные",Travel XP HD
@@ -136,14 +146,8 @@ http://127.0.0.1:6878/ace/getstream?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613&
 http://127.0.0.1:6878/ace/getstream?id=65707378011c08c27dca1f0162d545f369756c5f&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",DTX HD
 http://127.0.0.1:6878/ace/getstream?id=b2c8dfc5ec5fdfb098ae4285335ee465f0b63885&.mp4
-#EXTINF:0 group-title="🌏 Познавательные" tvg-id="2507" tvg-logo="http://epg.it999.ru/img/2507.png" tvg-rec="3",Investigation Discovery HD
-https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
 http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
-#EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
-https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",Discovery Channel HD
-https://livetv.mylifeisgood.ml/channels/discovery.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Дикая рыбалка HD
 http://127.0.0.1:6878/ace/getstream?id=b85a8f5825dc7fca3e8046af445bb776541b8bd0&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Дикая охота HD
@@ -510,6 +514,8 @@ https://hls.goodgame.ru/hls/153640.m3u8
 http://84.38.180.145:8080/tvoetv/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
+http://31.210.208.167:80/match_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 http://194.143.148.28:8080/MatchHD/mpegts
@@ -517,6 +523,22 @@ http://194.143.148.28:8080/MatchHD/mpegts
 http://flu.ttk.mx:9090/Match_HD/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="⚽ Спортивные",tvg-id="match-priemer" tvg-logo="http://epg.it999.ru/img2/2736.png",Матч Премьер HD
 https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
+http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIzIDEwOjAxOjUzIEFNJmhhc2hfdmFsdWU9bVJqaW03NW9oR0dyK3J4TkFuWGppdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 2 HD
+http://95.181.17.26/7nvenc/NTVplusfut2HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIzIDEwOjAxOjUzIEFNJmhhc2hfdmFsdWU9bVJqaW03NW9oR0dyK3J4TkFuWGppdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 3 HD
+http://95.181.17.14/7nvenc/NTVplusfut3HD/71/fhd/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIzIDEwOjAxOjUzIEFNJmhhc2hfdmFsdWU9bVJqaW03NW9oR0dyK3J4TkFuWGppdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1 group-title="⚽ Спортивные",Матч Премьер HD
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIzIDEwOjAxOjUzIEFNJmhhc2hfdmFsdWU9bVJqaW03NW9oR0dyK3J4TkFuWGppdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Игра HD
+http://95.181.17.14/7nvenc/sport2HD/71/fhd/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIzIDEwOjAxOjUzIEFNJmhhc2hfdmFsdWU9bVJqaW03NW9oR0dyK3J4TkFuWGppdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Арена HD
+http://95.181.17.6/7nvenc/sport1HD/71/fhd/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDIzIDEwOjAxOjUzIEFNJmhhc2hfdmFsdWU9bVJqaW03NW9oR0dyK3J4TkFuWGppdz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="⚽ Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2022/04/18/300288/300288822.png",MMA-TV.COM
+http://api.peers.tv/timeshift/mma_tv_com/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2NzUwMjI0ODMsImlhdCI6MTY3NDkzNjA4MywiY2lkIjo2LCJ1aWQiOjU1NjY1OTIwOCwicmVnIjpmYWxzZSwiaXAiOjg2MDY5ODA1Nn0.1M65B0hUYNmNMJLB7l-dvBNPDRBpARCQePmsZLa2VGo&offset=10
+#EXTINF:-1 group-title="⚽ Спортивные",ФУТБОЛ HD
+http://31.210.208.167:80/football/index.m3u8?token=test
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
