@@ -114,8 +114,6 @@ http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc18/playlist_6.m3u8
 http://flu.ttk.mx:9090/Galaxy/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="morskoy" group-title="🌏 Познавательные",Моя стихия HD
 http://79.141.211.254:8000/Morskoy
-#EXTINF:-1 group-title="🌏 Познавательные",HDL
-http://91.207.180.142:80/HDL/index.m3u8
 #EXTINF:-1 tvg-id="travel-xp-hd" group-title="🌏 Познавательные",Travel XP HD
 http://95.217.196.109:8081/russia/discovery_sd_new/playlist.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat Nature/History HD
