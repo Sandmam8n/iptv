@@ -538,6 +538,7 @@ http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Арена HD
 http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&.mp4
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="⚽ Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2022/04/18/300288/300288822.png",MMA-TV.COM
+http://api.peers.tv/timeshift/mma_tv_com/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2NzUwMjI0ODMsImlhdCI6MTY3NDkzNjA4MywiY2lkIjo2LCJ1aWQiOjU1NjY1OTIwOCwicmVnIjpmYWxzZSwiaXAiOjg2MDY5ODA1Nn0.1M65B0hUYNmNMJLB7l-dvBNPDRBpARCQePmsZLa2VGo&offset=10
 #EXTINF:-1 group-title="⚽ Спортивные",UFC HD
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Боец
@@ -570,7 +571,7 @@ http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&
 http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Старт
 http://127.0.0.1:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Спортивныеивный
+#EXTINF:-1 group-title="⚽ Спортивные",Спортивный
 http://127.0.0.1:6878/ace/getstream?id=8410d89a5767b250cd752381672aeb5fbe2240d3&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Мир Баскетбола
 http://127.0.0.1:6878/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570&.mp4
