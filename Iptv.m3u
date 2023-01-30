@@ -110,8 +110,8 @@ http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc18/playlist_6.m3u8
 
 #EXTINF:-1 group-title="🌏 Познавательные",Galaxy
 https://flu.ttk.mx/Galaxy/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="🌏 Познавательные" tvg-rec="7" timeshift="7",Investigation Discovery
-http://myott.top/stream/CUJ4ZVUK9V/205.m3u8
+#EXTINF:0 group-title="🌏 Познавательные" tvg-id="2507" tvg-logo="http://epg.it999.ru/img/2507.png" tvg-rec="3",Investigation Discovery HD orig
+http://he11o.akadatel.com/iptv/CXQM2GTQN3TE39/9054/index.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные" tvg-id="2507" tvg-logo="http://epg.it999.ru/img/2507.png" tvg-rec="3",Investigation Discovery HD
 https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
