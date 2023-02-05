@@ -468,31 +468,7 @@ http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/17035/index.m3u8
 #EXTINF:0 tvg-rec="7",TV 1000 Русское кино
 #EXTGRP:🎬 Кинозал
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/101/index.m3u8
-#EXTINF:0 tvg-rec="0",beIN Drama QA
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6137/index.m3u8
-#EXTINF:0 tvg-rec="3",FOX COMEDY PL
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6107/index.m3u8
-#EXTINF:0 tvg-rec="3",CINEMAXX MORE MAXX US
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6152/index.m3u8
-#EXTINF:0 tvg-rec="3",CINEMAX OUTER MAX US
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6154/index.m3u8
-#EXTINF:0 tvg-rec="3",CINEMAX MOVIEMAX US
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6155/index.m3u8
-#EXTINF:0 tvg-rec="3",CINEMAX ACTION MAX EAST US
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6156/index.m3u8
-#EXTINF:0 tvg-rec="3",Canal+ Series FR
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6008/index.m3u8
-#EXTINF:0 tvg-rec="7",Ностальгия
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/102/index.m3u8
-#EXTINF:0 tvg-rec="7",СТС Love
+
 #EXTGRP:🎬 Кинозал
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/103/index.m3u8
 #EXTINF:0 tvg-rec="7",.sci-fi
@@ -645,75 +621,6 @@ http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/2121/index.m3u8
 #EXTINF:0 tvg-rec="3",Cinéma
 #EXTGRP:🎬 Кинозал
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5051/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Select UK
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/2474/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Cinema Action HD DE
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/2482/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Cinema Comedy DE
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/2483/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Cinema HD DE
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/2484/index.m3u8
-#EXTINF:0 tvg-rec="3",Disney Cinemagic HD DE
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/2485/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Atlantic HD DE
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/2488/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Cinema Family HD DE
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/2489/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Cinema Nostalgie DE
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/2490/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Krimi DE
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/2491/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Cinema Comic-Helden DE
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/2493/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Arts HD DE
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/2494/index.m3u8
-#EXTINF:0 tvg-rec="3",Spiegel Geschichte HD DE
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/2566/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Hits HD DE
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/2486/index.m3u8
-#EXTINF:0 tvg-rec="3",TNT Film HD DE
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6110/index.m3u8
-#EXTINF:0 tvg-rec="3",Мосфильм. Золотая коллекция
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6392/index.m3u8
-#EXTINF:0 tvg-rec="3",Trash HD
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/6396/index.m3u8
-#EXTINF:0 tvg-rec="3",Movistar Accion ES
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7065/index.m3u8
-#EXTINF:0 tvg-rec="3",Movistar Comedia ES
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7066/index.m3u8
-#EXTINF:0 tvg-rec="3",Movistar Drama ES
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7067/index.m3u8
-#EXTINF:0 tvg-rec="0",Премиальное HD
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7222/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Cinema Thriller HD DE
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7229/index.m3u8
-#EXTINF:0 tvg-rec="0",RTL Passion HD DE
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7230/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky Romance TV FHD DE
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7231/index.m3u8
 #EXTINF:0 tvg-rec="0",Киносемья HD
 #EXTGRP:🎬 Кинозал
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7244/index.m3u8
@@ -738,12 +645,6 @@ http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7260/index.m3u8
 #EXTINF:0 tvg-rec="0",Киноджем 2 HD
 #EXTGRP:🎬 Кинозал
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7261/index.m3u8
-#EXTINF:0 tvg-rec="0",TVP Seriale PL
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7281/index.m3u8
-#EXTINF:0 tvg-rec="0",Kino Polska PL
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7291/index.m3u8
 #EXTINF:0 tvg-rec="0",Мосфильм. Золотая коллекция HD
 #EXTGRP:🎬 Кинозал
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7347/index.m3u8
