@@ -116,6 +116,8 @@ https://livetv.mylifeisgood.ml/channels/discovery.m3u8
 https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
 https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
+#EXTINF:-1 group-title="🌏 Познавательные",TLC HD
+http://185.32.44.154/tlc/index.m3u8
 #EXTINF:-1 tvg-id="morskoy" group-title="🌏 Познавательные",Моя стихия HD
 http://79.141.211.254:8000/Morskoy
 #EXTINF:-1 tvg-id="travel-xp-hd" group-title="🌏 Познавательные",Travel XP HD
