@@ -113,7 +113,7 @@ https://flu.ttk.mx/Galaxy/index.m3u8?token=orh6o
 #EXTINF:-1 tvg-id="discovery-channel" group-title="🌏 Познавательные",Discovery Channel HD
 https://livetv.mylifeisgood.ml/channels/discovery.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Investigation Discovery HD
-http://91.146.94.234:10001/play/a045
+https://livetv.mylifeisgood.ml/channels/discoveryxtra.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
 https://livetv.mylifeisgood.ml/channels/discoveryscience.m3u8
 #EXTINF:-1 tvg-id="morskoy" group-title="🌏 Познавательные",Моя стихия HD
