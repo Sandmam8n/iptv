@@ -108,15 +108,16 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" group-title="📰 Новости",Россия 24 HD
 http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc18/playlist_6.m3u8
 
-#EXTINF:0,Discovery Channel HD
-#EXTGRP:🌏 Познавательные
-http://nl01.spr24.net/267/mpegts?token=uUVbSpF8Wv26Ux
-#EXTINF:0,Discovery Science HD
-#EXTGRP:🌏 Познавательные
-http://nl01.spr24.net/303/mpegts?token=uUVbSpF8Wv26Ux
-#EXTINF:0,Investigation Discovery HD
-#EXTGRP:🌏 Познавательные
-http://nl01.spr24.net/149/mpegts?token=uUVbSpF8Wv26Ux
+#EXTINF:-1 group-title="🌏 Познавательные",Investigation Discovery
+http://kyrohowu.akciatv.ru/iptv/ZX5HU6HZ8XCFT5/2085/index.m3u8
+#EXTINF:-1 group-title="🌏 Познавательные",ID Xtra HD
+http://kyrohowu.akciatv.ru/iptv/ZX5HU6HZ8XCFT5/2102/index.m3u8
+#EXTINF:-1 group-title="🌏 Познавательные",Insight UHD 4K
+http://kyrohowu.akciatv.ru/iptv/ZX5HU6HZ8XCFT5/5000/index.m3u8
+#EXTINF:-1 group-title="🌏 Познавательные",Discovery Channel
+http://45.11.139.43:8081/stream/discchanel/hls/playlist.m3u8
+#EXTINF:-1 group-title="🌏 Познавательные",Discovery Science
+http://kyrohowu.akciatv.ru/iptv/ZX5HU6HZ8XCFT5/136/index.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Galaxy
 https://flu.ttk.mx/Galaxy/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="🌏 Познавательные",TLC HD
@@ -529,6 +530,10 @@ http://flu.ttk.mx:9090/Match_HD/index.m3u8?token=orh6o
 https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",ФУТБОЛ HD
 http://31.210.208.167:80/football/index.m3u8?token=test
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! FHD
+http://kyrohowu.akciatv.ru/iptv/ZX5HU6HZ8XCFT5/2413/index.m3u8
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер FHD
+http://kyrohowu.akciatv.ru/iptv/ZX5HU6HZ8XCFT5/2414/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
