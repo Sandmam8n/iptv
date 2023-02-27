@@ -114,10 +114,16 @@ http://kyrohowu.akciatv.ru/iptv/ZX5HU6HZ8XCFT5/2085/index.m3u8
 http://kyrohowu.akciatv.ru/iptv/ZX5HU6HZ8XCFT5/2102/index.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Insight UHD 4K
 http://kyrohowu.akciatv.ru/iptv/ZX5HU6HZ8XCFT5/5000/index.m3u8
+#EXTINF:0 tvg-rec="7",Discovery Channel HD
+#EXTGRP:🌏 Познавательные
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/227/index.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Channel
 http://45.11.139.43:8081/stream/discchanel/hls/playlist.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science
 http://kyrohowu.akciatv.ru/iptv/ZX5HU6HZ8XCFT5/136/index.m3u8
+#EXTINF:0 tvg-rec="3",Galaxy HD
+#EXTGRP:🌏 Познавательные
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5045/index.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Galaxy
 https://flu.ttk.mx/Galaxy/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="🌏 Познавательные",TLC HD
@@ -457,6 +463,79 @@ http://127.0.0.1:6878/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379&
 #EXTINF:-1 group-title="📽️ Фильмовые",Ultra HD Cinema
 http://127.0.0.1:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8&.mp4
 
+#EXTINF:0 tvg-rec="3",Ultra HD Cinema 4K
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/4000/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT 4K
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/4001/index.m3u8
+#EXTINF:0 tvg-rec="3",Home 4K
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/4002/index.m3u8
+#EXTINF:0 tvg-rec="0",Home 4K [HEVEC]
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/15146/index.m3u8
+#EXTINF:0 tvg-rec="3",Наша Сибирь 4K
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/4003/index.m3u8
+#EXTINF:0 tvg-rec="0",Наша сибирь 4K [HEVEC]
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/15145/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 4K
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/4004/index.m3u8
+#EXTINF:0 tvg-rec="3",FTV UHD
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/4005/index.m3u8
+#EXTINF:0 tvg-rec="3",Insight UHD 4K
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5000/index.m3u8
+#EXTINF:0 tvg-rec="3",Love Nature 4K
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5001/index.m3u8
+#EXTINF:0 tvg-rec="3",MyZen TV 4K
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5002/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский Экстрим UHD 4K
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5003/index.m3u8
+#EXTINF:0 tvg-rec="3",Кино UHD 4K
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5004/index.m3u8
+#EXTINF:0 tvg-rec="3",Сериал UHD 4K
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5005/index.m3u8
+#EXTINF:0 tvg-rec="0",Discovery Ultra 4K orig
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/10048/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Кино 4K
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/11114/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Сериал 4K
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/11115/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый музыкальный 4k
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/14141/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Premiere Ultra 4K
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/15023/index.m3u8
+#EXTINF:0 tvg-rec="0",Глазами Туриста 4K [HEVEC]
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/15147/index.m3u8
+#EXTINF:0 tvg-rec="0",Глазами Туриста 4K
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/15191/index.m3u8
+#EXTINF:0 tvg-rec="0",NASA TV 4K
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/15239/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Kids 4K
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/17023/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY HIGH MIX 4K
+#EXTGRP:🎞︎ 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/17025/index.m3u8
+
 #EXTGRP:🎬 Кинозал
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/17044/index.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Akudji TV
@@ -544,6 +623,21 @@ http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e&
 http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Арена HD
 http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&.mp4
+#EXTINF:0 tvg-rec="0",Матч Игра HD 50
+#EXTGRP:⚽ Спортивные
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/10014/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! Футбол 1 HD 50
+#EXTGRP:⚽ Спортивные
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/10015/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч Футбол 3 HD 50
+#EXTGRP:⚽ Спортивные
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/10016/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! HD 50
+#EXTGRP:⚽ Спортивные
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/10020/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ Премьер HD 50
+#EXTGRP:⚽ Спортивные
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/10021/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",UFC HD
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Боец
