@@ -46,8 +46,6 @@ http://127.0.0.1:6878/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69&
 http://127.0.0.1:6878/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",СТС Kids HD
 http://127.0.0.1:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&.mp4
-#EXTINF:-1 tvg-id="gags-network" group-title="📺 Эфирные",Gags Network HD
-http://89.223.46.189:8080/raz-tv/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",КВН ТВ
 http://146.158.0.56:80/KVN/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Телекафе
@@ -460,140 +458,107 @@ http://127.0.0.1:6878/ace/getstream?id=3a71745381e1a6821a881c96a230b6cd365d4da5&
 http://127.0.0.1:6878/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379&.mp4
 #EXTINF:-1 group-title="📽️ Фильмовые",Ultra HD Cinema
 http://127.0.0.1:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8&.mp4
-
-#EXTINF:0 tvg-rec="3",Ultra HD Cinema 4K
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/4000/index.m3u8
-#EXTINF:0 tvg-rec="3",TRT 4K
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/4001/index.m3u8
-#EXTINF:0 tvg-rec="3",Home 4K
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/4002/index.m3u8
-#EXTINF:0 tvg-rec="0",Home 4K [HEVEC]
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/15146/index.m3u8
-#EXTINF:0 tvg-rec="3",Наша Сибирь 4K
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/4003/index.m3u8
-#EXTINF:0 tvg-rec="0",Наша сибирь 4K [HEVEC]
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/15145/index.m3u8
-#EXTINF:0 tvg-rec="3",Eurosport 4K
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/4004/index.m3u8
-#EXTINF:0 tvg-rec="3",FTV UHD
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/4005/index.m3u8
-#EXTINF:0 tvg-rec="3",Insight UHD 4K
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5000/index.m3u8
-#EXTINF:0 tvg-rec="3",Love Nature 4K
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5001/index.m3u8
-#EXTINF:0 tvg-rec="3",MyZen TV 4K
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5002/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский Экстрим UHD 4K
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5003/index.m3u8
-#EXTINF:0 tvg-rec="3",Кино UHD 4K
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5004/index.m3u8
-#EXTINF:0 tvg-rec="3",Сериал UHD 4K
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5005/index.m3u8
-#EXTINF:0 tvg-rec="0",Discovery Ultra 4K orig
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/10048/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Кино 4K
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/11114/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Сериал 4K
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/11115/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый музыкальный 4k
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/14141/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU Premiere Ultra 4K
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/15023/index.m3u8
-#EXTINF:0 tvg-rec="0",Глазами Туриста 4K [HEVEC]
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/15147/index.m3u8
-#EXTINF:0 tvg-rec="0",Глазами Туриста 4K
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/15191/index.m3u8
-#EXTINF:0 tvg-rec="0",NASA TV 4K
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/15239/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU Kids 4K
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/17023/index.m3u8
-#EXTINF:0 tvg-rec="0",SKY HIGH MIX 4K
-#EXTGRP:🎞︎ 4K
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/17025/index.m3u8
-
-#EXTGRP:🎬 Кинозал
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/17044/index.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Akudji TV
-#EXTVLCOPT:http-user-agent=MrDeniZ
-https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Cinema Classic
-https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",FILM TV HD
-#EXTVLCOPT:http-user-agent=MrDeniZ
-https://hls.goodgame.ru/hls/163253.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Kino.Watch Доку HD
-https://edge-01.kino.watch/docu/index.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Kino.Watch Свежаки HD
-https://edge-01.kino.watch/fresh/index.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Kino.Watch Ужастик HD
-https://edge-01.kino.watch/horror/index.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Kino.Watch Уже видел HD
-https://edge-01.kino.watch/hit/index.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",MediaService Lorenz TV
-http://84.38.180.145:8080/Uhierjfk/index.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Millennium TV
-http://mmg.ooo/live/ngrp:tv.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",PZN Streams
-#EXTVLCOPT:http-user-agent=MrDeniZ
-https://hls.goodgame.ru/hls/180960.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",STR TV
-#EXTVLCOPT:http-user-agent=MrDeniZ
-https://hls.goodgame.ru/hls/185110.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",SCR TV HD
-#EXTVLCOPT:http-user-agent=MrDeniZ
-https://hls.goodgame.ru/hls/61358.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",TDM777 FMC
-#EXTVLCOPT:http-user-agent=MrDeniZ
-https://hls.goodgame.ru/hls/187741.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",TDM777 Series TV
-#EXTVLCOPT:http-user-agent=MrDeniZ
-https://hls.goodgame.ru/hls/186021.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",VKTV HD
-#EXTVLCOPT:http-user-agent=MrDeniZ
-https://hls.goodgame.ru/hls/173945.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Видеокассета VHS
-https://autopilot.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Память
-https://autopilot.catcast.tv/content/38821/index.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Кинозал! Ужас
-#EXTVLCOPT:http-user-agent=MrDeniZ
-https://hls.goodgame.ru/hls/193665.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Ужастик
-https://autopilot.catcast.tv/content/38896/index.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Фантастика
-https://autopilot.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Фантастика HD
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",Фантастика HD
 #EXTVLCOPT:http-user-agent=MrDeniZ
 https://hls.goodgame.ru/hls/187241.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Кинозал! Хит
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",Кинозал! Хит
 #EXTVLCOPT:http-user-agent=MrDeniZ
 https://hls.goodgame.ru/hls/153640.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="🎬 Кинозал",Твоё ТВ
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",Твоё ТВ
 http://84.38.180.145:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",Видеокассета VHS
+https://autopilot.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",SCR TV HD
+#EXTVLCOPT:http-user-agent=MrDeniZ
+https://hls.goodgame.ru/hls/61358.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",TDM777 FMC
+#EXTVLCOPT:http-user-agent=MrDeniZ
+https://hls.goodgame.ru/hls/187741.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",TDM777 Series TV
+#EXTVLCOPT:http-user-agent=MrDeniZ
+https://hls.goodgame.ru/hls/186021.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",Cinema Classic
+https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",MediaService Lorenz TV
+http://84.38.180.145:8080/Uhierjfk/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",Millennium TV
+http://mmg.ooo/live/ngrp:tv.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",PZN Streams
+#EXTVLCOPT:http-user-agent=MrDeniZ
+https://hls.goodgame.ru/hls/180960.m3u8
 
+#EXTINF:0 tvg-rec="3",Ultra HD Cinema 4K
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/4000/index.m3u8
+#EXTINF:0 tvg-rec="3",TRT 4K
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/4001/index.m3u8
+#EXTINF:0 tvg-rec="3",Home 4K
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/4002/index.m3u8
+#EXTINF:0 tvg-rec="0",Home 4K [HEVEC]
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/15146/index.m3u8
+#EXTINF:0 tvg-rec="3",Наша Сибирь 4K
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/4003/index.m3u8
+#EXTINF:0 tvg-rec="0",Наша сибирь 4K [HEVEC]
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/15145/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 4K
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/4004/index.m3u8
+#EXTINF:0 tvg-rec="3",FTV UHD
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/4005/index.m3u8
+#EXTINF:0 tvg-rec="3",Insight UHD 4K
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5000/index.m3u8
+#EXTINF:0 tvg-rec="3",Love Nature 4K
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5001/index.m3u8
+#EXTINF:0 tvg-rec="3",MyZen TV 4K
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5002/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский Экстрим UHD 4K
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5003/index.m3u8
+#EXTINF:0 tvg-rec="3",Кино UHD 4K
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5004/index.m3u8
+#EXTINF:0 tvg-rec="3",Сериал UHD 4K
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5005/index.m3u8
+#EXTINF:0 tvg-rec="0",Discovery Ultra 4K orig
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/10048/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Кино 4K
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/11114/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Сериал 4K
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/11115/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый музыкальный 4k
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/14141/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Premiere Ultra 4K
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/15023/index.m3u8
+#EXTINF:0 tvg-rec="0",Глазами Туриста 4K [HEVEC]
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/15147/index.m3u8
+#EXTINF:0 tvg-rec="0",Глазами Туриста 4K
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/15191/index.m3u8
+#EXTINF:0 tvg-rec="0",NASA TV 4K
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/15239/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Kids 4K
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/17023/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY HIGH MIX 4K
+#EXTGRP:🎬 4K
+http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/17025/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
 http://31.210.208.167:80/match_hd/index.m3u8?token=test
