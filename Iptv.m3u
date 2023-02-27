@@ -546,10 +546,6 @@ http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&
 http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",UFC HD
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! FHD
-http://kyrohowu.akciatv.ru/iptv/ZX5HU6HZ8XCFT5/2413/index.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер FHD
-http://kyrohowu.akciatv.ru/iptv/ZX5HU6HZ8XCFT5/2414/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Боец
 http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Конный мир HD
