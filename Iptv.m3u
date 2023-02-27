@@ -26,8 +26,6 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 https://strm.yandex.ru/kal/utv/utv0.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/1598.png" ,Че
 http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
-#EXTINF:-1 tvg-id="perec-int" group-title="📺 Эфирные",Перец
-http://iptvmedia.live:8080/stadnik/8f064f8602/283062
 #EXTINF:-1 group-title="📺 Эфирные", Домашний HD
 http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Пятый канал
