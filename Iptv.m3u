@@ -104,30 +104,26 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" group-title="📰 Новости",Россия 24 HD
 http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc18/playlist_6.m3u8
 
-#EXTINF:-1 group-title="🌏 Познавательные",Investigation Discovery
-http://kyrohowu.akciatv.ru/iptv/ZX5HU6HZ8XCFT5/2085/index.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",ID Xtra HD
-http://kyrohowu.akciatv.ru/iptv/ZX5HU6HZ8XCFT5/2102/index.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",Insight UHD 4K
-http://kyrohowu.akciatv.ru/iptv/ZX5HU6HZ8XCFT5/5000/index.m3u8
+#EXTINF:0 tvg-rec="3",Discovery Science HD
+#EXTGRP:🌏 Познавательные
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6001/index.m3u8
+#EXTINF:0 tvg-rec="3",Investigation Discovery HD
+#EXTGRP:🌏 Познавательные
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2102/index.m3u8
 #EXTINF:0 tvg-rec="7",Discovery Channel HD
 #EXTGRP:🌏 Познавательные
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/227/index.m3u8
+#EXTINF:-1 group-title="🌏 Познавательные" ,Discovery HD
+http://176.222.190.76/btv/SWM/discovery_hd/discovery_hd.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Channel
 http://45.11.139.43:8081/stream/discchanel/hls/playlist.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",Discovery Science
-http://kyrohowu.akciatv.ru/iptv/ZX5HU6HZ8XCFT5/136/index.m3u8
 #EXTINF:0 tvg-rec="3",Galaxy HD
 #EXTGRP:🌏 Познавательные
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5045/index.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",Galaxy
-https://flu.ttk.mx/Galaxy/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="🌏 Познавательные",TLC HD
 http://185.32.44.154/tlc/index.m3u8
 #EXTINF:-1 tvg-id="morskoy" group-title="🌏 Познавательные",Моя стихия HD
 http://79.141.211.254:8000/Morskoy
-#EXTINF:-1 tvg-id="travel-xp-hd" group-title="🌏 Познавательные",Travel XP HD
-http://95.217.196.109:8081/russia/discovery_sd_new/playlist.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat Nature/History HD
 http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat Nature HD
@@ -566,8 +562,6 @@ http://31.210.208.167:80/match_hd/index.m3u8?token=test
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 http://194.143.148.28:8080/MatchHD/mpegts
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
-http://flu.ttk.mx:9090/Match_HD/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="⚽ Спортивные",tvg-id="match-priemer" tvg-logo="http://epg.it999.ru/img2/2736.png",Матч Премьер HD
 https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",ФУТБОЛ HD
@@ -586,21 +580,24 @@ http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e&
 http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Арена HD
 http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&.mp4
-#EXTINF:0 tvg-rec="0",Матч Игра HD 50
-#EXTGRP:⚽ Спортивные
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/10014/index.m3u8
-#EXTINF:0 tvg-rec="0",МАТЧ! Футбол 1 HD 50
-#EXTGRP:⚽ Спортивные
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/10015/index.m3u8
-#EXTINF:0 tvg-rec="0",Матч Футбол 3 HD 50
-#EXTGRP:⚽ Спортивные
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/10016/index.m3u8
-#EXTINF:0 tvg-rec="0",МАТЧ! HD 50
-#EXTGRP:⚽ Спортивные
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/10020/index.m3u8
-#EXTINF:0 tvg-rec="0",МАТЧ Премьер HD 50
-#EXTGRP:⚽ Спортивные
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/10021/index.m3u8
+#EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ
+http://95.181.17.26/dvr02/sd2/sport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjMgNzo1NTozMiBBTSZoYXNoX3ZhbHVlPUFab0FhR3BycFdiUEpIY3FOdk8zdkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
+http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjMgNzo1NTozMiBBTSZoYXNoX3ZhbHVlPUFab0FhR3BycFdiUEpIY3FOdk8zdkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 2 HD
+http://95.181.17.26/7nvenc/NTVplusfut2HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjMgNzo1NTozMiBBTSZoYXNoX3ZhbHVlPUFab0FhR3BycFdiUEpIY3FOdk8zdkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 3 HD
+http://95.181.17.14/7nvenc/NTVplusfut3HD/71/fhd/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjMgNzo1NTozMiBBTSZoYXNoX3ZhbHVlPUFab0FhR3BycFdiUEpIY3FOdk8zdkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Игра HD
+http://95.181.17.14/7nvenc/sport2HD/71/fhd/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjMgNzo1NTozMiBBTSZoYXNoX3ZhbHVlPUFab0FhR3BycFdiUEpIY3FOdk8zdkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Боец
+http://95.181.17.6/streaming/boets/71/5nvenc/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjMgNzo1NTozMiBBTSZoYXNoX3ZhbHVlPUFab0FhR3BycFdiUEpIY3FOdk8zdkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="⚽ Спортивные",Матч Премьер HD
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjMgNzo1NTozMiBBTSZoYXNoX3ZhbHVlPUFab0FhR3BycFdiUEpIY3FOdk8zdkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Арена HD
+http://95.181.17.6/7nvenc/sport1HD/71/fhd/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjMgNzo1NTozMiBBTSZoYXNoX3ZhbHVlPUFab0FhR3BycFdiUEpIY3FOdk8zdkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Страна HD
+http://95.181.17.6/streaming/ntvsport/71/5nvenc/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9My8zLzIwMjMgNzo1NTozMiBBTSZoYXNoX3ZhbHVlPUFab0FhR3BycFdiUEpIY3FOdk8zdkE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 #EXTINF:-1 group-title="⚽ Спортивные",UFC HD
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Боец
