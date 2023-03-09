@@ -583,18 +583,21 @@ http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&
 #EXTINF:0 tvg-rec="0",Матч Игра HD 50
 #EXTGRP:⚽ Спортивные
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/10014/index.m3u8
-#EXTINF:0 tvg-rec="0",МАТЧ! Футбол 1 HD 50
+#EXTINF:0 tvg-rec="3",МАТЧ! Футбол 1 HD 50
 #EXTGRP:⚽ Спортивные
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/10015/index.m3u8
-#EXTINF:0 tvg-rec="0",Матч Футбол 3 HD 50
+http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/5072/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 2 FHD
 #EXTGRP:⚽ Спортивные
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/10016/index.m3u8
-#EXTINF:0 tvg-rec="0",МАТЧ! HD 50
+http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/2420/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч Футбол 3 HD 50
 #EXTGRP:⚽ Спортивные
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/10020/index.m3u8
-#EXTINF:0 tvg-rec="0",МАТЧ Премьер HD 50
+http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/5071/index.m3u8
+#EXTINF:0 tvg-rec="3,МАТЧ! HD 50
 #EXTGRP:⚽ Спортивные
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/10021/index.m3u8
+http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/2413/index.m3u8
+#EXTINF:0 tvg-rec="3",МАТЧ Премьер HD 50
+#EXTGRP:⚽ Спортивные
+http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/2414/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",UFC HD
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Боец
