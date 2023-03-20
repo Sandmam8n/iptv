@@ -104,7 +104,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" group-title="📰 Новости",Россия 24 HD
 http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc18/playlist_6.m3u8
 
-#EXTINF:-1 group-title="🌏 Познавательные",ID Xtra HD
+#EXTINF:-1 group-title="🌏 Познавательные",Investigation Discovery HD
 http://kyrohowu.akciatv.ru/iptv/ZX5HU6HZ8XCFT5/2102/index.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
 http://myott.top/stream/CUJ4ZVUK9V/146.m3u8
