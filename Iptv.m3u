@@ -106,6 +106,8 @@ http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc18/playlist_6.m3u8
 
 #EXTINF:-1 group-title="🌏 Познавательные",Investigation Discovery HD
 http://91.146.94.234:10001/play/a045
+#EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
+http://91.146.94.234:10001/play/a03q
 #EXTINF:0 tvg-rec="7",Discovery Channel HD
 #EXTGRP:🌏 Познавательные
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/227/index.m3u8
