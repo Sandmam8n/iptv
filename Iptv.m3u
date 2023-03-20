@@ -4,9 +4,6 @@
 http://78.25.155.47:1309/channel/ORT_HD.ts
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/984.png" ,Россия HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
-#EXTINF:0 tvg-rec="7",НТВ HD
-#EXTGRP:📺 Эфирные
-http://pd0ib21f.megatv.fun/iptv/GNSB6Z626A294L/213/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/2001.png" ,НТВ HD
 http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/2041.png" ,НТВ Хит
@@ -107,12 +104,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" group-title="📰 Новости",Россия 24 HD
 http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc18/playlist_6.m3u8
 
-#EXTINF:0 tvg-rec="3",Discovery Science HD
-#EXTGRP:🌏 Познавательные
-http://pd0ib21f.megatv.fun/iptv/GNSB6Z626A294L/6001/index.m3u8
-#EXTINF:0 tvg-rec="3",Investigation Discovery HD
-#EXTGRP:🌏 Познавательные
-http://pd0ib21f.megatv.fun/iptv/GNSB6Z626A294L/9054/index.m3u8
 #EXTINF:0 tvg-rec="7",Discovery Channel HD
 #EXTGRP:🌏 Познавательные
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/227/index.m3u8
@@ -121,8 +112,6 @@ http://176.222.190.76/btv/SWM/discovery_hd/discovery_hd.m3u8
 #EXTINF:0 tvg-rec="3",Galaxy HD
 #EXTGRP:🌏 Познавательные
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5045/index.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",TLC HD
-http://pd0ib21f.megatv.fun/iptv/GNSB6Z626A294L/9024/index.m3u8
 #EXTINF:-1 tvg-id="morskoy" group-title="🌏 Познавательные",Моя стихия HD
 http://pd0ib21f.megatv.fun/iptv/GNSB6Z626A294L/7349/index.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat Nature/History HD
