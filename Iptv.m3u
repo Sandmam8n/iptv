@@ -110,8 +110,6 @@ http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/9326/index.m3u8
 #EXTINF:0 tvg-rec="3",Investigation Discovery HD
 #EXTGRP:🌏 Познавательные
 http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/9322/index.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",Investigation Discovery HD
-rtmp://5.182.231.251//2102
 #EXTINF:0 tvg-rec="7",Discovery Channel HD
 #EXTGRP:🌏 Познавательные
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/227/index.m3u8
@@ -582,24 +580,6 @@ http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e&
 http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Арена HD
 http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&.mp4
-#EXTINF:0 tvg-rec="0",Матч Игра HD 50
-#EXTGRP:⚽ Спортивные
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/10014/index.m3u8
-#EXTINF:0 tvg-rec="3",МАТЧ! Футбол 1 HD 50
-#EXTGRP:⚽ Спортивные
-http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/5072/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 2 FHD
-#EXTGRP:⚽ Спортивные
-http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/2420/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч Футбол 3 HD 50
-#EXTGRP:⚽ Спортивные
-http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/5071/index.m3u8
-#EXTINF:0 tvg-rec="3,МАТЧ! HD 50
-#EXTGRP:⚽ Спортивные
-http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/2413/index.m3u8
-#EXTINF:0 tvg-rec="3",МАТЧ Премьер HD 50
-#EXTGRP:⚽ Спортивные
-http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/2414/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="⚽ Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2022/04/18/300288/300288822.png",MMA-TV.COM
 #EXTINF:-1 group-title="⚽ Спортивные",UFC HD
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
