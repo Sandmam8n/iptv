@@ -250,14 +250,6 @@ http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
 http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
 #EXTINF:-1 group-title="📽️ Фильмовые" tvg-logo="http://epg.it999.ru/img/3069.png" ,Amedia Hit HD
 http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",Кино ТВ HD
-https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" ,Кинохит
-http://flu.ttk.mx:9090/kinohit/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-id="kinopokaz" tvg-logo="http://epg.it999.ru/img2/2834.png",Кинопоказ
-http://flu.ttk.mx:9090/kinopokaz/index.m3u8?token=orh6o
-#EXTINF:-1 group-title="📽️ Фильмовые" ,Кинопремьера HD
-http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=orh6o
 #EXTINF:-1 group-title="📽️ Фильмовые",Шокирующее HD
 http://127.0.0.1:6878/ace/getstream?id=a4d2d63c562696b5ef7731efb7c2df74d9183700&.mp4
 #EXTINF:-1 group-title="📽️ Фильмовые",Хит HD
