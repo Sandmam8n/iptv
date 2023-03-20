@@ -4,6 +4,9 @@
 http://78.25.155.47:1309/channel/ORT_HD.ts
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/984.png" ,Россия HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
+#EXTINF:0 tvg-rec="7",НТВ HD
+#EXTGRP:📺 Эфирные
+http://pd0ib21f.megatv.fun/iptv/GNSB6Z626A294L/213/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/2001.png" ,НТВ HD
 http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/2041.png" ,НТВ Хит
@@ -121,7 +124,7 @@ http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5045/index.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",TLC HD
 http://pd0ib21f.megatv.fun/iptv/GNSB6Z626A294L/9024/index.m3u8
 #EXTINF:-1 tvg-id="morskoy" group-title="🌏 Познавательные",Моя стихия HD
-http://79.141.211.254:8000/Morskoy
+http://pd0ib21f.megatv.fun/iptv/GNSB6Z626A294L/7349/index.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat Nature/History HD
 http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat Nature HD
