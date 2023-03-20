@@ -115,8 +115,6 @@ http://pd0ib21f.megatv.fun/iptv/GNSB6Z626A294L/9054/index.m3u8
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/227/index.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные" ,Discovery HD
 http://176.222.190.76/btv/SWM/discovery_hd/discovery_hd.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",Discovery Channel
-http://45.11.139.43:8081/stream/discchanel/hls/playlist.m3u8
 #EXTINF:0 tvg-rec="3",Galaxy HD
 #EXTGRP:🌏 Познавательные
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5045/index.m3u8
