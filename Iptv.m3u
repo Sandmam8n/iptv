@@ -539,6 +539,15 @@ http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/17023/index.m3u8
 #EXTGRP:🎬 4K
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/17025/index.m3u8
 
+#EXTINF:0 tvg-rec="3",Матч ТВ FHD
+#EXTGRP:⚽ Спортивные
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2413/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Премьер FHD
+#EXTGRP:⚽ Спортивные
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2414/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1 HD 50 orig
+#EXTGRP:⚽ Спортивные
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/5072/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
 http://31.210.208.167:80/match_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
