@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz,https://iptvx.one/EPG"
 
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/983.png" ,Первый канал
-http://78.25.155.47:1309/channel/ORT_HD.ts
+https://livetv.mylifeisgood.ml/channels/perviytest.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/984.png" ,Россия HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/2001.png" ,НТВ HD
