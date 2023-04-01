@@ -553,15 +553,11 @@ http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2414/index.m3u8
 #EXTGRP:⚽ Спортивные
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/5072/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
-http://31.210.208.167:80/match_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 http://194.143.148.28:8080/MatchHD/mpegts
-#EXTINF:-1 group-title="⚽ Спортивные",tvg-id="match-priemer" tvg-logo="http://epg.it999.ru/img2/2736.png",Матч Премьер HD
+#EXTINF:-1 group-title="⚽ Спортивные",Матч Премьер HD
 https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",ФУТБОЛ HD
-http://31.210.208.167:80/football/index.m3u8?token=test
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
