@@ -59,20 +59,12 @@ http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B3
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="📰 Новости",CGTN-Русский
 https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 tvg-id="ldpr-tv" group-title="📰 Новости",ЛДПР ТВ
-https://stream01.fishka.ws:443/ldpr/index.m3u8
 #EXTINF:-1 group-title="📰 Новости",Беларусь 24
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/c1/%D0%A6%D0%B0%D1%80%D1%8C%D0%B3%D1%80%D0%B0%D0%B4_%282017%2C_%D0%B1%D0%B5%D0%B7_%D0%BD%D0%B0%D0%B4%D0%BF%D0%B8%D1%81%D0%B8%29.svg/revision/latest/scale-to-width-down/220?cb=20170313153415&path-prefix=ru" group-title="📰 Новости",Царьград
-https://live-new.kinescopecdn.net:443/on-air/182276a1-1f52-4754-9fa6-f05292ccc160/093a575b-34ee-4c17-b665-5eb63d74c4be/1080p/media.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/hdr/323/963/4.jpg" group-title="📰 Новости",Соловьев Live HD
-http://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/63338&ext=.m3u8
 #EXTINF:-1 group-title="📰 Новости",Настоящее время HD
 https://rfe-ingest.akamaized.net/dash/live/2033030/tvmc05/manifest.mpd
 #EXTINF:-1 tvg-id="ua-tv" group-title="📰 Новости",FreeДОМ
 http://176.74.80.162:8099/UA/index.m3u8
-#EXTINF:-1 tvg-id="bbc" group-title="📰 Новости",BBC World News
-http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/BBC_WORLD_NEWS/video.m3u8?token=YmVsb3Z8fFlXTmxjalUwTXpJeA==
 #EXTINF:-1 tvg-id="rtd-ru" group-title="📰 Новости",RT Д HD
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:-1 tvg-id="rt-doc" group-title="📰 Новости",RT Doc
@@ -87,8 +79,6 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="📰 Новости",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="📰 Новости",Кубань 24
-http://origin5.mediacdn.ru/live/cuban24/playlist.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf" group-title="📰 Новости",Вместе-РФ
 http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="krik-tv" group-title="📰 Новости",Крик-ТВ
@@ -99,7 +89,7 @@ http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8
 #EXTINF:-1 tvg-id="moskva-24" tvg-logo="http://periscope-app.ru/netcat_files/393/606/moskva_24.jpg" group-title="📰 Новости",Москва 24 HD
 http://5.254.16.186/Moskva24/index.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📰 Новости",Россия 24
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" group-title="📰 Новости",Россия 24 HD
 http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc18/playlist_6.m3u8
@@ -696,8 +686,6 @@ http://127.0.0.1:6878/ace/getstream?id=0ef17cf868ef54b443dd41516803276779b76aac&
 #EXTINF:-1 group-title="🎵 Музыкальные",Мульти Музыкальные
 http://127.0.0.1:6878/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19&.mp4
 
-#EXTINF:-1 group-title="📻 Радио",(Феодосия)
-http://webcam.feonet.net:8080/poleznoeradio/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📻 Радио",1 [RU]
 http://cdn.radio1.news:1935/rtvp/live/playlist.m3u8
 #EXTINF:-1 group-title="📻 Радио",101.8 [Пенза]
@@ -708,8 +696,6 @@ https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist
 http://tv.streams.baikal-telecom.net/MCM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📻 Радио",Вести FM
 http://livehlsvgtrkrf.cdnvideo.ru/hls2/vesti_fm/playlist_6.m3u8
-#EXTINF:-1 group-title="📻 Радио",Волгоград FM (Веб-камера)
-http://www.volgogradfm.ru/cam/hls/volgogradfm.m3u8
 #EXTINF:-1 group-title="📻 Радио",Говорит Москва (Веб-камера)
 https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📻 Радио",Джем FM [ЕКБ]
@@ -791,7 +777,7 @@ http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/3r.png" tvg-name="Радость_Моя" group-title="⛪ Религиозные",Радость Моя
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/5m.png" tvg-name="МузСоюз" group-title="⛪ Религиозные",Муз Союз
-http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2137/index.m3u8
 
 #EXTINF:-1 group-title="👶 Детские",Мультиландия
 http://127.0.0.1:6878/ace/getstream?id=78f1672c711f67c5588ecc96580f7524c0fb87fb&.mp4
@@ -1069,6 +1055,185 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/10049/index.m3u8
+#EXTINF:0 tvg-rec="3",Redlight HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/242/index.m3u8
+#EXTINF:0 tvg-rec="0",Hustler HD Europe
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/244/index.m3u8
+#EXTINF:0 tvg-rec="3",Dorcel TV HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/245/index.m3u8
+#EXTINF:0 tvg-rec="1",Vivid Red HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2162/index.m3u8
+#EXTINF:0 tvg-rec="3",Exxxotica HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2397/index.m3u8
+#EXTINF:0 tvg-rec="3",Penthouse Gold HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/5011/index.m3u8
+#EXTINF:0 tvg-rec="3",Penthouse Quickies 1300k
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/5012/index.m3u8
+#EXTINF:0 tvg-rec="3",Penthouse Quickies HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/5013/index.m3u8
+#EXTINF:0 tvg-rec="3",Extasy 4K
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/5014/index.m3u8
+#EXTINF:0 tvg-rec="3",Eroxxx HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/5015/index.m3u8
+#EXTINF:0 tvg-rec="0",Babes HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6171/index.m3u8
+#EXTINF:0 tvg-rec="0",Babes TV HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6172/index.m3u8
+#EXTINF:0 tvg-rec="0",Bang Bros HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6173/index.m3u8
+#EXTINF:0 tvg-rec="0",Blacked HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6178/index.m3u8
+#EXTINF:0 tvg-rec="0",Cum4k
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6190/index.m3u8
+#EXTINF:0 tvg-rec="0",Digital Desire HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6195/index.m3u8
+#EXTINF:0 tvg-rec="0",Digital Playground HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6196/index.m3u8
+#EXTINF:0 tvg-rec="0",Evil Angel HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6199/index.m3u8
+#EXTINF:0 tvg-rec="0",Extasy HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6201/index.m3u8
+#EXTINF:0 tvg-rec="0",Fap TV Lesbian
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6209/index.m3u8
+#EXTINF:0 tvg-rec="0",Fap TV Teens
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6211/index.m3u8
+#EXTINF:0 tvg-rec="0",Hot Guys Fuck
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6223/index.m3u8
+#EXTINF:0 tvg-rec="0",Japan HDV
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6225/index.m3u8
+#EXTINF:0 tvg-rec="0",Little Asians HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6230/index.m3u8
+#EXTINF:0 tvg-rec="0",MetArt HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6233/index.m3u8
+#EXTINF:0 tvg-rec="0",Nubiles TV HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6238/index.m3u8
+#EXTINF:0 tvg-rec="0",ox-ax HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6239/index.m3u8
+#EXTINF:0 tvg-rec="0",Private HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6245/index.m3u8
+#EXTINF:0 tvg-rec="0",Reality Kings HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6247/index.m3u8
+#EXTINF:0 tvg-rec="0",Teen Red TV
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6256/index.m3u8
+#EXTINF:0 tvg-rec="0",Tiny4K
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6258/index.m3u8
+#EXTINF:0 tvg-rec="0",Tushy HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6261/index.m3u8
+#EXTINF:0 tvg-rec="0",Vixen HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6265/index.m3u8
+#EXTINF:0 tvg-rec="0",Emanuelle HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6272/index.m3u8
+#EXTINF:0 tvg-rec="0",HOT XXL HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6276/index.m3u8
+#EXTINF:0 tvg-rec="0",XY Max HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6286/index.m3u8
+#EXTINF:0 tvg-rec="0",XY Mix HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6287/index.m3u8
+#EXTINF:0 tvg-rec="0",XY Plus HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6288/index.m3u8
+#EXTINF:0 tvg-rec="0",Erox HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6296/index.m3u8
+#EXTINF:0 tvg-rec="0",SuperOne HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6298/index.m3u8
+#EXTINF:0 tvg-rec="7",EXTASY HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/11051/index.m3u8
+#EXTINF:0 tvg-rec="7",ОХ-АХ HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/11068/index.m3u8
+#EXTINF:0 tvg-rec="0",Super one HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12121/index.m3u8
+#EXTINF:0 tvg-rec="0",LEO TV FHD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12123/index.m3u8
+#EXTINF:0 tvg-rec="0",DORCEL TV FHD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12131/index.m3u8
+#EXTINF:0 tvg-rec="0",Venus HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12133/index.m3u8
+#EXTINF:0 tvg-rec="0",VERAPORN 4K
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12137/index.m3u8
+#EXTINF:0 tvg-rec="0",VERAPORN 4K 2
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12138/index.m3u8
+#EXTINF:0 tvg-rec="0",VERAPORN TEENS
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12139/index.m3u8
+#EXTINF:0 tvg-rec="0",VERAPORN TEENS 2
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12140/index.m3u8
+#EXTINF:0 tvg-rec="0",BANGBROS UHD 4K
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12181/index.m3u8
+#EXTINF:0 tvg-rec="0",BLACKED TV PREMIUM
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12190/index.m3u8
+#EXTINF:0 tvg-rec="0",BLACKED TV ELITE
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12191/index.m3u8
+#EXTINF:0 tvg-rec="0",GLORYHOLE LOVE FHD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12192/index.m3u8
+#EXTINF:0 tvg-rec="0",XXX Love's Berry HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/14140/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV SEXY
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/14176/index.m3u8
+#EXTINF:0 tvg-rec="0",LIBERTY EROTIKA HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/16069/index.m3u8
+#EXTINF:0 tvg-rec="0",Kinoshka Adult HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/18060/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Charm HD
+#EXTGRP:🔞 Взрослые
+http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/18053/index.m3u8
 #EXTINF:-1 tvg-logo="https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg" group-title="🔞 Взрослые",Шёлк
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 #EXTINF:-1 tvg-id="extasy4k" group-title="🔞 Взрослые",Extasy 4K
