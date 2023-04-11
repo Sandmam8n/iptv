@@ -94,13 +94,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" group-title="📰 Новости",Россия 24 HD
 http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc18/playlist_6.m3u8
 
-#EXTINF:0 tvg-rec="3",Investigation Discovery HD
-#EXTGRP:🌏 Познавательные
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/9054/index.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Investigation Discovery HD
 rtmp://5.182.231.251//2102
-#EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/9326/index.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
 http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
 #EXTINF:0 tvg-rec="7",Discovery Channel HD
@@ -527,15 +522,6 @@ http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/17023/index.m3u8
 #EXTGRP:🎬 4K
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/17025/index.m3u8
 
-#EXTINF:0 tvg-rec="3",Матч ТВ FHD
-#EXTGRP:⚽ Спортивные
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2413/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Премьер FHD
-#EXTGRP:⚽ Спортивные
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2414/index.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Футбол 1 HD 50 orig
-#EXTGRP:⚽ Спортивные
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/5072/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
@@ -1053,185 +1039,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/10049/index.m3u8
-#EXTINF:0 tvg-rec="3",Redlight HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/242/index.m3u8
-#EXTINF:0 tvg-rec="0",Hustler HD Europe
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/244/index.m3u8
-#EXTINF:0 tvg-rec="3",Dorcel TV HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/245/index.m3u8
-#EXTINF:0 tvg-rec="1",Vivid Red HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2162/index.m3u8
-#EXTINF:0 tvg-rec="3",Exxxotica HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2397/index.m3u8
-#EXTINF:0 tvg-rec="3",Penthouse Gold HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/5011/index.m3u8
-#EXTINF:0 tvg-rec="3",Penthouse Quickies 1300k
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/5012/index.m3u8
-#EXTINF:0 tvg-rec="3",Penthouse Quickies HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/5013/index.m3u8
-#EXTINF:0 tvg-rec="3",Extasy 4K
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/5014/index.m3u8
-#EXTINF:0 tvg-rec="3",Eroxxx HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/5015/index.m3u8
-#EXTINF:0 tvg-rec="0",Babes HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6171/index.m3u8
-#EXTINF:0 tvg-rec="0",Babes TV HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6172/index.m3u8
-#EXTINF:0 tvg-rec="0",Bang Bros HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6173/index.m3u8
-#EXTINF:0 tvg-rec="0",Blacked HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6178/index.m3u8
-#EXTINF:0 tvg-rec="0",Cum4k
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6190/index.m3u8
-#EXTINF:0 tvg-rec="0",Digital Desire HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6195/index.m3u8
-#EXTINF:0 tvg-rec="0",Digital Playground HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6196/index.m3u8
-#EXTINF:0 tvg-rec="0",Evil Angel HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6199/index.m3u8
-#EXTINF:0 tvg-rec="0",Extasy HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6201/index.m3u8
-#EXTINF:0 tvg-rec="0",Fap TV Lesbian
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6209/index.m3u8
-#EXTINF:0 tvg-rec="0",Fap TV Teens
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6211/index.m3u8
-#EXTINF:0 tvg-rec="0",Hot Guys Fuck
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6223/index.m3u8
-#EXTINF:0 tvg-rec="0",Japan HDV
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6225/index.m3u8
-#EXTINF:0 tvg-rec="0",Little Asians HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6230/index.m3u8
-#EXTINF:0 tvg-rec="0",MetArt HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6233/index.m3u8
-#EXTINF:0 tvg-rec="0",Nubiles TV HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6238/index.m3u8
-#EXTINF:0 tvg-rec="0",ox-ax HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6239/index.m3u8
-#EXTINF:0 tvg-rec="0",Private HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6245/index.m3u8
-#EXTINF:0 tvg-rec="0",Reality Kings HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6247/index.m3u8
-#EXTINF:0 tvg-rec="0",Teen Red TV
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6256/index.m3u8
-#EXTINF:0 tvg-rec="0",Tiny4K
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6258/index.m3u8
-#EXTINF:0 tvg-rec="0",Tushy HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6261/index.m3u8
-#EXTINF:0 tvg-rec="0",Vixen HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6265/index.m3u8
-#EXTINF:0 tvg-rec="0",Emanuelle HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6272/index.m3u8
-#EXTINF:0 tvg-rec="0",HOT XXL HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6276/index.m3u8
-#EXTINF:0 tvg-rec="0",XY Max HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6286/index.m3u8
-#EXTINF:0 tvg-rec="0",XY Mix HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6287/index.m3u8
-#EXTINF:0 tvg-rec="0",XY Plus HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6288/index.m3u8
-#EXTINF:0 tvg-rec="0",Erox HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6296/index.m3u8
-#EXTINF:0 tvg-rec="0",SuperOne HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/6298/index.m3u8
-#EXTINF:0 tvg-rec="7",EXTASY HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/11051/index.m3u8
-#EXTINF:0 tvg-rec="7",ОХ-АХ HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/11068/index.m3u8
-#EXTINF:0 tvg-rec="0",Super one HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12121/index.m3u8
-#EXTINF:0 tvg-rec="0",LEO TV FHD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12123/index.m3u8
-#EXTINF:0 tvg-rec="0",DORCEL TV FHD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12131/index.m3u8
-#EXTINF:0 tvg-rec="0",Venus HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12133/index.m3u8
-#EXTINF:0 tvg-rec="0",VERAPORN 4K
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12137/index.m3u8
-#EXTINF:0 tvg-rec="0",VERAPORN 4K 2
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12138/index.m3u8
-#EXTINF:0 tvg-rec="0",VERAPORN TEENS
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12139/index.m3u8
-#EXTINF:0 tvg-rec="0",VERAPORN TEENS 2
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12140/index.m3u8
-#EXTINF:0 tvg-rec="0",BANGBROS UHD 4K
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12181/index.m3u8
-#EXTINF:0 tvg-rec="0",BLACKED TV PREMIUM
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12190/index.m3u8
-#EXTINF:0 tvg-rec="0",BLACKED TV ELITE
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12191/index.m3u8
-#EXTINF:0 tvg-rec="0",GLORYHOLE LOVE FHD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/12192/index.m3u8
-#EXTINF:0 tvg-rec="0",XXX Love's Berry HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/14140/index.m3u8
-#EXTINF:0 tvg-rec="0",YOSSO TV SEXY
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/14176/index.m3u8
-#EXTINF:0 tvg-rec="0",LIBERTY EROTIKA HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/16069/index.m3u8
-#EXTINF:0 tvg-rec="0",Kinoshka Adult HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/18060/index.m3u8
-#EXTINF:0 tvg-rec="0",BCU Charm HD
-#EXTGRP:🔞 Взрослые
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/18053/index.m3u8
 #EXTINF:-1 tvg-logo="https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg" group-title="🔞 Взрослые",Шёлк
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 #EXTINF:-1 tvg-id="extasy4k" group-title="🔞 Взрослые",Extasy 4K
