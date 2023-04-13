@@ -34,7 +34,7 @@ http://hez1-flu.iptvstream.site/25/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C32
 #EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/83/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="📺 Эфирные" tvg-logo="http://static.telestars.tv/logos/STSLove.png",СТС Love
 http://hez1-flu.iptvstream.site/83/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
 
-#EXTINF:-1 group-title="📺 Эфирные",Первый HD
+#EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
 https://livetv.mylifeisgood.ml/channels/perviytest.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/984.png" ,Россия HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
