@@ -793,6 +793,40 @@ http://hez1-flu.iptvstream.site/137/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3
 http://hez1-flu.iptvstream.site/138/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
 #EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/140/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/MatchIgra.png",Матч! Игра HD
 http://hez1-flu.iptvstream.site/140/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/140/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/MatchIgra.png",Матч! Игра HD
+http://hez1-flu.iptvstream.site/140/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/141/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/MatchStrana.png",Матч! Страна
+http://hez1-flu.iptvstream.site/141/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/142/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/KHL.png",КХЛ ТВ 
+http://hez1-flu.iptvstream.site/142/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/144/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/BoxTV.png",Бокс ТВ
+http://hez1-flu.iptvstream.site/144/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/145/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/KonnyyMir.png",Конный мир HD
+http://hez1-flu.iptvstream.site/145/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/146/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/Motosport.png",Моторспорт ТВ
+http://hez1-flu.iptvstream.site/146/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/147/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/Football.png",Футбол HD
+http://hez1-flu.iptvstream.site/147/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/148/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/TochkaOtriva.png",Точка отрыва
+http://hez1-flu.iptvstream.site/148/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/149/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/MirBasketbola.png",Мир баскетбола
+http://hez1-flu.iptvstream.site/149/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/150/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/RusskiyExtrimHD.png",Русский Экстрим
+http://hez1-flu.iptvstream.site/150/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/151/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/Eurosport1HD.png",Eurosport 1 HD
+http://hez1-flu.iptvstream.site/151/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/152/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/Eurosport2HD.png",Eurosport 2 HD
+http://hez1-flu.iptvstream.site/152/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/158/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/SetantaSport1.png",Setanta Sports 1
+http://hez1-flu.iptvstream.site/158/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/160/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/SetantaSportPlus.png",Setanta Sports+
+http://hez1-flu.iptvstream.site/160/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/313/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/SetantaEurasiaPlus.png",Setanta Eurasia+
+http://hez1-flu.iptvstream.site/313/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/314/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/SetantaEurasia.png",Setanta Eurasia HD
+http://hez1-flu.iptvstream.site/314/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/161/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/XsportUA.png",XSport
+http://hez1-flu.iptvstream.site/161/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
@@ -813,10 +847,10 @@ http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e&
 http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Арена HD
 http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&.mp4
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="⚽ Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2022/04/18/300288/300288822.png",MMA-TV.COM
-http://api.peers.tv/timeshift/mma_tv_com/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2ODE0NTUzMzMsImlhdCI6MTY4MTM2ODkzMywiY2lkIjo2LCJ1aWQiOjU3MzAwMjQyOSwicmVnIjpmYWxzZSwiaXAiOjg2MDY5ODA1Nn0.KL3M34ur-39WS4SjmvIFLeP0Gro4b4wlC4RakKhgtzg&offset=10
 #EXTINF:-1 group-title="⚽ Спортивные",UFC HD
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="⚽ Спортивные" tvg-logo="http://peers.tv/data/illustrations/ills/2022/04/18/300288/300288822.png",MMA-TV.COM
+http://api.peers.tv/timeshift/mma_tv_com/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2ODE0NTUzMzMsImlhdCI6MTY4MTM2ODkzMywiY2lkIjo2LCJ1aWQiOjU3MzAwMjQyOSwicmVnIjpmYWxzZSwiaXAiOjg2MDY5ODA1Nn0.KL3M34ur-39WS4SjmvIFLeP0Gro4b4wlC4RakKhgtzg&offset=10
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Боец
 http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Конный мир HD
@@ -904,6 +938,32 @@ http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91&
 #EXTINF:-1 group-title="⚽ Спортивные",SKY Bundesliga UHD
 http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390&.mp4
 
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/162/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="🎵 Музыкальные" tvg-logo="http://static.telestars.tv/logos/MuzTV.png",МузТВ
+http://hez1-flu.iptvstream.site/162/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/274/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="🎵 Музыкальные" tvg-logo="http://static.telestars.tv/logos/deluxe_music.png",Deluxe Music
+http://hez1-flu.iptvstream.site/274/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/163/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="🎵 Музыкальные" tvg-logo="http://static.telestars.tv/logos/MuzikaPervogo.png",Музыка Первого
+http://hez1-flu.iptvstream.site/163/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="5" catchup-source="http://hez1-flu.iptvstream.site/164/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="🎵 Музыкальные" tvg-logo="http://static.telestars.tv/logos/tntmusic.png",ТНТ Music
+http://hez1-flu.iptvstream.site/164/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="5" catchup-source="http://hez1-flu.iptvstream.site/165/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="🎵 Музыкальные" tvg-logo="http://static.telestars.tv/logos/ShansonTV.png",Шансон ТВ
+http://hez1-flu.iptvstream.site/165/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="5" catchup-source="http://hez1-flu.iptvstream.site/166/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="🎵 Музыкальные" tvg-logo="http://static.telestars.tv/logos/EuropaPlusTV_2.png",Europa Plus TV
+http://hez1-flu.iptvstream.site/166/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/167/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="🎵 Музыкальные" tvg-logo="http://static.telestars.tv/logos/RUTV.png",RU.TV
+http://hez1-flu.iptvstream.site/167/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/168/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="🎵 Музыкальные" tvg-logo="http://static.telestars.tv/logos/Lyaminor.png",Ля-минор
+http://hez1-flu.iptvstream.site/168/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="5" catchup-source="http://hez1-flu.iptvstream.site/169/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="🎵 Музыкальные" tvg-logo="http://static.telestars.tv/logos/MusicBox.png",Russian Music Box
+http://hez1-flu.iptvstream.site/169/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="5" catchup-source="http://hez1-flu.iptvstream.site/170/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="🎵 Музыкальные" tvg-logo="http://static.telestars.tv/logos/ZharaTV.png",Жара
+http://hez1-flu.iptvstream.site/170/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/171/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="🎵 Музыкальные" tvg-logo="http://static.telestars.tv/logos/BridgeTVRusHit.png",Bridge TV Русский хит
+http://hez1-flu.iptvstream.site/171/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/175/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="🎵 Музыкальные" tvg-logo="http://static.telestars.tv/logos/BridgeTVHD.png",Bridge HD
+http://hez1-flu.iptvstream.site/175/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/173/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="🎵 Музыкальные" tvg-logo="http://static.telestars.tv/logos/MTVLiveHD.png",MTV Live HD
+http://hez1-flu.iptvstream.site/173/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
 #EXTINF:-1 group-title="🎵 Музыкальные",1HD
 http://127.0.0.1:6878/ace/getstream?id=29dc5b990bbcf66b7466a7a7a13df3bf7e29c30a&.mp4
 #EXTINF:-1 group-title="🎵 Музыкальные",VIVA HD
