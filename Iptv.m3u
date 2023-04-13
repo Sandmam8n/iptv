@@ -757,7 +757,7 @@ http://hez1-flu.iptvstream.site/135/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3
 http://hez1-flu.iptvstream.site/136/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
 #EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/137/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/MatchFootball3.png",Матч! Футбол 3 HD
 http://hez1-flu.iptvstream.site/137/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
-#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/138/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные)" tvg-logo="http://static.telestars.tv/logos/MatchArena.png",Матч! Арена HD
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/138/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/MatchArena.png",Матч! Арена HD
 http://hez1-flu.iptvstream.site/138/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
 #EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/140/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/MatchIgra.png",Матч! Игра HD
 http://hez1-flu.iptvstream.site/140/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
