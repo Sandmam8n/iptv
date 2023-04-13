@@ -351,7 +351,7 @@ http://hez1-flu.iptvstream.site/300/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3
 http://hez1-flu.iptvstream.site/301/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
 #EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="21" catchup-source="http://hez1-flu.iptvstream.site/302/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="📽️ Фильмовые" tvg-logo="http://static.telestars.tv/logos/filmuadrama.png",FilmUA Drama
 http://hez1-flu.iptvstream.site/302/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
-#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/303/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="TELESTARS.TV (VPN)" tvg-logo="http://static.telestars.tv/logos/eurokino.png",Еврокино
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/303/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="📽️ Фильмовые" tvg-logo="http://static.telestars.tv/logos/eurokino.png",Еврокино
 http://hez1-flu.iptvstream.site/303/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
 #EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/53/index-${start}-${offset}.m3u8?token=397448%2C%2C%2C3293227093"  group-title="📽️ Фильмовые" tvg-logo="http://static.telestars.tv/logos/RussianComedy.png",Русская комедия
 http://hez1-flu.iptvstream.site/53/tracks-v1a1/mono.m3u8?token=397448%2C%2C%2C3293227093
