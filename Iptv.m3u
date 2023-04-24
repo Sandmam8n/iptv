@@ -18,8 +18,6 @@ https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8
 https://livetv.mylifeisgood.ml/channels/rentv.m3u8
 #EXTINF:-1 group-title="📺 Эфирные", ТНТ HD
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",ТНТ4 HD
-https://livetv.mylifeisgood.ml/channels/tnt4.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/79.png" ,СТС HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 #EXTINF:-1 group-title="📺 Эфирные", Пятница! HD
@@ -42,6 +40,8 @@ https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Оружие
 https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",ТНТ4 HD
+http://127.0.0.1:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="https://www.oreol.tv/img/034_subbota.jpg",Суббота!
 http://127.0.0.1:6878/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",СТС Love
