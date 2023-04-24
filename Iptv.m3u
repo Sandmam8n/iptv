@@ -4,16 +4,18 @@
 https://livetv.mylifeisgood.ml/channels/perviytest.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/984.png" ,Россия HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
-#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/2001.png" ,НТВ HD
-http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/2041.png" ,НТВ Хит
-http://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
-#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/1754.png" ,НТВ Сериал
-http://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
-#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/1753.png" ,НТВ Право
-http://ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8
-#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/1755.png" ,НТВ Стиль
-http://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",НТВ HD
+https://livetv.mylifeisgood.ml/channels/ntvhd.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",НТВ Хит
+https://livetv.mylifeisgood.ml/channels/ntvhit24.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",НТВ Сериал
+https://livetv.mylifeisgood.ml/channels/ntvserial24.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",НТВ Право
+https://livetv.mylifeisgood.ml/channels/ntvpravo24.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",НТВ Стиль
+https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",РЕН ТВ HD
+https://livetv.mylifeisgood.ml/channels/rentv.m3u8
 #EXTINF:-1 group-title="📺 Эфирные", ТНТ HD
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/79.png" ,СТС HD
