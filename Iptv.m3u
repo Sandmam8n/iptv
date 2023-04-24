@@ -50,6 +50,8 @@ https://livetv.mylifeisgood.ml/channels/stslove.m3u8
 http://127.0.0.1:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",КВН ТВ
 http://146.158.0.56:80/KVN/index.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Твоё ТВ
+http://84.38.180.145:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Телекафе
 http://31.148.48.15:80/Telekafe/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Luxury HD
@@ -108,8 +110,6 @@ http://176.222.190.76/btv/SWM/discovery_hd/discovery_hd.m3u8
 #EXTINF:0 tvg-rec="3",Galaxy HD
 #EXTGRP:🌏 Познавательные
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5045/index.m3u8
-#EXTINF:-1 tvg-id="morskoy" group-title="🌏 Познавательные",Моя стихия HD
-http://pd0ib21f.megatv.fun/iptv/GNSB6Z626A294L/7349/index.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat Nature/History HD
 http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat Nature HD
@@ -164,8 +164,6 @@ http://127.0.0.1:6878/ace/getstream?id=8753c67ddaedb391cca8e6a043ec85999f6b3199&
 http://127.0.0.1:6878/ace/getstream?id=ee5cd7316e917f156bf8d176a11da98fe403b0b2&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",ТВ XXI
 http://127.0.0.1:6878/ace/getstream?id=6af72b6047bed580ad57c036ce635dd93233abb6&.mp4
-#EXTINF:-1 group-title="🌏 Познавательные",.black
-http://127.0.0.1:6878/ace/getstream?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Совершенно Секретно
 http://127.0.0.1:6878/ace/getstream?id=e01cca4c9eed9644507650b6e0bdfcd8ce28acb5&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные" tvg-logo="http://epg.it999.ru/img2/6240.png" ,START World HD
@@ -206,6 +204,8 @@ http://127.0.0.1:6878/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&
 http://127.0.0.1:6878/ace/getstream?id=75860e73e6149fed0f781f08e7f93b19c9dc00d2&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Da Vinci
 http://127.0.0.1:6878/ace/getstream?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14&.mp4
+#EXTINF:-1 group-title="🌏 Познавательные",Fashion TV HD
+http://127.0.0.1:6878/ace/getstream?id=ac7762efa1c33ece2dd0e97abe1e9149e3ddafc6&.mp4
 
 #EXTINF:-1 group-title="📽️ Фильмовые" tvg-logo="http://epg.it999.ru/img/2823.png" ,VIP Comedy HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
@@ -344,12 +344,12 @@ http://127.0.0.1:6878/ace/getstream?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8&
 http://127.0.0.1:6878/ace/getstream?id=5b1f4a0fb8abc134de4692179b55e4008f0e5e82&.mp4
 #EXTINF:-1 group-title="📽️ Фильмовые",Amedia 2 HD
 http://127.0.0.1:6878/ace/getstream?id=bfb6b4b7809b0852e6c2ce6fdfa60794dcc089ac&.mp4
+#EXTINF:-1 group-title="📽️ Фильмовые",.black
+http://127.0.0.1:6878/ace/getstream?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5&.mp4
 #EXTINF:-1 group-title="📽️ Фильмовые",.sci-fi
 http://127.0.0.1:6878/ace/getstream?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6&.mp4
 #EXTINF:-1 group-title="📽️ Фильмовые",.red HD
 http://127.0.0.1:6878/ace/getstream?id=e5546c985741ec758b39030c59ade2f3a311a06e&.mp4
-#EXTINF:-1 group-title="📽️ Фильмовые",Fashion TV HD
-http://127.0.0.1:6878/ace/getstream?id=ac7762efa1c33ece2dd0e97abe1e9149e3ddafc6&.mp4
 #EXTINF:-1 group-title="📽️ Фильмовые",CineMan РуКино
 http://127.0.0.1:6878/ace/getstream?id=51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b&.mp4
 #EXTINF:-1 group-title="📽️ Фильмовые",CineMan Top
@@ -431,8 +431,6 @@ http://127.0.0.1:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8&
 #EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",Фантастика HD
 #EXTVLCOPT:http-user-agent=MrDeniZ
 https://hls.goodgame.ru/hls/187241.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",Твоё ТВ
-http://84.38.180.145:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",SCR TV HD
 #EXTVLCOPT:http-user-agent=MrDeniZ
 https://hls.goodgame.ru/hls/61358.m3u8
