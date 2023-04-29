@@ -2,10 +2,10 @@
 
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
 https://livetv.mylifeisgood.ml/channels/perviytest.m3u8
-#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/984.png" ,Россия HD
-http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",НТВ HD
-https://livetv.mylifeisgood.ml/channels/ntvhd.m3u8
+#EXTINF:-1 group-title="📺 Эфирные", Россия 1 HD
+https://mobdrm.mediavitrina.ru:443/hls-live2/streams/russia1/3s/russia1-chunks-5.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
+#EXTINF:-1 group-title="📺 Эфирные", НТВ HD
+https://mobdrm.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/ntv0h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Хит
 https://livetv.mylifeisgood.ml/channels/ntvhit24.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Сериал
@@ -804,8 +804,6 @@ https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt2h/tracks-v
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt4h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="➕ Федеральные плюс",ТНТ HD (+7)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt7h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
-#EXTINF:-1 group-title="➕ Федеральные плюс", НТВ HD
-https://mobdrm.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/ntv0h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="➕ Федеральные плюс",НТВ HD (+2)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/ntv2h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="➕ Федеральные плюс",НТВ HD (+4)
