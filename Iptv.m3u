@@ -16,12 +16,20 @@ https://livetv.mylifeisgood.ml/channels/ntvserial24.m3u8
 https://livetv.mylifeisgood.ml/channels/ntvpravo24.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Стиль
 https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8
+#EXTINF:-1 group-title="📺 Эфирные", Рен ТВ HD
+https://mobdrm.mediavitrina.ru:443/hls-live2/streams/ren-tv/3s/ren-tv-chunks-5.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="📺 Эфирные",РЕН ТВ HD
 https://livetv.mylifeisgood.ml/channels/rentv.m3u8
 #EXTINF:-1 group-title="📺 Эфирные", ТНТ HD
+https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
+#EXTINF:-1 group-title="📺 Эфирные", ТНТ HD
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
+#EXTINF:-1 group-title="📺 Эфирные", СТС HD
+https://mobdrm.mediavitrina.ru:443/hls-live1/streams/ctc/3s/ctc-chunks-5.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/79.png" ,СТС HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
+#EXTINF:-1 group-title="📺 Эфирные", Пятница! HD
+https://mobdrm.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/friday/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="📺 Эфирные", Пятница! HD
 https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
 #EXTINF:-1 tvg-id="zvezda" group-title="📺 Эфирные",Звезда HD
@@ -36,6 +44,8 @@ http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
 #EXTINF:-1 tvg-id="mir" group-title="📺 Эфирные",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="📺 Эфирные", ТВ3 HD
+https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="📺 Эфирные", ТВ3 HD
 https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" group-title="📺 Эфирные",Россия Культура
@@ -812,18 +822,12 @@ https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/ntv2h/tracks-v
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/ntv4h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="➕ Федеральные плюс",НТВ HD (+7)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/ntv7h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
-#EXTINF:-1 group-title="➕ Федеральные плюс", Рен ТВ HD
-https://mobdrm.mediavitrina.ru:443/hls-live2/streams/ren-tv/3s/ren-tv-chunks-5.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
-#EXTINF:-1 group-title="➕ Федеральные плюс", СТС HD
-https://mobdrm.mediavitrina.ru:443/hls-live1/streams/ctc/3s/ctc-chunks-5.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="➕ Федеральные плюс",СТС (+2)
 https://mobdrm.mediavitrina.ru:443/hls-live1/streams/ctc2/3s/ctc2-chunks-3.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="➕ Федеральные плюс",СТС (+4)
 https://mobdrm.mediavitrina.ru:443/hls-live1/streams/ctc4/3s/ctc4-chunks-3.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="➕ Федеральные плюс",СТС (+7)
 https://mobdrm.mediavitrina.ru:443/hls-live1/streams/ctc7/3s/ctc7-chunks-3.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
-#EXTINF:-1 group-title="➕ Федеральные плюс", ТВ3
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="➕ Федеральные плюс",ТВ-3 HD (+2)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3h2/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="➕ Федеральные плюс",ТВ-3 HD (+4)
@@ -838,8 +842,6 @@ https://mobdrm.mediavitrina.ru:443/hls-live1/streams/ctc-dom2/3s/ctc-dom2-chunks
 https://mobdrm.mediavitrina.ru:443/hls-live1/streams/ctc-dom4/3s/ctc-dom4-chunks-3.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="➕ Федеральные плюс",Домашний (+7)
 https://mobdrm.mediavitrina.ru:443/hls-live1/streams/ctc-dom7/3s/ctc-dom7-chunks-3.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
-#EXTINF:-1 group-title="➕ Федеральные плюс", Пятница!
-https://mobdrm.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/friday/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="➕ Федеральные плюс",Пятница HD (+2)
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/friday2h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="➕ Федеральные плюс",Пятница HD (+4)
