@@ -32,6 +32,8 @@ http://hez1-flu.iptvstream.site/10/tracks-v1a1/mono.m3u8?token=463745%2C%2C%2C49
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="📺 Эфирные", ТНТ HD
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/14/index-${start}-${offset}.m3u8?token=463745%2C%2C%2C4965472754"  group-title="📺 Эфирные" tvg-logo="http://static.telestars.tv/logos/STS.png",СТС HD
+http://hez1-flu.iptvstream.site/14/tracks-v1a1/mono.m3u8?token=463745%2C%2C%2C4965472754
 #EXTINF:-1 group-title="📺 Эфирные", СТС HD
 https://mobdrm.mediavitrina.ru:443/hls-live1/streams/ctc/3s/ctc-chunks-5.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/79.png" ,СТС HD
