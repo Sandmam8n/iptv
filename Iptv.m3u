@@ -1,11 +1,17 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz,https://iptvx.one/EPG"
 
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/5/index-${start}-${offset}.m3u8?token=463745%2C%2C%2C4965472754"  group-title="📺 Эфирные" tvg-logo="http://static.telestars.tv/logos/Pervyi_kanal.png",Первый канал HD
+http://hez1-flu.iptvstream.site/5/tracks-v1a1/mono.m3u8?token=463745%2C%2C%2C4965472754
 #EXTINF:-1 group-title="📺 Эфирные", Первый канал HD
 https://mobdrm.mediavitrina.ru/hls-live1/streams/1tv/3s/1tv-chunks-5.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
 https://livetv.mylifeisgood.ml/channels/perviytest.m3u8
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/7/index-${start}-${offset}.m3u8?token=463745%2C%2C%2C4965472754" group-title="📺 Эфирные" tvg-logo="http://static.telestars.tv/logos/Rossiya1.png",Россия 1 HD
+http://hez1-flu.iptvstream.site/7/tracks-v1a1/mono.m3u8?token=463745%2C%2C%2C4965472754
 #EXTINF:-1 group-title="📺 Эфирные", Россия 1 HD
 https://mobdrm.mediavitrina.ru:443/hls-live2/streams/russia1/3s/russia1-chunks-5.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/9/index-${start}-${offset}.m3u8?token=463745%2C%2C%2C4965472754"  group-title="📺 Эфирные" tvg-logo="http://static.telestars.tv/logos/NTVHD.png",НТВ HD
+http://hez1-flu.iptvstream.site/9/tracks-v1a1/mono.m3u8?token=463745%2C%2C%2C4965472754
 #EXTINF:-1 group-title="📺 Эфирные", НТВ HD
 https://mobdrm.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/ntv0h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Хит
@@ -20,6 +26,8 @@ https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8
 https://mobdrm.mediavitrina.ru:443/hls-live2/streams/ren-tv/3s/ren-tv-chunks-5.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="📺 Эфирные",РЕН ТВ HD
 https://livetv.mylifeisgood.ml/channels/rentv.m3u8
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/10/index-${start}-${offset}.m3u8?token=463745%2C%2C%2C4965472754"  group-title="📺 Эфирные" tvg-logo="http://static.telestars.tv/logos/TNTHD.png",ТНТ HD
+http://hez1-flu.iptvstream.site/10/tracks-v1a1/mono.m3u8?token=463745%2C%2C%2C4965472754
 #EXTINF:-1 group-title="📺 Эфирные", ТНТ HD
 https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
 #EXTINF:-1 group-title="📺 Эфирные", ТНТ HD
@@ -233,8 +241,6 @@ http://hez1-flu.iptvstream.site/57/tracks-v1a1/mono.m3u8?token=463745%2C%2C%2C49
 http://hez1-flu.iptvstream.site/58/tracks-v1a1/mono.m3u8?token=463745%2C%2C%2C4965472754
 #EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/59/index-${start}-${offset}.m3u8?token=463745%2C%2C%2C4965472754"  group-title="📽️ Фильмовые" tvg-logo="http://static.telestars.tv/logos/DOmKinoHDpremium.png",Дом кино премиум HD
 http://hez1-flu.iptvstream.site/59/tracks-v1a1/mono.m3u8?token=463745%2C%2C%2C4965472754
-#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/60/index-${start}-${offset}.m3u8?token=463745%2C%2C%2C4965472754"  group-title="📽️ Фильмовые" tvg-logo="http://static.telestars.tv/logos/Zvezda.png",Звезда
-http://hez1-flu.iptvstream.site/60/tracks-v1a1/mono.m3u8?token=463745%2C%2C%2C4965472754
 #EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="7" catchup-source="http://hez1-flu.iptvstream.site/61/index-${start}-${offset}.m3u8?token=463745%2C%2C%2C4965472754"  group-title="📽️ Фильмовые" tvg-logo="http://static.telestars.tv/logos/pobeda.png",Победа
 http://hez1-flu.iptvstream.site/61/tracks-v1a1/mono.m3u8?token=463745%2C%2C%2C4965472754
 #EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/62/index-${start}-${offset}.m3u8?token=463745%2C%2C%2C4965472754"  group-title="📽️ Фильмовые" tvg-logo="http://static.telestars.tv/logos/TV1000_Rus.png",TV1000 Русское кино
