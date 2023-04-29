@@ -520,10 +520,14 @@ http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/17025/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Спортивные", Матч ТВ HD
 https://mobdrm.mediavitrina.ru:443/hls-live1/streams/matchtv/3s/matchtv-chunks-5.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.FMP0Atr2DxBqrn12i2yiVALKeBreDn-IbU6n2FmtYIw.giKB8LXOHFvqIPVrbO1r6mnUOIEG52r03RWSki06oL4.1683313415.0d635ab84c6e95a898a236dcb3ea16b1
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/132/index-${start}-${offset}.m3u8?token=463745%2C%2C%2C4965472754"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/MatchTV.png",Матч ТВ HD
+http://hez1-flu.iptvstream.site/132/tracks-v1a1/mono.m3u8?token=463745%2C%2C%2C4965472754
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 http://194.143.148.28:8080/MatchHD/mpegts
+#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/134/index-${start}-${offset}.m3u8?token=463745%2C%2C%2C4965472754"  group-title="⚽ Спортивные" tvg-logo="http://static.telestars.tv/logos/MatchPremier.png",Матч! Премьер HD
+http://hez1-flu.iptvstream.site/134/tracks-v1a1/mono.m3u8?token=463745%2C%2C%2C4965472754
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
