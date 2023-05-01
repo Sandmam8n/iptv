@@ -556,28 +556,22 @@ http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/17023/index.m3u8
 #EXTGRP:🎬 4K
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/17025/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Спортивные",МАТЧ ТВ HD
+#EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 http://hlstv.kem.211.ru/239.211.200.22/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",МАТЧ! ИГРА HD
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Игра HD
 http://hlstv.kem.211.ru/239.211.200.11/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",KHL PRIME HD
+#EXTINF:-1 group-title="⚽ Спортивные",KHL Prime HD
 http://hlstv.kem.211.ru/239.211.200.12/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",МАТЧ! ПРЕМЬЕР HD
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",МАТЧ!ФУТБОЛ 1 HD
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
 http://hlstv.kem.211.ru/239.211.200.171/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",МАТЧ!ФУТБОЛ 2 HD
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 2 HD
 http://hlstv.kem.211.ru/239.211.200.172/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",МАТЧ!ФУТБОЛ 3 HD
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 3 HD
 http://hlstv.kem.211.ru/239.211.200.173/stream.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",MMA-TV.COM HD
 http://hlstv.kem.211.ru/239.211.200.190/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные" tvg-id="match-futbol1-hd" tvg-name="МАТЧ! Футбол 1 HD" tvg-logo="https://static.g-cdn.app/streams/match-futbol1-hd.png",Матч! ФУТБОЛ 1 HD
-http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
-#EXTINF:-1 group-title="⚽ Спортивные" tvg-id="match-futbol2-hd" tvg-name="МАТЧ! Футбол 2 HD" tvg-logo="https://static.g-cdn.app/streams/match-futbol2-hd.png",Матч! ФУТБОЛ 2 HD
-http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
-#EXTINF:-1 group-title="⚽ Спортивные" tvg-id="match-futbol3-hd" tvg-name="МАТЧ! Футбол 3 HD" tvg-logo="https://static.g-cdn.app/streams/match-futbol3-hd.png",Матч! ФУТБОЛ 3 HD
-http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
