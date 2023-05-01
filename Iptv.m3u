@@ -2,10 +2,13 @@
 
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
 https://livetv.mylifeisgood.ml/channels/perviytest.m3u8
-#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/7/index-${start}-${offset}.m3u8?token=463745%2C%2C%2C4965472754" group-title="📺 Эфирные" tvg-logo="http://static.telestars.tv/logos/Rossiya1.png",Россия 1 HD
-http://hez1-flu.iptvstream.site/7/tracks-v1a1/mono.m3u8?token=463745%2C%2C%2C4965472754
-#EXTINF:-1 stream-id="stream_id" catchup="default" catchup-days="14" catchup-source="http://hez1-flu.iptvstream.site/9/index-${start}-${offset}.m3u8?token=463745%2C%2C%2C4965472754"  group-title="📺 Эфирные" tvg-logo="http://static.telestars.tv/logos/NTVHD.png",НТВ HD
-http://hez1-flu.iptvstream.site/9/tracks-v1a1/mono.m3u8?token=463745%2C%2C%2C4965472754
+#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/984.png",Россия HD
+http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",НТВ HD
+http://31.40.149.157:9981/stream/channelid/1199495908?ticket=EF933AA009DCB448647BCDA8A834EB81A6F8C1C5&profile=pass
+#EXTINF:-1 group-title="📺 Эфирные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Хит
 https://livetv.mylifeisgood.ml/channels/ntvhit24.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Сериал
@@ -503,6 +506,12 @@ http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/17023/index.m3u8
 #EXTGRP:🎬 4K
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/17025/index.m3u8
 
+#EXTINF:-1 group-title="⚽ Спортивные" tvg-id="match-futbol1-hd" tvg-name="МАТЧ! Футбол 1 HD" tvg-logo="https://static.g-cdn.app/streams/match-futbol1-hd.png",Матч! ФУТБОЛ 1 HD
+http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="⚽ Спортивные" tvg-id="match-futbol2-hd" tvg-name="МАТЧ! Футбол 2 HD" tvg-logo="https://static.g-cdn.app/streams/match-futbol2-hd.png",Матч! ФУТБОЛ 2 HD
+http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="⚽ Спортивные" tvg-id="match-futbol3-hd" tvg-name="МАТЧ! Футбол 3 HD" tvg-logo="https://static.g-cdn.app/streams/match-futbol3-hd.png",Матч! ФУТБОЛ 3 HD
+http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
