@@ -734,8 +734,6 @@ http://pilotfm.ru:80/cam/hls/pilothd.m3u8
 http://89.251.159.37:8080/hls/tartipfm.m3u8
 #EXTINF:-1 group-title="📻 Радио",Трансмит (Череповец)
 https://live.35media.ru/transmit-video/1080/s.m3u8
-#EXTINF:-1 group-title="📻 Радио",Рекорд (KG)
-rtmp://datatop.ts.kg/myapp/recordonline
 #EXTINF:-1 group-title="📻 Радио",России
 http://livehlsvgtrkrf.cdnvideo.ru/hls/radio_rus/playlist_4.m3u8
 #EXTINF:-1 group-title="📻 Радио",России (Уфа)
