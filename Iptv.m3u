@@ -254,7 +254,7 @@ http://127.0.0.1:6878/ace/getstream?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14&
 #EXTINF:-1 group-title="🌏 Познавательные",Fashion TV HD
 http://127.0.0.1:6878/ace/getstream?id=ac7762efa1c33ece2dd0e97abe1e9149e3ddafc6&.mp4
 
-#EXTINF:-1 group-title=📽️ Фильмовые",Ultra HD Cinema
+#EXTINF:-1 group-title="📽️ Фильмовые",Ultra HD Cinema
 http://hlstv.kem.211.ru/239.211.200.64/stream.m3u8
 #EXTINF:-1 group-title="📽️ Фильмовые",KinoJAM 1 HD
 http://hlstv.kem.211.ru/239.211.200.87/stream.m3u8
