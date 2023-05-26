@@ -157,9 +157,6 @@ rtmp://5.182.231.251//2102
 http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery HD
 http://127.0.0.1:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771&.mp4
-#EXTINF:0 tvg-rec="3",Galaxy HD
-#EXTGRP:🌏 Познавательные
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5045/index.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat Nature/History HD
 http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat Nature HD
