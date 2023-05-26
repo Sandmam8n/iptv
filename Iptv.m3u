@@ -155,11 +155,8 @@ http://hlstv.kem.211.ru/239.211.200.9/stream.m3u8
 rtmp://5.182.231.251//2102
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
 http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
-#EXTINF:0 tvg-rec="7",Discovery HD
-#EXTGRP:🌏 Познавательные
-http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/227/index.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные" ,Discovery HD
-http://176.222.190.76/btv/SWM/discovery_hd/discovery_hd.m3u8
+#EXTINF:-1 group-title="🌏 Познавательные",Discovery HD
+http://127.0.0.1:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771&.mp4
 #EXTINF:0 tvg-rec="3",Galaxy HD
 #EXTGRP:🌏 Познавательные
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5045/index.m3u8
