@@ -1,10 +1,6 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz,https://iptvx.one/EPG"
 
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
-http://hlstv.kem.211.ru/239.211.200.1/stream.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Россия HD
-http://hlstv.kem.211.ru/239.211.200.2/stream.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
 https://livetv.mylifeisgood.ml/channels/perviytest.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/984.png",Россия HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
@@ -105,52 +101,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" group-title="📰 Новости",Россия 24 HD
 http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc18/playlist_6.m3u8
 
-#EXTINF:-1 group-title="🌏 Познавательные",Terra HD
-http://hlstv.kem.211.ru/239.211.200.16/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",МОЯ ПЛАНЕТА HD
-http://hlstv.kem.211.ru/239.211.200.19/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",RTG HD
-http://hlstv.kem.211.ru/239.211.200.20/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",Первый Космический HD
-http://hlstv.kem.211.ru/239.211.200.26/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",ГЛАЗАМИ ТУРИСТА HD
-http://hlstv.kem.211.ru/239.211.200.35/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",НАША СИБИРЬ HD
-http://hlstv.kem.211.ru/239.211.200.30/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",НАУКА
-http://hlstv.kem.211.ru/239.211.211.10/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",ЖИВАЯ ПРИРОДА HD
-http://hlstv.kem.211.ru/239.211.200.27/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",ПРИКЛЮЧЕНИЯ HD
-http://hlstv.kem.211.ru/239.211.200.23/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",TRAVEL+ADVENTURE HD
-http://hlstv.kem.211.ru/239.211.200.7/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",ГЛАЗАМИ ТУРИСТА 4K
-http://hlstv.kem.211.ru/239.211.200.61/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",HOME 4K
-http://hlstv.kem.211.ru/239.211.200.62/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",GALAXY
-http://hlstv.kem.211.ru/239.211.211.39/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",TERRA
-http://hlstv.kem.211.ru/239.211.211.40/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",ТЕХНО 24
-http://hlstv.kem.211.ru/239.211.211.45/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",RTG TV
-http://hlstv.kem.211.ru/239.211.211.49/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",ИСТОРИЯ
-http://hlstv.kem.211.ru/239.211.211.55/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",ОХОТНИК И РЫБОЛОВ HD
-http://hlstv.kem.211.ru/239.211.211.60/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",НАНО ТВ
-http://hlstv.kem.211.ru/239.211.211.94/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",ЖИВАЯ ПЛАНЕТА
-http://hlstv.kem.211.ru/239.211.211.105/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",БОЛЬШАЯ АЗИЯ
-http://hlstv.kem.211.ru/239.211.211.162/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",КАПИТАН ФАНТАСТИКА HD
-http://hlstv.kem.211.ru/239.211.200.8/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",В МИРЕ ЖИВОТНЫХ HD
-http://hlstv.kem.211.ru/239.211.200.9/stream.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Investigation Discovery HD
 rtmp://5.182.231.251//2102
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
@@ -254,52 +204,6 @@ http://127.0.0.1:6878/ace/getstream?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14&
 #EXTINF:-1 group-title="🌏 Познавательные",Fashion TV HD
 http://127.0.0.1:6878/ace/getstream?id=ac7762efa1c33ece2dd0e97abe1e9149e3ddafc6&.mp4
 
-#EXTINF:-1 group-title="📽️ Фильмовые",Ultra HD Cinema
-http://hlstv.kem.211.ru/239.211.200.64/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",KinoJAM 1 HD
-http://hlstv.kem.211.ru/239.211.200.87/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",KinoJAM 2 HD
-http://hlstv.kem.211.ru/239.211.200.88/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",ДЕТЕКТИВ JAM HD
-http://hlstv.kem.211.ru/239.211.200.89/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",FAMILY JAM HD
-http://hlstv.kem.211.ru/239.211.200.90/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",ДОМ КИНО ПРЕМИУМ HD
-http://hlstv.kem.211.ru/239.211.200.103/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",БЛОКБАСТЕР HD
-http://hlstv.kem.211.ru/239.211.200.38/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",КИНОПРЕМЬЕРА HD
-http://hlstv.kem.211.ru/239.211.200.28/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",КИНОСЕМЬЯ
-http://hlstv.kem.211.ru/239.211.211.140/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",ИНДИЙСКОЕ КИНО
-http://hlstv.kem.211.ru/239.211.211.154/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",КИНОСВИДАНИЕ
-http://hlstv.kem.211.ru/239.211.211.141/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",КИНОХИТ
-http://hlstv.kem.211.ru/239.211.211.142/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",НАШЕ НОВОЕ КИНО
-http://hlstv.kem.211.ru/239.211.211.143/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",МУЖСКОЕ КИНО HD
-http://hlstv.kem.211.ru/239.211.200.31/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",РОДНОЕ КИНО
-http://hlstv.kem.211.ru/239.211.211.144/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",КИНОУЖАС HD
-http://hlstv.kem.211.ru/239.211.200.43/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",КИНОМИКС HD
-http://hlstv.kem.211.ru/239.211.200.194/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",КИНОКОМЕДИЯ HD
-http://hlstv.kem.211.ru/239.211.200.139/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",КИНОСЕРИЯ HD
-http://hlstv.kem.211.ru/239.211.200.44/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",Plan B HD
-http://hlstv.kem.211.ru/239.211.200.50/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",FAN HD
-http://hlstv.kem.211.ru/239.211.200.51/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",START AIR HD
-http://hlstv.kem.211.ru/239.211.200.52/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",START WORLD HD
-http://hlstv.kem.211.ru/239.211.200.53/stream.m3u8
 #EXTINF:-1 group-title="📽️ Фильмовые",Кинопоказ
 http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
 #EXTINF:-1 group-title="📽️ Фильмовые" tvg-logo="http://epg.it999.ru/img/2823.png" ,VIP Comedy HD
@@ -527,22 +431,6 @@ https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
-http://hlstv.kem.211.ru/239.211.200.22/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Игра HD
-http://hlstv.kem.211.ru/239.211.200.11/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",KHL Prime HD
-http://hlstv.kem.211.ru/239.211.200.12/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
-http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
-http://hlstv.kem.211.ru/239.211.200.171/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 2 HD
-http://hlstv.kem.211.ru/239.211.200.172/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 3 HD
-http://hlstv.kem.211.ru/239.211.200.173/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",MMA-TV.COM HD
-http://hlstv.kem.211.ru/239.211.200.190/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 http://194.143.148.28:8080/MatchHD/mpegts
@@ -552,10 +440,6 @@ https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
-http://80.251.49.103:8003/play/140
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 2 HD
-http://80.251.49.103:8003/play/232
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
 http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 2 HD
