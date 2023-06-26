@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz,https://iptvx.one/EPG"
 
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
-http://hez1-flu.iptvstream.site/5/tracks-v1a1/mono.m3u8?token=146552,,,5323474066
+http://ott.server-iptv.live/101/video.m3u8?token=SC2CDFBE97
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
 https://livetv.mylifeisgood.ml/channels/perviytest.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/984.png",Россия HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ HD
-http://hez1-flu.iptvstream.site/9/tracks-v1a1/mono.m3u8?token=146552,,,5323474066
+http://ott.server-iptv.live/103/video.m3u8?token=SC2CDFBE97
 #EXTINF:-1 group-title="📺 Эфирные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
@@ -59,8 +59,6 @@ http://146.158.0.56:80/KVN/index.m3u8
 http://84.38.180.145:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Телекафе
 http://31.148.48.15:80/Telekafe/index.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Luxury HD
-http://nano.teleservice.su:8080/hls/luxury.m3u8
 
 #EXTINF:-1 tvg-id="dozhd" group-title="📰 Новости",Дождь
 http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
