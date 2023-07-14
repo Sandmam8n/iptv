@@ -26,9 +26,6 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
 #EXTINF:-1 tvg-id="zvezda" group-title="📺 Эфирные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:0 tvg-rec="3",Ю ТВ
-#EXTGRP:📺 Эфирные
-http://8fdcf128.cbilant.com/iptv/7S529WDMX6EHL9/9107/index.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="http://www.oreol.tv/img/027_u.jpg" group-title="📺 Эфирные",Ю ТВ
 https://strm.yandex.ru/kal/utv/utv0.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/1598.png" ,Че
@@ -103,12 +100,6 @@ http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc18/playlist_6.m3u8
 
 #EXTINF:-1 group-title="🌏 Познавательные",Galaxy
 http://146.158.0.56/Galaxy/mono.m3u8
-#EXTINF:0 tvg-rec="3",Investigation Discovery HD
-#EXTGRP:🌏 Познавательные
-http://8fdcf128.cbilant.com/iptv/7S529WDMX6EHL9/9054/index.m3u8
-#EXTINF:0 tvg-rec="3",Discovery HD
-#EXTGRP:🌏 Познавательные
-http://8fdcf128.cbilant.com/iptv/7S529WDMX6EHL9/9011/index.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Investigation Discovery HD
 rtmp://5.182.231.251//2102
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
@@ -438,9 +429,6 @@ https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",MediaService Lorenz TV
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
 
-#EXTINF:0 tvg-rec="3",Матч ТВ HD
-#EXTGRP:⚽ Спортивные
-http://8fdcf128.cbilant.com/iptv/7S529WDMX6EHL9/2413/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
@@ -457,9 +445,6 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
-#EXTINF:0 tvg-rec="3",Матч! Премьер HD
-#EXTGRP:⚽ Спортивные
-http://8fdcf128.cbilant.com/iptv/7S529WDMX6EHL9/2414/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
