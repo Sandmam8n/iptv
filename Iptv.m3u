@@ -451,7 +451,7 @@ http://94.230.128.172:7353/1.ts
 https://federaltv-migra.cdnvideo.ru/mpremier/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч Премьер HD
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIzIDY6NTc6NDMgQU0maGFzaF92YWx1ZT1COTRlc1FOU256V21weU9KR29uMlR3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
