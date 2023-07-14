@@ -432,6 +432,9 @@ http://84.38.180.145:8080/Uhierjfk/index.m3u8
 #EXTINF:0,Матч ТВ HD
 #EXTGRP:⚽ Спортивные
 http://125c43e8.amazzin.pw/iptv/G8K83VRM8BL63W/2413/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч ТВ HD
+#EXTGRP:⚽ Спортивные
+http://8fdcf128.cbilant.com/iptv/7S529WDMX6EHL9/2413/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:0,МАТЧ! Футбол 1 HD
@@ -457,8 +460,6 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
-https://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 #EXTINF:0,Матч! Премьер HD
 #EXTGRP:⚽ Спортивные
 http://125c43e8.amazzin.pw/iptv/G8K83VRM8BL63W/2414/index.m3u8
