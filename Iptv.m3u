@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz,https://iptvx.one/EPG"
 
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
-http://95.181.17.26/dvr01/hd1/1kanal_hd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNC8yMDIzIDY6NTc6NDMgQU0maGFzaF92YWx1ZT1COTRlc1FOU256V21weU9KR29uMlR3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
 http://ott.server-iptv.live/101/video.m3u8?token=SC2CDFBE97
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
 https://livetv.mylifeisgood.ml/channels/perviytest.m3u8
