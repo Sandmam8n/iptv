@@ -8,16 +8,14 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",НТВ Хит
-https://livetv.mylifeisgood.ml/channels/ntvhit24.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",НТВ Сериал
-https://livetv.mylifeisgood.ml/channels/ntvserial24.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",НТВ Право
-https://livetv.mylifeisgood.ml/channels/ntvpravo24.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",НТВ ХИТ
+http://127.0.0.1:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Стиль
-https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",РЕН ТВ HD
-https://livetv.mylifeisgood.ml/channels/rentv.m3u8
+http://127.0.0.1:6878/ace/getstream?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6&.mp4
+#EXTINF:-1 group-title="📺 Эфирные",НТВ Сериал
+http://127.0.0.1:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993&.mp4
+#EXTINF:-1 group-title="📺 Эфирные",РЕН ТВ
+http://127.0.0.1:6878/ace/getstream?id=5d2b34377ff010af21f777600c6be77d4479f2eb&.mp4
 #EXTINF:-1 group-title="📺 Эфирные", ТНТ HD
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/79.png" ,СТС HD
@@ -40,18 +38,16 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
 #EXTINF:-1 tvg-id="kultura" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" group-title="📺 Эфирные",Россия Культура
 https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Оружие
-https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",ТНТ4 HD
 http://127.0.0.1:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="https://www.oreol.tv/img/034_subbota.jpg",Суббота!
 http://127.0.0.1:6878/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",СТС Love
-https://livetv.mylifeisgood.ml/channels/stslove.m3u8
+http://127.0.0.1:6878/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",СТС Kids HD
 http://127.0.0.1:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",КВН ТВ
-http://146.158.0.56:80/KVN/index.m3u8
+http://94.230.128.172:7451/1.ts
 #EXTINF:-1 group-title="📺 Эфирные",Твоё ТВ
 http://84.38.180.145:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Телекафе
