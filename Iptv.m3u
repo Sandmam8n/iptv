@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz,https://iptvx.one/EPG"
 
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
-http://94.230.128.172:7015/1.ts
-#EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/984.png",Россия HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
@@ -429,8 +427,6 @@ http://84.38.180.145:8080/Uhierjfk/index.m3u8
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
-http://94.230.128.172:7365/1.ts
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные" ,Матч! Футбол 1 HD
@@ -439,8 +435,6 @@ http://194.143.148.28:8080/MatchFutbol1/mpegts
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 3 HD
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
-http://94.230.128.172:7353/1.ts
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 https://federaltv-migra.cdnvideo.ru/mpremier/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
