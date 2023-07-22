@@ -3,8 +3,6 @@
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:0,Первый канал HD
-#EXTGRP:📺 Эфирные
-http://ott.server-iptv.live/101/video.m3u8?token=SC2CDFBE97
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/984.png",Россия HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ HD
@@ -41,9 +39,6 @@ https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",ТНТ4 HD
 http://127.0.0.1:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
-#EXTINF:0,Суббота!
-#EXTGRP:📺 Эфирные
-http://ott.server-iptv.live/126/video.m3u8?token=SC2CDFBE97
 #EXTINF:-1 group-title="📺 Эфирные",СТС Love
 http://127.0.0.1:6878/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",СТС Kids HD
