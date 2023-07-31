@@ -963,22 +963,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
 #EXTINF:-1 tvg-id="playboy-tv-uk" group-title="🔞 Взрослые",Playboy UK
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="playboy-tv" group-title="🔞 Взрослые",Playboy
-http://93.125.29.22:8901/playboy-tv
-#EXTINF:-1 tvg-id="o-la-la" group-title="🔞 Взрослые",O-la-la
-http://93.125.29.22:8787/Olala
-#EXTINF:-1 tvg-logo="https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg" group-title="🔞 Взрослые",KALOOPY
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2115
-#EXTINF:-1 tvg-logo="https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg" group-title="🔞 Взрослые",Miami TV
-http://59ec5453559f0.streamlock.net:1935/Miamitv/smil:WEB/chuklist.m3u8
-#EXTINF:-1 tvg-logo="https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg" group-title="🔞 Взрослые",Babestation
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg" group-title="🔞 Взрослые",Eropuls DE 18+
-https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
-#EXTINF:-1 tvg-logo="https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg" group-title="🔞 Взрослые",XXX Cartoon
-http://144.76.58.245:2307/cartoon/index.m3u8
-#EXTINF:-1 group-title="🔞 Взрослые",🔹🔹👇🔹🔹ADULT IPTV🔹🔹👇🔹🔹
-http://online.radiorelax.ua/RadioRelax_Christmas_HD
 #EXTINF:-1 group-title="🔞 Взрослые",Rough
 http://cdn.adultiptv.net/rough.m3u8
 #EXTINF:-1 group-title="🔞 Взрослые",Blonde
@@ -1011,12 +995,6 @@ http://cdn.adultiptv.net/fetish.m3u8
 http://live.redtraffic.xyz/bigtits.m3u8
 #EXTINF:-1 group-title="🔞 Взрослые",Big Dick
 http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="🔞 Взрослые",MILF
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="🔞 Взрослые",Pornstar
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 group-title="🔞 Взрослые",Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
 #EXTINF:-1 group-title="🔞 Взрослые",Gay
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 group-title="🔞 Взрослые",Bigass HD
