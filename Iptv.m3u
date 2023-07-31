@@ -94,6 +94,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" group-title="📰 Новости",Россия 24 HD
 http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc18/playlist_6.m3u8
 
+#EXTINF:0,Investigation Discovery HD
+#EXTGRP:🌏 Познавательные
+http://ott.server-iptv.live/443/video.m3u8?token=SC2CDFBE97
 #EXTINF:-1 group-title="🌏 Познавательные",Galaxy
 http://146.158.0.56/Galaxy/mono.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
