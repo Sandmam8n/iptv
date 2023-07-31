@@ -94,9 +94,17 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" group-title="📰 Новости",Россия 24 HD
 http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc18/playlist_6.m3u8
 
+#EXTINF:-1 group-title="🌏 Познавательные",Viasat Explore HD
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="🌏 Познавательные",Viasat History HD
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="🌏Познавательные",Viasat Nature HD
+https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0,Investigation Discovery HD
 #EXTGRP:🌏 Познавательные
 http://ott.server-iptv.live/443/video.m3u8?token=SC2CDFBE97
+#EXTINF:-1 group-title="🌏 Познавательные",Galaxy
+http://195.191.208.80:80/jwt/2e1072857bfd77c6959e9674455f0217d6105966-5633-0-24h2596517-5-1566361760-1638023871--WzoOwDjTFRZAEH5QXdu4sSvveDi2ToA5nUq3oZcY0I4-0
 #EXTINF:-1 group-title="🌏 Познавательные",Galaxy
 rtmp://178.159.112.198//galaxy
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
