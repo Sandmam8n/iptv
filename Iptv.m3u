@@ -111,6 +111,9 @@ rtmp://178.159.112.198//galaxy
 #EXTINF:0 tvg-rec="3",Investigation Discovery HD
 #EXTGRP:🌏 Познавательные
 http://1aeb91e0.akadatel.com/iptv/WR5CRL6ARK3R7Y/9054/index.m3u8
+#EXTINF:-1,Investigation Discovery HD
+#EXTGRP:🌏 Познавательные
+http://194.114.144.244:8001/play/id
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
 http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery HD
