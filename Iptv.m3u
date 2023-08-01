@@ -108,6 +108,9 @@ https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
 http://195.191.208.80:80/jwt/2e1072857bfd77c6959e9674455f0217d6105966-5633-0-24h2596517-5-1566361760-1638023871--WzoOwDjTFRZAEH5QXdu4sSvveDi2ToA5nUq3oZcY0I4-0
 #EXTINF:-1 group-title="🌏 Познавательные",Galaxy
 rtmp://178.159.112.198//galaxy
+#EXTINF:0 tvg-rec="3",Investigation Discovery HD
+#EXTGRP:🌏 Познавательные
+http://1aeb91e0.akadatel.com/iptv/WR5CRL6ARK3R7Y/9054/index.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
 http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery HD
