@@ -14,8 +14,8 @@ http://127.0.0.1:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&
 http://127.0.0.1:6878/ace/getstream?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Сериал
 http://127.0.0.1:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993&.mp4
-#EXTINF:-1 group-title="📺 Эфирные",РЕН ТВ
-http://127.0.0.1:6878/ace/getstream?id=5d2b34377ff010af21f777600c6be77d4479f2eb&.mp4
+#EXTINF:-1 group-title="📺 Эфирные",Рен ТВ HD
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
 #EXTINF:-1 group-title="📺 Эфирные", ТНТ HD
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/79.png" ,СТС HD
@@ -95,14 +95,15 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 http://livehlsvgtrkrf.cdnvideo.ru/hls2/givc18/playlist_6.m3u8
 
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat Explore HD
-https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat History HD
-https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="🌏Познавательные",Viasat Nature HD
-https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0,Investigation Discovery HD
-#EXTGRP:🌏 Познавательные
-http://ott.server-iptv.live/443/video.m3u8?token=SC2CDFBE97
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+#EXTINF:-1 group-title="🌏 Познавательные",Viasat Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
+#EXTINF:-1 group-title="🌏 Познавательные",Viasat Nature/History HD
+http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
+#EXTINF:-1 group-title="🌏 Познавательные" tvg-logo="https://i.postimg.cc/cLTgxmx9/111.png",TERRA
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Galaxy
 http://195.191.208.80:80/jwt/2e1072857bfd77c6959e9674455f0217d6105966-5633-0-24h2596517-5-1566361760-1638023871--WzoOwDjTFRZAEH5QXdu4sSvveDi2ToA5nUq3oZcY0I4-0
 #EXTINF:-1 group-title="🌏 Познавательные",Galaxy
