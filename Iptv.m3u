@@ -59,8 +59,6 @@ http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B3
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="📰 Новости",CGTN-Русский
 https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="📰 Новости",Беларусь 24
-http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
 #EXTINF:-1 group-title="📰 Новости",Настоящее время HD
 https://rfe-ingest.akamaized.net/dash/live/2033030/tvmc05/manifest.mpd
 #EXTINF:-1 tvg-id="ua-tv" group-title="📰 Новости",FreeДОМ
@@ -79,15 +77,11 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="📰 Новости",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="vmeste-rf" group-title="📰 Новости",Вместе-РФ
-http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="krik-tv" group-title="📰 Новости",Крик-ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="http://periscope-app.ru/netcat_files/393/606/moskva_24.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📰 Новости",Москва 24
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+#EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8
-#EXTINF:-1 tvg-id="moskva-24" tvg-logo="http://periscope-app.ru/netcat_files/393/606/moskva_24.jpg" group-title="📰 Новости",Москва 24 HD
-http://5.254.16.186/Moskva24/index.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📰 Новости",Россия 24
 #EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
@@ -449,8 +443,6 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 3 HD
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
-https://federaltv-migra.cdnvideo.ru/mpremier/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
@@ -466,8 +458,6 @@ http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e&
 http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Арена HD
 http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&.mp4
-#EXTINF:-1 tvg-id="m1global" tvg-logo="http://1lot.tv/ch/1325.png" group-title="⚽ Спортивные",ММА-ТВ
-http://r.faola.li/1325/index.m3u8?token=SxSeWXQqzJ
 #EXTINF:-1 group-title="⚽ Спортивные",UFC HD
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Боец
