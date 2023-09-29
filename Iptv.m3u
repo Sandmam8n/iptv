@@ -20,6 +20,8 @@ http://127.0.0.1:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993&
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
 #EXTINF:-1 group-title="📺 Эфирные", ТНТ HD
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
+#EXTINF:-1  group-title="📺 Эфирные",Большой эфир
+https://stream-msk-10.ott.tricolor.tv:443/dtv/id621_MSKSG-PVR-1--ChannelLIVE/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTY5NjIyNzQyMCwiaHdpZCI6IjQ1OWQ2OGRkYjYxN2I0NjExYWYzZTMwZWU3ZDVkY2RmNTExOGY5N2MwYzMxYzk1MTNhYTY1ZDMxODAxZDc2ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNjk1NjIyNjIwLCJzZXNzaW9uX2lkIjoiM2Q2NzFkMmVmYmQ1ZGY0YWQ3ZWRkZTA4MGQ4NzM3YzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.orCUR2fFIAnSFbAzSGCGBGl4hGd8ZictOYyfNr_C084
 #EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/79.png" ,СТС HD
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
 #EXTINF:-1 group-title="📺 Эфирные", Пятница! HD
@@ -576,8 +578,6 @@ https://stream-msk-10.ott.tricolor.tv:443/dtv/id524_MSKSG-PVR-1--M1_Global/04/pl
 https://stream-msk-03.ott.tricolor.tv:443/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTY5NjIyNzQyMCwiaHdpZCI6IjQ1OWQ2OGRkYjYxN2I0NjExYWYzZTMwZWU3ZDVkY2RmNTExOGY5N2MwYzMxYzk1MTNhYTY1ZDMxODAxZDc2ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNjk1NjIyNjIwLCJzZXNzaW9uX2lkIjoiM2Q2NzFkMmVmYmQ1ZGY0YWQ3ZWRkZTA4MGQ4NzM3YzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.orCUR2fFIAnSFbAzSGCGBGl4hGd8ZictOYyfNr_C084
 #EXTINF:-1  group-title="⚽ Спортивные",СТАРТ HD
 https://stream-msk-11.ott.tricolor.tv:443/dtv/id625_MSKSG-PVR-1--Start/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTY5NjIyNzQyMCwiaHdpZCI6IjQ1OWQ2OGRkYjYxN2I0NjExYWYzZTMwZWU3ZDVkY2RmNTExOGY5N2MwYzMxYzk1MTNhYTY1ZDMxODAxZDc2ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNjk1NjIyNjIwLCJzZXNzaW9uX2lkIjoiM2Q2NzFkMmVmYmQ1ZGY0YWQ3ZWRkZTA4MGQ4NzM3YzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.orCUR2fFIAnSFbAzSGCGBGl4hGd8ZictOYyfNr_C084
-#EXTINF:-1  group-title="⚽ Спортивные",Большой эфир
-https://stream-msk-10.ott.tricolor.tv:443/dtv/id621_MSKSG-PVR-1--ChannelLIVE/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTY5NjIyNzQyMCwiaHdpZCI6IjQ1OWQ2OGRkYjYxN2I0NjExYWYzZTMwZWU3ZDVkY2RmNTExOGY5N2MwYzMxYzk1MTNhYTY1ZDMxODAxZDc2ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNjk1NjIyNjIwLCJzZXNzaW9uX2lkIjoiM2Q2NzFkMmVmYmQ1ZGY0YWQ3ZWRkZTA4MGQ4NzM3YzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.orCUR2fFIAnSFbAzSGCGBGl4hGd8ZictOYyfNr_C084
 #EXTINF:-1  group-title="⚽ Спортивные",Футбольный HD
 https://stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTY5NjIyNzQyMCwiaHdpZCI6IjQ1OWQ2OGRkYjYxN2I0NjExYWYzZTMwZWU3ZDVkY2RmNTExOGY5N2MwYzMxYzk1MTNhYTY1ZDMxODAxZDc2ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNjk1NjIyNjIwLCJzZXNzaW9uX2lkIjoiM2Q2NzFkMmVmYmQ1ZGY0YWQ3ZWRkZTA4MGQ4NzM3YzMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.orCUR2fFIAnSFbAzSGCGBGl4hGd8ZictOYyfNr_C084
 #EXTINF:-1  group-title="⚽ Спортивные",Хоккейный HD
@@ -831,8 +831,8 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🧘 Relax",Relax
 https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8  
 
-#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/1s.png" tvg-name="Союз" group-title="⛪ Религиозные",Союз
-http://31.148.48.15:80/Soyuz/index.m3u8?token=test
+#EXTINF:-1  catchup="append" catchup-days="7" catchup-source="&stream_start_offset=${offset}000000" group-title="⛪ Религиозные",Союз
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiNWNkZjU4ZGUtNDFkZC00Y2U0LTk2NzktZjE0YzU4YWIyZTEyIiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA5LTI5VDE4OjU1OjQ4WiIsInN0cmVhbV9uYW1lIjoiNTgzIiwic3RyZWFtX3BhdGgiOiIvaXBfdjUiLCJkYXRhY2VudGVyIjoiaW50IiwicHJvamVjdCI6InZva2FfcHJvZHVjdGlvbiJ9/MCwCFDo47m3myiRGwVk6SxV_cU375T7CAhRyvaabxCPl_ksPBy4XWCIaUy1-Kg%3D%3D/ip_v5/583.m3u8
 #EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/2s.png" tvg-name="Спас ТВ" group-title="⛪ Религиозные",Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="⛪ Религиозные",Спас
@@ -875,38 +875,6 @@ http://127.0.0.1:6878/ace/getstream?id=9eb31bd34245c4bbe60f0fe6081f854b7d1dde52&
 #EXTINF:-1 group-title="👶 Детские",Disney
 http://127.0.0.1:6878/ace/getstream?id=a257179a41c0f69411ed7fe86260fe7cc5c823f3&.mp4
 
-#EXTINF:-1 group-title="➕ Федеральные плюс", ТНТ HD
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.zuZCC24GKqzljotNblQu_znouxQVbrK-DDoBDaROV88.rPRhTvX7CiJU16HDOS4W7dMrE31UUnBLof-7judEaao.1696532282.787f01da94822db866a91f468b732c6d
-#EXTINF:-1 group-title="➕ Федеральные плюс" tvg-id="3022",ТНТ HD (+2)
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt2h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.zuZCC24GKqzljotNblQu_znouxQVbrK-DDoBDaROV88.rPRhTvX7CiJU16HDOS4W7dMrE31UUnBLof-7judEaao.1696532282.787f01da94822db866a91f468b732c6d
-#EXTINF:-1 group-title="➕ Федеральные плюс" tvg-id="3023",ТНТ HD (+4)
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt4h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.zuZCC24GKqzljotNblQu_znouxQVbrK-DDoBDaROV88.rPRhTvX7CiJU16HDOS4W7dMrE31UUnBLof-7judEaao.1696532282.787f01da94822db866a91f468b732c6d
-#EXTINF:-1 group-title="➕ Федеральные плюс" tvg-id="tnt-pl7",ТНТ HD (+7)
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt7h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.zuZCC24GKqzljotNblQu_znouxQVbrK-DDoBDaROV88.rPRhTvX7CiJU16HDOS4W7dMrE31UUnBLof-7judEaao.1696532282.787f01da94822db866a91f468b732c6d
-#EXTINF:-1 group-title="➕ Федеральные плюс", НТВ HD
-https://mobdrm.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/ntv0h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.zuZCC24GKqzljotNblQu_znouxQVbrK-DDoBDaROV88.rPRhTvX7CiJU16HDOS4W7dMrE31UUnBLof-7judEaao.1696532282.787f01da94822db866a91f468b732c6d
-#EXTINF:-1 group-title="➕ Федеральные плюс" tvg-id="2036",НТВ HD (+2)
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/ntv2h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.zuZCC24GKqzljotNblQu_znouxQVbrK-DDoBDaROV88.rPRhTvX7CiJU16HDOS4W7dMrE31UUnBLof-7judEaao.1696532282.787f01da94822db866a91f468b732c6d
-#EXTINF:-1 group-title="➕ Федеральные плюс" tvg-id="2964",НТВ HD (+4)
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/ntv4h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.zuZCC24GKqzljotNblQu_znouxQVbrK-DDoBDaROV88.rPRhTvX7CiJU16HDOS4W7dMrE31UUnBLof-7judEaao.1696532282.787f01da94822db866a91f468b732c6d
-#EXTINF:-1 group-title="➕ Федеральные плюс" tvg-id="3028",НТВ HD (+7)
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/ntv7h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.zuZCC24GKqzljotNblQu_znouxQVbrK-DDoBDaROV88.rPRhTvX7CiJU16HDOS4W7dMrE31UUnBLof-7judEaao.1696532282.787f01da94822db866a91f468b732c6d
-#EXTINF:-1 group-title="➕ Федеральные плюс", ТВ3
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.zuZCC24GKqzljotNblQu_znouxQVbrK-DDoBDaROV88.rPRhTvX7CiJU16HDOS4W7dMrE31UUnBLof-7judEaao.1696532282.787f01da94822db866a91f468b732c6d
-#EXTINF:-1 group-title="➕ Федеральные плюс" tvg-id="tv3-ru-pl2",ТВ-3 HD (+2)
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3h2/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.zuZCC24GKqzljotNblQu_znouxQVbrK-DDoBDaROV88.rPRhTvX7CiJU16HDOS4W7dMrE31UUnBLof-7judEaao.1696532282.787f01da94822db866a91f468b732c6d
-#EXTINF:-1 group-title="➕ Федеральные плюс" tvg-id="tv3-ru-pl4",ТВ-3 HD (+4)
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3h4/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.zuZCC24GKqzljotNblQu_znouxQVbrK-DDoBDaROV88.rPRhTvX7CiJU16HDOS4W7dMrE31UUnBLof-7judEaao.1696532282.787f01da94822db866a91f468b732c6d
-#EXTINF:-1 group-title="➕ Федеральные плюс" tvg-id="tv3-ru-pl7",ТВ-3 HD (+7)
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3h7/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.zuZCC24GKqzljotNblQu_znouxQVbrK-DDoBDaROV88.rPRhTvX7CiJU16HDOS4W7dMrE31UUnBLof-7judEaao.1696532282.787f01da94822db866a91f468b732c6d
-#EXTINF:-1 group-title="➕ Федеральные плюс",Пятница!
-https://mobdrm.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/friday/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.zuZCC24GKqzljotNblQu_znouxQVbrK-DDoBDaROV88.rPRhTvX7CiJU16HDOS4W7dMrE31UUnBLof-7judEaao.1696532282.787f01da94822db866a91f468b732c6d
-#EXTINF:-1 group-title="➕ Федеральные плюс" tvg-id="3016",Пятница HD (+2)
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/friday2h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.zuZCC24GKqzljotNblQu_znouxQVbrK-DDoBDaROV88.rPRhTvX7CiJU16HDOS4W7dMrE31UUnBLof-7judEaao.1696532282.787f01da94822db866a91f468b732c6d
-#EXTINF:-1 group-title="➕ Федеральные плюс" tvg-id="3017",Пятница HD (+4)
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/friday4h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.zuZCC24GKqzljotNblQu_znouxQVbrK-DDoBDaROV88.rPRhTvX7CiJU16HDOS4W7dMrE31UUnBLof-7judEaao.1696532282.787f01da94822db866a91f468b732c6d
-#EXTINF:-1 group-title="➕ Федеральные плюс" tvg-id="3018",Пятница HD (+7)
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/friday7h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.zuZCC24GKqzljotNblQu_znouxQVbrK-DDoBDaROV88.rPRhTvX7CiJU16HDOS4W7dMrE31UUnBLof-7judEaao.1696532282.787f01da94822db866a91f468b732c6d
 #EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=1 group-title="➕ Федеральные плюс",Матч! (-1)
 #EXTINF:-1 tvg-shift=1 group-title="➕ Федеральные плюс",Матч! (-1)
 #EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
