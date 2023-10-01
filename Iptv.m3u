@@ -114,6 +114,9 @@ https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
 http://195.191.208.80:80/jwt/2e1072857bfd77c6959e9674455f0217d6105966-5633-0-24h2596517-5-1566361760-1638023871--WzoOwDjTFRZAEH5QXdu4sSvveDi2ToA5nUq3oZcY0I4-0
 #EXTINF:-1 group-title="🌏 Познавательные",Galaxy
 rtmp://178.159.112.198//galaxy
+#EXTINF:0 tvg-id="Xid-xtra-eu" tvg-name="Investigation Discovery" tvg-logo="https://ip-tv.dev/epg/icon/idxtra.png"  tvg-rec="5" timeshift="5", Investigation Discovery
+#EXTGRP:🌏 Познавательные
+http://ru.iptv.monster/play/362/5416F3BDBAB456F/video.m3u8
 #EXTINF:0 tvg-rec="3",Investigation Discovery HD
 #EXTGRP:🌏 Познавательные
 http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/9054/index.m3u8
