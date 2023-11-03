@@ -71,30 +71,21 @@ https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="📰 Новости",CGTN-Русский
 https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="📰 Новости",Настоящее время HD
-https://rfe-ingest.akamaized.net/dash/live/2033030/tvmc05/manifest.mpd
 #EXTINF:-1 tvg-id="ua-tv" group-title="📰 Новости",FreeДОМ
 http://176.74.80.162:8099/UA/index.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="📰 Новости",RT Д HD
 https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:-1 tvg-id="rt-doc" group-title="📰 Новости",RT Doc
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="euronews-en" group-title="📰 Новости",Euronews EN
-https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="euronews" group-title="📰 Новости",Евро📰 Новости
 http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="📰 Новости",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="krik-tv" group-title="📰 Новости",Крик-ТВ
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF:-1 catchup="append" tvg-logo="http://periscope-app.ru/netcat_files/393/606/moskva_24.jpg" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📰 Новости",Москва 24
-#EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📰 Новости",Россия 24
 #EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📰 Новости",РОССИЯ 24
-http://194.26.229.213/RUSSIA24/index.m3u8
 
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat Explore HD
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
@@ -582,9 +573,6 @@ https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
 #EXTINF:-1 group-title="🎵 Музыкальные",TMF RUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/201891.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-mafi2a-tv_2.jpg",Mafi2a TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
-https://hls.goodgame.ru/hls/147714.m3u8
 #EXTINF:-1 group-title="🎵 Музыкальные",Akudji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/5346.m3u8
@@ -626,21 +614,13 @@ http://127.0.0.1:6878/ace/getstream?id=f0757d4131090cf4b0652e9a427c350c651e597a&
 http://127.0.0.1:6878/ace/getstream?id=755483260c00e095f825286bc8b3562966814022&.mp4
 #EXTINF:-1 group-title="🎵 Музыкальные",Жара
 http://127.0.0.1:6878/ace/getstream?id=0f777acf2def9b2c0ae254041796fbae5ba60501&.mp4
-#EXTINF:-1 group-title="🎵 Музыкальные",Рыжий
-http://127.0.0.1:6878/ace/getstream?id=0ef17cf868ef54b443dd41516803276779b76aac&.mp4
 #EXTINF:-1 group-title="🎵 Музыкальные",Мульти Музыкальные
 http://127.0.0.1:6878/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19&.mp4
 
 #EXTINF:-1 group-title="📻 Радио",1 [RU]
 http://cdn.radio1.news:1935/rtvp/live/playlist.m3u8
-#EXTINF:-1 group-title="📻 Радио",101.8 [Пенза]
-http://video.penzainform.ru/e/r1018.m3u8
 #EXTINF:-1 group-title="📻 Радио",Kids FM
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
-#EXTINF:-1 group-title="📻 Радио",MCM [Иркутск]
-http://tv.streams.baikal-telecom.net/MCM/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📻 Радио",Вести FM
-http://livehlsvgtrkrf.cdnvideo.ru/hls2/vesti_fm/playlist_6.m3u8
 #EXTINF:-1 group-title="📻 Радио",Говорит Москва (Веб-камера)
 https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📻 Радио",Джем FM [ЕКБ]
@@ -651,32 +631,20 @@ rtmp://195.88.63.114/live/cam
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/TatTVR_Iskatel/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 group-title="📻 Радио",Китап
 http://89.251.159.37:8080/hls/kitapfm.m3u8
-#EXTINF:-1 group-title="📻 Радио",Красноярск FM
-https://krasnoyarskfm.ru/cam/hls/krasnoyarskfm.m3u8
 #EXTINF:-1 group-title="📻 Радио",Крым (Веб-камера)
 https://cdn.1tvcrimea.ru/radio.m3u8
 #EXTINF:-1 group-title="📻 Радио",Кунел
 http://89.251.159.37:8080/hls/kunelfm.m3u8
-#EXTINF:-1 group-title="📻 Радио",Лемма (Владивосток)
-https://livestream.8kanal.tv/hls/lemma_src.m3u8
 #EXTINF:-1 group-title="📻 Радио",Макс FM [Сочи] (Веб-камера)
 http://serv30.vintera.tv:8081/sochi/maks_fm/playlist.m3u8
-#EXTINF:-1 group-title="📻 Радио",Маяк (Веб-камера)
-http://livehlsvgtrkrf.cdnvideo.ru/live/smil:mayak.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="📻 Радио",Мир [BY]
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
-#EXTINF:-1 group-title="📻 Радио",Москва FM
-http://livehlsvgtrkrf.cdnvideo.ru/live/givc9.smil/chunklist_b2600000.m3u8
 #EXTINF:-1 group-title="📻 Радио",Пилот [ЕКБ]
 http://pilotfm.ru:80/cam/hls/pilothd.m3u8
 #EXTINF:-1 group-title="📻 Радио",Тартип
 http://89.251.159.37:8080/hls/tartipfm.m3u8
 #EXTINF:-1 group-title="📻 Радио",Трансмит (Череповец)
 https://live.35media.ru/transmit-video/1080/s.m3u8
-#EXTINF:-1 group-title="📻 Радио",России
-http://livehlsvgtrkrf.cdnvideo.ru/hls/radio_rus/playlist_4.m3u8
-#EXTINF:-1 group-title="📻 Радио",России (Уфа)
-rtmp://109.233.169.139:1935/rrb/rrb
 #EXTINF:-1 group-title="📻 Радио",Спутник (Веб-камера)
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:-1 group-title="📻 Радио",Хит (Орск)
@@ -725,6 +693,8 @@ http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/5m.png" tvg-name="МузСоюз" group-title="⛪ Религиозные",Муз Союз
 http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2137/index.m3u8
 
+#EXTINF:-1 group-title="👶 Детские",Рыжий
+http://127.0.0.1:6878/ace/getstream?id=0ef17cf868ef54b443dd41516803276779b76aac&.mp4
 #EXTINF:-1 group-title="👶 Детские",Мультиландия
 http://127.0.0.1:6878/ace/getstream?id=78f1672c711f67c5588ecc96580f7524c0fb87fb&.mp4
 #EXTINF:-1 group-title="👶 Детские",Карусель
