@@ -58,6 +58,14 @@ http://89.104.114.32:8080/kvn_tv/mono.m3u8?token=DWEvjhKS3G
 http://84.38.180.145:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Телекафе
 http://31.148.48.15:80/Telekafe/index.m3u8
+#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/2s.png" tvg-name="Спас ТВ" group-title="📺 Эфирные",Спас
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Спас
+https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8
+#EXTINF:-1 tvg-id="tri-angela" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/3ABN-Rusia-en-directo-Online.png" group-title="📺 Эфирные",Три Ангела
+http://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/3r.png" tvg-name="Радость_Моя" group-title="📺 Эфирные",Радость Моя
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 
 #EXTINF:-1 tvg-id="dozhd" group-title="📰 Новости",Дождь
 http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
@@ -204,6 +212,10 @@ http://127.0.0.1:6878/ace/getstream?id=75860e73e6149fed0f781f08e7f93b19c9dc00d2&
 http://127.0.0.1:6878/ace/getstream?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Fashion TV HD
 http://127.0.0.1:6878/ace/getstream?id=ac7762efa1c33ece2dd0e97abe1e9149e3ddafc6&.mp4
+#EXTINF:-1 group-title="🌏 Познавательные" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Loupe TV
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
+#EXTINF:-1 group-title="🌏 Познавательные" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig",WORLD HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="📽️ Фильмовые" tvg-logo="http://epg.it999.ru/img/2823.png" ,VIP Comedy HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
@@ -654,34 +666,8 @@ https://stream1.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
 #EXTINF:-1 group-title="📻 Радио",Шансон ТВ
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 
-#EXTINF:-1 group-title="🧘 Relax" tvg-logo="https://i.imgur.com/4rIbV7e.png",Nature Live - Beaches Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:-1 group-title="🧘 Relax" tvg-logo="https://i.imgur.com/8F9qPbt.png",Nature Live - Tropics Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:-1 group-title="🧘 Relax" tvg-logo="https://i.imgur.com/K4GaruD.png",Nature Live - Sunset Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:-1 group-title="🧘 Relax" tvg-logo="https://i.imgur.com/ii2IDmA.png",Nature Live - Rivers Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 group-title="🧘 Relax" tvg-logo="https://i.imgur.com/2Ipv14J.png",Nature Live - Mountain Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-#EXTINF:-1 group-title="🧘 Relax" tvg-logo="https://i.imgur.com/xAkuMa4.png",Nature Live - Lake Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:-1 group-title="🧘 Relax" tvg-logo="https://i.imgur.com/J84tZzN.png",Nature Live - Forest Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1 group-title="🧘 Relax" tvg-logo="https://i.imgur.com/1WIEWK7.png",Nature Live - Aurora Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:-1 group-title="🧘 Relax" tvg-logo="https://i.imgur.com/i43l93j.png",Nature Live - Waterfalls Live
-https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
-#EXTINF:-1 group-title="🧘 Relax" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Loupe TV
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
-#EXTINF:-1 group-title="🧘 Relax" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig",WORLD HD
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🧘 Relax",Relax
-https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8  
 
-#EXTINF:-1 tvg-id="227" group_id="9" group-title="Культура" tvg-name="Союз" tvg-logo="http://api.iptv.so/logo/200_115_0/227.png", Союз
-#EXTGRP:⛪ Религиозные
-http://cdnc.shott.top/p/f8bd48d3e5097e3ed2e18732798b6ef3/227
+
 #EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/2s.png" tvg-name="Спас ТВ" group-title="⛪ Религиозные",Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="⛪ Религиозные",Спас
@@ -690,8 +676,6 @@ https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8
 http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/3r.png" tvg-name="Радость_Моя" group-title="⛪ Религиозные",Радость Моя
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/5m.png" tvg-name="МузСоюз" group-title="⛪ Религиозные",Муз Союз
-http://4rtnw86d.megatv.fun/iptv/TPZHP2V6ZSGKB3/2137/index.m3u8
 
 #EXTINF:-1 group-title="👶 Детские",Рыжий
 http://127.0.0.1:6878/ace/getstream?id=0ef17cf868ef54b443dd41516803276779b76aac&.mp4
