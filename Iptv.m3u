@@ -666,17 +666,6 @@ https://stream1.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
 #EXTINF:-1 group-title="📻 Радио",Шансон ТВ
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/2s.png" tvg-name="Спас ТВ" group-title="⛪ Религиозные",Спас
-http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="⛪ Религиозные",Спас
-https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8
-#EXTINF:-1 tvg-id="tri-angela" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/3ABN-Rusia-en-directo-Online.png" group-title="⛪ Религиозные",Три Ангела
-http://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/3r.png" tvg-name="Радость_Моя" group-title="⛪ Религиозные",Радость Моя
-http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-
 #EXTINF:-1 group-title="👶 Детские",Рыжий
 http://127.0.0.1:6878/ace/getstream?id=0ef17cf868ef54b443dd41516803276779b76aac&.mp4
 #EXTINF:-1 group-title="👶 Детские",Мультиландия
