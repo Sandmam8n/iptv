@@ -447,8 +447,6 @@ http://84.38.180.145:8080/Uhierjfk/index.m3u8
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
-http://91.197.104.34:8080/MatchHD/video.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 2 HD
@@ -1021,8 +1019,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://telegrator.ru/wp-content/uploads/2021/01/chat_avatar-31.jpg" group-title="🔞 Взрослые",Шёлк
 http://live-1.otcnet.ru/shelkhdmts/index.m3u8
-#EXTINF:-1 tvg-id="playboy-tv-uk" group-title="🔞 Взрослые",Playboy UK
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="🔞 Взрослые",Rough
 http://cdn.adultiptv.net/rough.m3u8
 #EXTINF:-1 group-title="🔞 Взрослые",Blonde
