@@ -53,11 +53,13 @@ http://127.0.0.1:6878/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d&
 #EXTINF:-1 group-title="📺 Эфирные",СТС Kids HD
 http://127.0.0.1:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",КВН ТВ
-http://89.104.114.32:8080/kvn_tv/mono.m3u8?token=DWEvjhKS3G
+http://31.148.48.15:80/KVN_TV/index.m3u8?token=test
 #EXTINF:-1 group-title="📺 Эфирные",Твоё ТВ
 http://84.38.180.145:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Телекафе
 http://31.148.48.15:80/Telekafe/index.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/2s.png" tvg-name="Спас ТВ" group-title="📺 Эфирные",Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Спас
