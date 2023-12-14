@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz,https://iptvx.one/EPG"
 
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="📺 Эфирные",Россия 1
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
@@ -34,10 +36,8 @@ https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",СТС Kids HD
 https://livetv.mylifeisgood.net.ru/channels/ctckids.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",CTC Kids HD
+#EXTINF:-1 group-title="📺 Эфирные",СТС Kids HD
 http://iptv.mega.net.ru:8888/CTC_Kids_HD/index.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Bolt HD
-https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 #EXTINF:-1 tvg-id="zvezda" group-title="📺 Эфирные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="http://www.oreol.tv/img/027_u.jpg" group-title="📺 Эфирные",Ю ТВ
@@ -115,16 +115,14 @@ http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 
-#EXTINF:-1 group-title="🌏 Познавательные",Viasat Explore HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat History HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+https://livetv.mylifeisgood.net.ru/channels/viasat_history.m3u8
+#EXTINF:-1 group-title="🌏 Познавательные",Viasat Explore HD
+https://livetv.mylifeisgood.net.ru/channels/viasat_explore.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat Nature HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",Viasat Nature/History HD
-http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные" tvg-logo="https://i.postimg.cc/cLTgxmx9/111.png",TERRA
-https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
+https://livetv.mylifeisgood.net.ru/channels/viasat_nature.m3u8
+#EXTINF:-1 group-title="🌏 Познавательные",TERRA
+https://livetv.mylifeisgood.net.ru/channels/national_geographic.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Galaxy
 http://195.191.208.80:80/jwt/2e1072857bfd77c6959e9674455f0217d6105966-5633-0-24h2596517-5-1566361760-1638023871--WzoOwDjTFRZAEH5QXdu4sSvveDi2ToA5nUq3oZcY0I4-0
 #EXTINF:0 tvg-id="Xid-xtra-eu" tvg-name="Investigation Discovery" tvg-logo="https://ip-tv.dev/epg/icon/idxtra.png"  tvg-rec="5" timeshift="5", Investigation Discovery
