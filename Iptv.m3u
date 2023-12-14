@@ -8,6 +8,12 @@ https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",НТВ Хит
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",НТВ Стиль
+https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",НТВ Сериал
+https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ ХИТ
 http://127.0.0.1:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Стиль
@@ -28,6 +34,8 @@ https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",СТС Kids HD
 https://livetv.mylifeisgood.net.ru/channels/ctckids.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",CTC Kids HD
+http://iptv.mega.net.ru:8888/CTC_Kids_HD/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Bolt HD
 https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 #EXTINF:-1 tvg-id="zvezda" group-title="📺 Эфирные",Звезда HD
@@ -54,6 +62,8 @@ http://127.0.0.1:6878/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d&
 http://127.0.0.1:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",КВН ТВ
 http://31.148.48.15:80/KVN_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="📺 Эфирные",Театр
+http://iptv.mega.net.ru:8888/Teatr/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Твоё ТВ
 http://84.38.180.145:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Телекафе
@@ -83,6 +93,10 @@ https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
 https://livetv.mylifeisgood.net.ru/channels/moscow24.m3u8
 #EXTINF:-1 group-title="📰 Новости",РБК
 http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="📰 Новости",360°
+https://livetv.mylifeisgood.net.ru/channels/ch360.m3u8
+#EXTINF:-1 group-title="📰 Новости",ИЗВЕСТИЯ
+http://iptv.mega.net.ru:8888/izvestiya/index.m3u8
 #EXTINF:-1 group-title="📰 Новости",CGTN-Русский
 https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="ua-tv" group-title="📰 Новости",FreeДОМ
@@ -235,8 +249,16 @@ https://livetv.mylifeisgood.net.ru/channels/vip_serial.m3u8
 https://livetv.mylifeisgood.net.ru/channels/tv1000.m3u8
 #EXTINF:-1 group-title="📽️ Фильмовые",TV1000 Action HD
 https://livetv.mylifeisgood.net.ru/channels/tv1000action.m3u8
+#EXTINF:-1 group-title="📽️ Фильмовые",ШОКИРУЮЩЕЕ HD 
+http://iptv.mega.net.ru:8888/Kinopokaz_HD_1/index.m3u8
+#EXTINF:-1 group-title="📽️ Фильмовые",Кино ТВ HD
+http://iptv.mega.net.ru:8888/Kino_TV/index.m3u8
+#EXTINF:-1 group-title="📽️ Фильмовые",Plan B
+http://iptv.mega.net.ru:8888/plan_b_hd/index.m3u8
 #EXTINF:-1 group-title="📽️ Фильмовые",TV1000 Русское Кино HD
 https://livetv.mylifeisgood.net.ru/channels/tv1000ruskino.m3u8
+#EXTINF:-1 group-title="📽️ Фильмовые",Дом Кино Премиум HD
+http://iptv.mega.net.ru:8888/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 group-title="📽️ Фильмовые",Феникс+Кино
 https://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
 #EXTINF:-1 group-title="📽️ Фильмовые" tvg-logo="https://i.postimg.cc/hGgj76W4/image.png" ,START Air
@@ -441,6 +463,24 @@ https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",MediaService Lorenz TV
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
 
+#EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
+http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMyA4OjAxOjAyIEFNJmhhc2hfdmFsdWU9YUtSRDNNdk5iU1BkaHFJWjJnWDE3Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
+http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMyA4OjAxOjAyIEFNJmhhc2hfdmFsdWU9YUtSRDNNdk5iU1BkaHFJWjJnWDE3Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 2 HD
+http://95.181.17.26/7nvenc/NTVplusfut2HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMyA4OjAxOjAyIEFNJmhhc2hfdmFsdWU9YUtSRDNNdk5iU1BkaHFJWjJnWDE3Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Игра HD
+http://95.181.17.14/7nvenc/sport2HD/71/fhd/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMyA4OjAxOjAyIEFNJmhhc2hfdmFsdWU9YUtSRDNNdk5iU1BkaHFJWjJnWDE3Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Арена HD
+http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMyA4OjAxOjAyIEFNJmhhc2hfdmFsdWU9YUtSRDNNdk5iU1BkaHFJWjJnWDE3Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1 group-title="⚽ Спортивные",Матч Премьер HD
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMyA4OjAxOjAyIEFNJmhhc2hfdmFsdWU9YUtSRDNNdk5iU1BkaHFJWjJnWDE3Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1 group-title="⚽ Спортивные",MMA-TV.COM HD
+http://arbiter.bolshoe.tv/?path=abr2/sethd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMyA4OjAxOjAyIEFNJmhhc2hfdmFsdWU9YUtSRDNNdk5iU1BkaHFJWjJnWDE3Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1 group-title="⚽ Спортивные",Viasat Sport HD
+http://arbiter.bolshoe.tv/?path=abr2/viasat_sport_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMyA4OjAxOjAyIEFNJmhhc2hfdmFsdWU9YUtSRDNNdk5iU1BkaHFJWjJnWDE3Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1 group-title="⚽ Спортивные",KHL HD
+http://iptv.mega.net.ru:8888/KHL_HD/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
