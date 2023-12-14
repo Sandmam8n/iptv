@@ -2,10 +2,8 @@
 
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
-http://live-okkotv.cdnvideo.ru/okkotv/1tv.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/984.png",Россия HD
-http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Россия 1
+https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ HD
@@ -16,36 +14,38 @@ http://127.0.0.1:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&
 http://127.0.0.1:6878/ace/getstream?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Сериал
 http://127.0.0.1:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993&.mp4
-#EXTINF:-1 group-title="📺 Эфирные",Рен ТВ HD
-https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
-#EXTINF:-1 group-title="📺 Эфирные", ТНТ HD
-https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
-#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/79.png" ,СТС HD
-https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
-#EXTINF:-1 group-title="📺 Эфирные", Пятница! HD
-https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",РЕН ТВ HD
+https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",ТНТ HD
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",ТНТ4 HD
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",СТС HD
+https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Пятница HD
+https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Суббота HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",СТС Kids HD
-https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
+https://livetv.mylifeisgood.net.ru/channels/ctckids.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Bolt HD
 https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 #EXTINF:-1 tvg-id="zvezda" group-title="📺 Эфирные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="http://www.oreol.tv/img/027_u.jpg" group-title="📺 Эфирные",Ю ТВ
 https://strm.yandex.ru/kal/utv/utv0.m3u8
-#EXTINF:-1 group-title="📺 Эфирные" tvg-logo="http://epg.it999.ru/img/1598.png" ,Че
-http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
-#EXTINF:-1 group-title="📺 Эфирные", Домашний HD
-http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",ЧЕ
+https://livetv.mylifeisgood.net.ru/channels/che.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Домашний HD
+https://livetv.mylifeisgood.net.ru/channels/domashnii
 #EXTINF:-1 group-title="📺 Эфирные",Пятый канал
-https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
+https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 #EXTINF:-1 tvg-id="mir" group-title="📺 Эфирные",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="📺 Эфирные", ТВ3 HD
-https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
-#EXTINF:-1 tvg-id="kultura" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" group-title="📺 Эфирные",Россия Культура
-https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD/480p.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",ТВ3 HD
+https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Россия К
+https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",ТНТ4 HD
 http://127.0.0.1:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",СТС Love
@@ -62,8 +62,8 @@ http://31.148.48.15:80/Telekafe/index.m3u8
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/2s.png" tvg-name="Спас ТВ" group-title="📺 Эфирные",Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Спас
-https://okkotv-live.cdnvideo.ru/channel/Spas/480p.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",СПАС
+https://livetv.mylifeisgood.net.ru/channels/spas.m3u8
 #EXTINF:-1 tvg-id="tri-angela" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/3ABN-Rusia-en-directo-Online.png" group-title="📺 Эфирные",Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/3r.png" tvg-name="Радость_Моя" group-title="📺 Эфирные",Радость Моя
@@ -73,10 +73,14 @@ http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1 group-title="📰 Новости",МИР 24 HD
 http://okkotv-live.cdnvideo.ru/channel/Mir_24_OTT_HD/1080p.m3u8
-#EXTINF:-1 tvg-id="360-news" group-title="📰 Новости",360 📰 Новости
-https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/1080p.m3u8
-#EXTINF:-1 group-title="📰 Новости",Известия HD
-https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8
+##EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📰 Новости" ,360 Новости
+http://api.peers.tv/timeshift/360_novosti/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDI2MjcyNjAsImlhdCI6MTcwMjU0MDg2MCwiY2lkIjo2LCJ1aWQiOjcxNTA0MDA3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0._iaUL25vE7Wq5ichFxr8246QShO7brARLofNpf7cwHU&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📰 Новости" ,Известия HD
+http://api.peers.tv/timeshift/izvestiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDI2MjcyNjAsImlhdCI6MTcwMjU0MDg2MCwiY2lkIjo2LCJ1aWQiOjcxNTA0MDA3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0._iaUL25vE7Wq5ichFxr8246QShO7brARLofNpf7cwHU&offset=10
+#EXTINF:-1 group-title="📰 Новости",Россия 24
+https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
+#EXTINF:-1 group-title="📰 Новости",Москва 24
+https://livetv.mylifeisgood.net.ru/channels/moscow24.m3u8
 #EXTINF:-1 group-title="📰 Новости",РБК
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="📰 Новости",CGTN-Русский
@@ -219,38 +223,30 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig",WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-logo="http://epg.it999.ru/img/2823.png" ,VIP Comedy HD
-https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-logo="http://epg.it999.ru/img/1012.png" ,VIP Megahit HD
-https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-logo="http://epg.it999.ru/img/1013.png" ,VIP Premiere HD
-https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-logo="http://epg.it999.ru/img/2838.png" ,VIP Serial HD
-https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
+#EXTINF:-1 group-title="📽️ Фильмовые",Vip Megahit HD
+https://livetv.mylifeisgood.net.ru/channels/vip_megahit.m3u8
+#EXTINF:-1 group-title="📽️ Фильмовые",Vip Comedy HD
+https://livetv.mylifeisgood.net.ru/channels/vip_comedy.m3u8
+#EXTINF:-1 group-title="📽️ Фильмовые",Vip Premiere HD
+https://livetv.mylifeisgood.net.ru/channels/vip_premiere.m3u8
+#EXTINF:-1 group-title="📽️ Фильмовые",Vip Serial HD
+https://livetv.mylifeisgood.net.ru/channels/vip_serial.m3u8
+#EXTINF:-1 group-title="📽️ Фильмовые",TV1000 HD
+https://livetv.mylifeisgood.net.ru/channels/tv1000.m3u8
+#EXTINF:-1 group-title="📽️ Фильмовые",TV1000 Action HD
+https://livetv.mylifeisgood.net.ru/channels/tv1000action.m3u8
+#EXTINF:-1 group-title="📽️ Фильмовые",TV1000 Русское Кино HD
+https://livetv.mylifeisgood.net.ru/channels/tv1000ruskino.m3u8
+#EXTINF:-1 group-title="📽️ Фильмовые",Феникс+Кино
+https://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
 #EXTINF:-1 group-title="📽️ Фильмовые" tvg-logo="https://i.postimg.cc/hGgj76W4/image.png" ,START Air
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
 #EXTINF:-1 group-title="📽️ Фильмовые" tvg-logo="https://i.postimg.cc/Y9DqZS4j/1.png" ,START World
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые", Кинеко
-https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые", Сапфир
-https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",TV1000 Action HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",TV1000 HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
+#EXTINF:-1 group-title="📽️ Фильмовые",Кинеко
+https://livetv.mylifeisgood.net.ru/channels/fox.m3u8
 #EXTINF:-1 group-title="📽️ Фильмовые",Кинопоказ
 http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
-#EXTINF:-1 group-title="📽️ Фильмовые",TV1000 Русское кино HD
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые", Star Family HD
-https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-logo="http://epg.it999.ru/img/1371.png" ,Amedia 1
-http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-logo="http://epg.it999.ru/img/918.png" ,Amedia 2
-http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-logo="http://epg.it999.ru/img/3069.png" ,Amedia Hit HD
-http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
 #EXTINF:-1 group-title="📽️ Фильмовые",BCU Кинозал Premiere 1 HD
 http://127.0.0.1:6878/ace/getstream?id=122b81e6c37b49a37c3b1984efaf5626371d5df5&.mp4
 #EXTINF:-1 group-title="📽️ Фильмовые",BCU Кинозал Premiere 2 HD
@@ -447,8 +443,6 @@ http://84.38.180.145:8080/Uhierjfk/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
-https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 2 HD
@@ -457,16 +451,6 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",KHL Prime HD
-https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
-#EXTINF:-1 group-title="⚽ Спортивные",КХЛ ТВ
-https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
-#EXTINF:-1 group-title="⚽ Спортивные",Viasat Sport HD
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Старт
-http://okkotv-live.cdnvideo.ru/channel/Start.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Старт Триумф
-https://okkotv-live.cdnvideo.ru/dash/start_triumph_hd/playlist.mpd
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
