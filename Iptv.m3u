@@ -446,22 +446,6 @@ http://127.0.0.1:6878/ace/getstream?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0&
 https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",MediaService Lorenz TV
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",AMAZON PRIME VIDEO 1 HD
-http://127.0.0.1:6878/ace/getstream?id=5323ccadb659f7d3cb5fa2e5835c5af362e144d6&.mp4
-#EXTINF:-1 group-title="📽️ Фильмовые",AMAZON PRIME VIDEO 2 HD
-http://127.0.0.1:6878/ace/getstream?id=2926e34c63d83764f9c6671da53397d55041b4ea&.mp4
-#EXTINF:-1 group-title="📽️ Фильмовые",AMAZON PRIME VIDEO 3 HD
-http://127.0.0.1:6878/ace/getstream?id=7b979c38e2565ea0ce4c6ec3c13f6edf05b0c08c&.mp4
-#EXTINF:-1 group-title="📽️ Фильмовые",AMAZON PRIME VIDEO 4 HD
-http://127.0.0.1:6878/ace/getstream?id=77697d1e2f382196dd156ed384e84c62fc7d32f7&.mp4
-#EXTINF:-1 group-title="📽️ Фильмовые",AMAZON PRIME VIDEO 5 HD
-http://127.0.0.1:6878/ace/getstream?id=d3634268718c6e52cde4a34d0e75cffef26c1ba9&.mp4
-#EXTINF:-1 group-title="📽️ Фильмовые",AMAZON PRIME VIDEO 6 HD
-http://127.0.0.1:6878/ace/getstream?id=26e31f091414fb036917a255b4adaf12b2f3da5b&.mp4
-#EXTINF:-1 group-title="📽️ Фильмовые",AMAZON PRIME VIDEO 7 HD
-http://127.0.0.1:6878/ace/getstream?id=160b4b508a11f8c8b5c6e0e62ac04a437e00bb67&.mp4
-#EXTINF:-1 group-title="📽️ Фильмовые",AMAZON PRIME VIDEO 8 HD
-http://127.0.0.1:6878/ace/getstream?id=3a21b411e9b764efefc0c2166ca07f4655b3d31c&.mp4
 
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
