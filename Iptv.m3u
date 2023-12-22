@@ -1,117 +1,123 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz,https://iptvx.one/EPG"
 
-#EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
-https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="📺 Эфирные",Россия 1
-https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",НТВ HD
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",НТВ HD
-https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",НТВ Хит
-https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",НТВ Стиль
-https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",НТВ Сериал
-https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",НТВ ХИТ
-http://127.0.0.1:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&.mp4
-#EXTINF:-1 group-title="📺 Эфирные",НТВ Стиль
-http://127.0.0.1:6878/ace/getstream?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6&.mp4
-#EXTINF:-1 group-title="📺 Эфирные",НТВ Сериал
-http://127.0.0.1:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993&.mp4
-#EXTINF:-1 group-title="📺 Эфирные",РЕН ТВ HD
-https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",ТНТ HD
-https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",ТНТ4 HD
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",СТС HD
-https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Пятница HD
-https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Суббота HD
-https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",СТС Kids HD
-https://livetv.mylifeisgood.net.ru/channels/ctckids.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",СТС Kids HD
-http://iptv.mega.net.ru:8888/CTC_Kids_HD/index.m3u8
-#EXTINF:-1 tvg-id="zvezda" group-title="📺 Эфирные",Звезда HD
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-id="yu" tvg-logo="http://www.oreol.tv/img/027_u.jpg" group-title="📺 Эфирные",Ю ТВ
-https://strm.yandex.ru/kal/utv/utv0.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",ЧЕ
-https://livetv.mylifeisgood.net.ru/channels/che.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Домашний HD
-https://livetv.mylifeisgood.net.ru/channels/domashnii
-#EXTINF:-1 group-title="📺 Эфирные",Пятый канал
-https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
-#EXTINF:-1 tvg-id="mir" group-title="📺 Эфирные",Мир HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",ТВ3 HD
-https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Россия К
-https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",ТНТ4 HD
-http://127.0.0.1:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
-#EXTINF:-1 group-title="📺 Эфирные",СТС Love
-http://127.0.0.1:6878/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d&.mp4
-#EXTINF:-1 group-title="📺 Эфирные",СТС Kids HD
-http://127.0.0.1:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&.mp4
-#EXTINF:-1 group-title="📺 Эфирные",КВН ТВ
-http://31.148.48.15:80/KVN_TV/index.m3u8?token=test
-#EXTINF:-1 group-title="📺 Эфирные",Твоё ТВ
-http://84.38.180.145:8080/tvoetv/index.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Телекафе
-http://31.148.48.15:80/Telekafe/index.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Союз
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/2s.png" tvg-name="Спас ТВ" group-title="📺 Эфирные",Спас
-http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",СПАС
-https://livetv.mylifeisgood.net.ru/channels/spas.m3u8
-#EXTINF:-1 tvg-id="tri-angela" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/3ABN-Rusia-en-directo-Online.png" group-title="📺 Эфирные",Три Ангела
-http://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/3r.png" tvg-name="Радость_Моя" group-title="📺 Эфирные",Радость Моя
-http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-
-#EXTINF:-1 tvg-id="dozhd" group-title="📰 Новости",Дождь
-http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="📰 Новости",Мир 24 HD
-https://livetv.mylifeisgood.net.ru/channels/mirhdpremium.m3u8
-##EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📰 Новости" ,360 Новости
-http://api.peers.tv/timeshift/360_novosti/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDI2MjcyNjAsImlhdCI6MTcwMjU0MDg2MCwiY2lkIjo2LCJ1aWQiOjcxNTA0MDA3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0._iaUL25vE7Wq5ichFxr8246QShO7brARLofNpf7cwHU&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📰 Новости" ,Известия HD
-http://api.peers.tv/timeshift/izvestiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDI2MjcyNjAsImlhdCI6MTcwMjU0MDg2MCwiY2lkIjo2LCJ1aWQiOjcxNTA0MDA3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0._iaUL25vE7Wq5ichFxr8246QShO7brARLofNpf7cwHU&offset=10
-#EXTINF:-1 group-title="📰 Новости",Россия 24
-https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
-#EXTINF:-1 group-title="📰 Новости",Москва 24
-https://livetv.mylifeisgood.net.ru/channels/moscow24.m3u8
-#EXTINF:-1 group-title="📰 Новости",РБК
-http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="📰 Новости",360°
-https://livetv.mylifeisgood.net.ru/channels/ch360.m3u8
-#EXTINF:-1 group-title="📰 Новости",ИЗВЕСТИЯ
-http://iptv.mega.net.ru:8888/izvestiya/index.m3u8
-#EXTINF:-1 group-title="📰 Новости",CGTN-Русский
-https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 tvg-id="ua-tv" group-title="📰 Новости",FreeДОМ
-http://176.74.80.162:8099/UA/index.m3u8
-#EXTINF:-1 tvg-id="rtd-ru" group-title="📰 Новости",RT Д HD
-https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
-#EXTINF:-1 tvg-id="rt-doc" group-title="📰 Новости",RT Doc
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="📰 Новости",Евро📰 Новости
-http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="📰 Новости",Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="krik-tv" group-title="📰 Новости",Крик-ТВ
-http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📰 Новости",Россия 24
-#EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
+https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
+#EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
+http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
+http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
+https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 3 HD
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
+http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
+http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
+http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 2 HD
+http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 3 HD
+http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Игра HD
+http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Арена HD
+http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",MMA-TV.COM
+https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
+#EXTINF:-1 group-title="⚽ Спортивные",UFC HD
+http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Боец HD
+http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Конный мир HD
+http://127.0.0.1:6878/ace/getstream?id=96951e5de62a3e7095a1ed8a191817c8935e7017&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Мотор Спорт ТВ
+http://127.0.0.1:6878/ace/getstream?id=0eb8444f75bfe89d5a92c1497ac34ff4c4441207&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",КХЛ ТВ
+http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",KHL Prime HD
+http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",VIASAT SPORT HD
+http://127.0.0.1:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",UFC HD
+http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Футбольный HD
+http://127.0.0.1:6878/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Хоккейный HD
+http://127.0.0.1:6878/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Футбол HD
+http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",FightBox HD
+http://127.0.0.1:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Бокс ТВ
+http://127.0.0.1:6878/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Extreme Sports
+http://127.0.0.1:6878/ace/getstream?id=73ff07648e367efebd94636047b07625f664a082&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Eurosport 1 HD
+http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Eurosport 2 HD
+http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Fast&Funbox HD
+http://127.0.0.1:6878/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Старт
+http://127.0.0.1:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Спортивный
+http://127.0.0.1:6878/ace/getstream?id=8410d89a5767b250cd752381672aeb5fbe2240d3&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Мир Баскетбола
+http://127.0.0.1:6878/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Страна
+http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",МАТЧ! Планета
+http://127.0.0.1:6878/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные" Eleven Sports 1 4k 
+http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Eleven Sports 1 HD 
+http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Eleven Sports 2 HD 
+http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Eleven Sports 3 HD 
+http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Eleven Sports 4 HD 
+http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",beIN SPORTS HABER 
+http://127.0.0.1:6878/ace/getstream?id=47c1b3a68d03bd190fed521d144ad08fa0f195f3&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",beIN SPORTS HD 1 
+http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",beIN SPORTS HD 2 
+http://127.0.0.1:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",beIN SPORTS HD 4 
+http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",BT Sport 1 
+http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",BT Sport 2 
+http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",BT Sport 3 
+http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",FOX Sports 1 HD 
+http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",FOX Sports 2 HD 
+http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Premier Sports 1 
+http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Premier Sports 2 
+http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Setanta Live 1 
+http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Setanta Live 2 
+http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Ziggo Sport Golf 
+http://127.0.0.1:6878/ace/getstream?id=035e34b791335962ca817f42fd14300382af3797&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Ziggo Sport Racing 
+http://127.0.0.1:6878/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Ziggo Sport Select 
+http://127.0.0.1:6878/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Ziggo Sport Voetbal 
+http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",SKY Bundesliga UHD
+http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390&.mp4
 
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat History HD
 https://livetv.mylifeisgood.net.ru/channels/viasat_history.m3u8
@@ -451,124 +457,118 @@ https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",MediaService Lorenz TV
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
-https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
-http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
-http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
-http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 3 HD
-http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
-https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",MMA-TV.COM
-https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
-http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
-http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
-http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 2 HD
-http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 3 HD
-http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Игра HD
-http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Арена HD
-http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",UFC HD
-http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Боец HD
-http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Конный мир HD
-http://127.0.0.1:6878/ace/getstream?id=96951e5de62a3e7095a1ed8a191817c8935e7017&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Мотор Спорт ТВ
-http://127.0.0.1:6878/ace/getstream?id=0eb8444f75bfe89d5a92c1497ac34ff4c4441207&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",КХЛ ТВ
-http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",KHL Prime HD
-http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",VIASAT SPORT HD
-http://127.0.0.1:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",UFC HD
-http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Футбольный HD
-http://127.0.0.1:6878/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Хоккейный HD
-http://127.0.0.1:6878/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Футбол HD
-http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",FightBox HD
-http://127.0.0.1:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Бокс ТВ
-http://127.0.0.1:6878/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Extreme Sports
-http://127.0.0.1:6878/ace/getstream?id=73ff07648e367efebd94636047b07625f664a082&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Eurosport 1 HD
-http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Eurosport 2 HD
-http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Fast&Funbox HD
-http://127.0.0.1:6878/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Старт
-http://127.0.0.1:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Спортивный
-http://127.0.0.1:6878/ace/getstream?id=8410d89a5767b250cd752381672aeb5fbe2240d3&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Мир Баскетбола
-http://127.0.0.1:6878/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Страна
-http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",МАТЧ! Планета
-http://127.0.0.1:6878/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные" Eleven Sports 1 4k 
-http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Eleven Sports 1 HD 
-http://127.0.0.1:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Eleven Sports 2 HD 
-http://127.0.0.1:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Eleven Sports 3 HD 
-http://127.0.0.1:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Eleven Sports 4 HD 
-http://127.0.0.1:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",beIN SPORTS HABER 
-http://127.0.0.1:6878/ace/getstream?id=47c1b3a68d03bd190fed521d144ad08fa0f195f3&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",beIN SPORTS HD 1 
-http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",beIN SPORTS HD 2 
-http://127.0.0.1:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",beIN SPORTS HD 4 
-http://127.0.0.1:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",BT Sport 1 
-http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",BT Sport 2 
-http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",BT Sport 3 
-http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",FOX Sports 1 HD 
-http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",FOX Sports 2 HD 
-http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Premier Sports 1 
-http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Premier Sports 2 
-http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Setanta Live 1 
-http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Setanta Live 2 
-http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Ziggo Sport Golf 
-http://127.0.0.1:6878/ace/getstream?id=035e34b791335962ca817f42fd14300382af3797&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Ziggo Sport Racing 
-http://127.0.0.1:6878/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Ziggo Sport Select 
-http://127.0.0.1:6878/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Ziggo Sport Voetbal 
-http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",SKY Bundesliga UHD
-http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390&.mp4
+#EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="📺 Эфирные",Россия 1
+https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",НТВ HD
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",НТВ HD
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",НТВ Хит
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",НТВ Стиль
+https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",НТВ Сериал
+https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",НТВ ХИТ
+http://127.0.0.1:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&.mp4
+#EXTINF:-1 group-title="📺 Эфирные",НТВ Стиль
+http://127.0.0.1:6878/ace/getstream?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6&.mp4
+#EXTINF:-1 group-title="📺 Эфирные",НТВ Сериал
+http://127.0.0.1:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993&.mp4
+#EXTINF:-1 group-title="📺 Эфирные",РЕН ТВ HD
+https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",ТНТ HD
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",ТНТ4 HD
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",СТС HD
+https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Пятница HD
+https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Суббота HD
+https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",СТС Kids HD
+https://livetv.mylifeisgood.net.ru/channels/ctckids.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",СТС Kids HD
+http://iptv.mega.net.ru:8888/CTC_Kids_HD/index.m3u8
+#EXTINF:-1 tvg-id="zvezda" group-title="📺 Эфирные",Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="yu" tvg-logo="http://www.oreol.tv/img/027_u.jpg" group-title="📺 Эфирные",Ю ТВ
+https://strm.yandex.ru/kal/utv/utv0.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",ЧЕ
+https://livetv.mylifeisgood.net.ru/channels/che.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Домашний HD
+https://livetv.mylifeisgood.net.ru/channels/domashnii
+#EXTINF:-1 group-title="📺 Эфирные",Пятый канал
+https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
+#EXTINF:-1 tvg-id="mir" group-title="📺 Эфирные",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",ТВ3 HD
+https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Россия К
+https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",ТНТ4 HD
+http://127.0.0.1:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
+#EXTINF:-1 group-title="📺 Эфирные",СТС Love
+http://127.0.0.1:6878/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d&.mp4
+#EXTINF:-1 group-title="📺 Эфирные",СТС Kids HD
+http://127.0.0.1:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&.mp4
+#EXTINF:-1 group-title="📺 Эфирные",КВН ТВ
+http://31.148.48.15:80/KVN_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="📺 Эфирные",Твоё ТВ
+http://84.38.180.145:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Телекафе
+http://31.148.48.15:80/Telekafe/index.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/2s.png" tvg-name="Спас ТВ" group-title="📺 Эфирные",Спас
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",СПАС
+https://livetv.mylifeisgood.net.ru/channels/spas.m3u8
+#EXTINF:-1 tvg-id="tri-angela" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/3ABN-Rusia-en-directo-Online.png" group-title="📺 Эфирные",Три Ангела
+http://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/3r.png" tvg-name="Радость_Моя" group-title="📺 Эфирные",Радость Моя
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+
+#EXTINF:-1 tvg-id="dozhd" group-title="📰 Новости",Дождь
+http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="📰 Новости",Мир 24 HD
+https://livetv.mylifeisgood.net.ru/channels/mirhdpremium.m3u8
+##EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📰 Новости" ,360 Новости
+http://api.peers.tv/timeshift/360_novosti/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDI2MjcyNjAsImlhdCI6MTcwMjU0MDg2MCwiY2lkIjo2LCJ1aWQiOjcxNTA0MDA3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0._iaUL25vE7Wq5ichFxr8246QShO7brARLofNpf7cwHU&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📰 Новости" ,Известия HD
+http://api.peers.tv/timeshift/izvestiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDI2MjcyNjAsImlhdCI6MTcwMjU0MDg2MCwiY2lkIjo2LCJ1aWQiOjcxNTA0MDA3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0._iaUL25vE7Wq5ichFxr8246QShO7brARLofNpf7cwHU&offset=10
+#EXTINF:-1 group-title="📰 Новости",Россия 24
+https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
+#EXTINF:-1 group-title="📰 Новости",Москва 24
+https://livetv.mylifeisgood.net.ru/channels/moscow24.m3u8
+#EXTINF:-1 group-title="📰 Новости",РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="📰 Новости",360°
+https://livetv.mylifeisgood.net.ru/channels/ch360.m3u8
+#EXTINF:-1 group-title="📰 Новости",ИЗВЕСТИЯ
+http://iptv.mega.net.ru:8888/izvestiya/index.m3u8
+#EXTINF:-1 group-title="📰 Новости",CGTN-Русский
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 tvg-id="ua-tv" group-title="📰 Новости",FreeДОМ
+http://176.74.80.162:8099/UA/index.m3u8
+#EXTINF:-1 tvg-id="rtd-ru" group-title="📰 Новости",RT Д HD
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+#EXTINF:-1 tvg-id="rt-doc" group-title="📰 Новости",RT Doc
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="📰 Новости",Евро📰 Новости
+http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="📰 Новости",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="krik-tv" group-title="📰 Новости",Крик-ТВ
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📰 Новости",Россия 24
+#EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 
 #EXTINF:-1 group-title="🎵 Музыкальные",1HD
 https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
