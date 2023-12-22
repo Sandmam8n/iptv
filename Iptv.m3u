@@ -540,8 +540,6 @@ http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B3
 https://livetv.mylifeisgood.net.ru/channels/mirhdpremium.m3u8
 ##EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📰 Новости" ,360 Новости
 http://api.peers.tv/timeshift/360_novosti/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDI2MjcyNjAsImlhdCI6MTcwMjU0MDg2MCwiY2lkIjo2LCJ1aWQiOjcxNTA0MDA3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0._iaUL25vE7Wq5ichFxr8246QShO7brARLofNpf7cwHU&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📰 Новости" ,Известия HD
-http://api.peers.tv/timeshift/izvestiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDI2MjcyNjAsImlhdCI6MTcwMjU0MDg2MCwiY2lkIjo2LCJ1aWQiOjcxNTA0MDA3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0._iaUL25vE7Wq5ichFxr8246QShO7brARLofNpf7cwHU&offset=10
 #EXTINF:-1 group-title="📰 Новости",Россия 24
 https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
 #EXTINF:-1 group-title="📰 Новости",Москва 24
@@ -550,14 +548,10 @@ https://livetv.mylifeisgood.net.ru/channels/moscow24.m3u8
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="📰 Новости",360°
 https://livetv.mylifeisgood.net.ru/channels/ch360.m3u8
-#EXTINF:-1 group-title="📰 Новости",ИЗВЕСТИЯ
-http://iptv.mega.net.ru:8888/izvestiya/index.m3u8
 #EXTINF:-1 group-title="📰 Новости",CGTN-Русский
 https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="ua-tv" group-title="📰 Новости",FreeДОМ
 http://176.74.80.162:8099/UA/index.m3u8
-#EXTINF:-1 tvg-id="rtd-ru" group-title="📰 Новости",RT Д HD
-https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
 #EXTINF:-1 tvg-id="rt-doc" group-title="📰 Новости",RT Doc
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="euronews" group-title="📰 Новости",Евро📰 Новости
@@ -637,24 +631,12 @@ https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist
 https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📻 Радио",Джем FM [ЕКБ]
 https://m.jamfm.ru/cam/hls/jam.m3u8
-#EXTINF:-1 group-title="📻 Радио",За облаками (ВЕБ)
-rtmp://195.88.63.114/live/cam
-#EXTINF:-1 group-title="📻 Радио",Искатель (Казань)
-http://tele2dvrnat01-02.cdnvideo.ru:80/stream/TatTVR_Iskatel/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 group-title="📻 Радио",Китап
-http://89.251.159.37:8080/hls/kitapfm.m3u8
 #EXTINF:-1 group-title="📻 Радио",Крым (Веб-камера)
 https://cdn.1tvcrimea.ru/radio.m3u8
-#EXTINF:-1 group-title="📻 Радио",Кунел
-http://89.251.159.37:8080/hls/kunelfm.m3u8
 #EXTINF:-1 group-title="📻 Радио",Макс FM [Сочи] (Веб-камера)
 http://serv30.vintera.tv:8081/sochi/maks_fm/playlist.m3u8
 #EXTINF:-1 group-title="📻 Радио",Мир [BY]
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
-#EXTINF:-1 group-title="📻 Радио",Пилот [ЕКБ]
-http://pilotfm.ru:80/cam/hls/pilothd.m3u8
-#EXTINF:-1 group-title="📻 Радио",Тартип
-http://89.251.159.37:8080/hls/tartipfm.m3u8
 #EXTINF:-1 group-title="📻 Радио",Трансмит (Череповец)
 https://live.35media.ru/transmit-video/1080/s.m3u8
 #EXTINF:-1 group-title="📻 Радио",Спутник (Веб-камера)
