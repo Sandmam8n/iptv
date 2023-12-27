@@ -243,24 +243,24 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig",WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="📽️ Фильмовые",Vip Megahit HD
-https://livetv.mylifeisgood.net.ru/channels/vip_megahit.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",Vip Comedy HD
-https://livetv.mylifeisgood.net.ru/channels/vip_comedy.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",Vip Premiere HD
-https://livetv.mylifeisgood.net.ru/channels/vip_premiere.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",Vip Serial HD
-https://livetv.mylifeisgood.net.ru/channels/vip_serial.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",TV1000 HD
-https://livetv.mylifeisgood.net.ru/channels/tv1000.m3u8
+#EXTINF:-1 group-title="📽️ Фильмовые",VIP Serial HD
+http://127.0.0.1:6878/ace/getstream?id=d13dd140058b7a528959e2b709aca4111b7cc076&.mp4
+#EXTINF:-1 group-title="📽️ Фильмовые",VIP Premiere HD
+http://127.0.0.1:6878/ace/getstream?id=dc939e7815f47c5db59bd3e9fe4bb61ddecc45a5&.mp4
+#EXTINF:-1 group-title="📽️ Фильмовые",VIP Megahit HD
+http://127.0.0.1:6878/ace/getstream?id=d83992b759e6227f7cc9a20e4e4dae1b58e645c8&.mp4
+#EXTINF:-1 group-title="📽️ Фильмовые",VIP Comedy HD
+http://127.0.0.1:6878/ace/getstream?id=8c7b8be6682d84e033352724243719378c3e1540&.mp4
+#EXTINF:-1 group-title="📽️ Фильмовые",TV1000 Русское кино HD
+http://127.0.0.1:6878/ace/getstream?id=af4baf7f76a3057eeea815c90747860e9fec488a&.mp4
+#EXTINF:-1 group-title="📽️ Фильмовые",Viasat Kino World
+http://127.0.0.1:6878/ace/getstream?id=f8d38c09a74612b9fabf0206cbd28bc11d6bc27d&.mp4
 #EXTINF:-1 group-title="📽️ Фильмовые",TV1000 Action HD
-https://livetv.mylifeisgood.net.ru/channels/tv1000action.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",TV1000 Русское Кино HD
-https://livetv.mylifeisgood.net.ru/channels/tv1000ruskino.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",Феникс+Кино
-https://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые",Кинеко
-https://livetv.mylifeisgood.net.ru/channels/fox.m3u8
+http://127.0.0.1:6878/ace/getstream?id=05a7dd3bf60e16ed1674cb437e1e00084392285e&.mp4
+#EXTINF:-1 group-title="📽️ Фильмовые",TV1000 HD
+http://127.0.0.1:6878/ace/getstream?id=ae0d6d703ef80198263a1a868740cf059eac4e9e&.mp4
+#EXTINF:-1 group-title="📽️ Фильмовые",Кинеко HD
+http://127.0.0.1:6878/ace/getstream?id=6c6849a17243f967d0c6f04323af9dfde161c3f2&.mp4
 #EXTINF:-1 group-title="📽️ Фильмовые",Кинопоказ
 http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
 #EXTINF:-1 group-title="📽️ Фильмовые",BCU Кинозал Premiere 1 HD
