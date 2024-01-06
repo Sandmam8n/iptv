@@ -28,6 +28,8 @@ http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&
 http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",MMA-TV.COM
 https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
+#EXTINF:-1 group-title="⚽ Спортивные",Окко Спорт HD
+http://158.101.194.132:8888/channel/79f180dd/index.mpeg?q=f601bfe6ca637f5e7f8b0c32a2e23796
 #EXTINF:-1 group-title="⚽ Спортивные",UFC HD
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Боец HD
@@ -123,6 +125,9 @@ http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390&
 http://195.191.208.80:80/jwt/2e1072857bfd77c6959e9674455f0217d6105966-5633-0-24h2596517-5-1566361760-1638023871--WzoOwDjTFRZAEH5QXdu4sSvveDi2ToA5nUq3oZcY0I4-0
 #EXTGRP:🌏 Познавательные
 http://ru.iptv.monster/play/362/5416F3BDBAB456F/video.m3u8
+#EXTINF:0,ID Xtra HD
+#EXTGRP:🌏 Познавательные
+https://am01.spr24.net/149/mpegts?token=tkwp6ncUx4cefr
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
 http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery HD
