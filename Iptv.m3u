@@ -271,40 +271,6 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig",WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-id="ttv28362" tvg-name="YOSSO TV Adrenaline" tvg-logo="http://ttvrun.one/uploads/bN6IvZFDpLeCCNmmJZTwRJSXQHrHau.png",YOSSO TV Adrenaline
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/1779/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-id="ttv28364" tvg-name="YOSSO TV Adventure" tvg-logo="http://ttvrun.one/uploads/YY8FQkkZ5HRqtrRkHlBjczJI9mWng3.png",YOSSO TV Adventure
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/1781/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-id="ttv28360" tvg-name="YOSSO TV BEST" tvg-logo="http://ttvrun.one/uploads/8N3pI0MkGT7OKoaqpM2hMwuEuo3lXY.png",YOSSO TV BEST
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/1777/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-id="ttv29184" tvg-name="YOSSO TV Best 60 FPS" tvg-logo="http://ttvrun.one/uploads/GFxqtX53N4IYgeTBxSxONX9nZt8tGQ.png",YOSSO TV Best 60 FPS
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/2121/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-id="ttv27621" tvg-name="YOSSO TV GRAND" tvg-logo="http://ttvrun.one/uploads/8mwhaZRwZMyt5VzHbxC1HtVi5Pm8R0.png",YOSSO TV GRAND
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/1766/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-id="ttv29182" tvg-name="YOSSO TV Netflix" tvg-logo="http://ttvrun.one/uploads/4ptKyBFR3EU7iVFuWQYzeewhE9XU7Q.png",YOSSO TV Netflix
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/2119/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-id="ttv28355" tvg-name="YOSSO TV NEW Кино" tvg-logo="http://ttvrun.one/uploads/eOdwEOAOEXJytiG6FdKw84NCiJQmDy.png",YOSSO TV NEW Кино
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/1772/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-id="ttv28363" tvg-name="YOSSO TV Oblivion" tvg-logo="http://ttvrun.one/uploads/MkbxEwS5OY8TCRAA8ZHZ3vFkRCPprg.png",YOSSO TV Oblivion
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/1780/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-id="ttv28365" tvg-name="YOSSO TV Thriller" tvg-logo="http://ttvrun.one/uploads/vUzXO0697vtzPz2n9jj8ZgC4fXefjl.png",YOSSO TV Thriller
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/1782/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-id="ttv28351" tvg-name="YOSSO TV VHS" tvg-logo="http://ttvrun.one/uploads/c9LpjAtRIaMBtS9kB418kA0r6KgiuJ.png",YOSSO TV VHS
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/1767/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-id="ttv28359" tvg-name="YOSSO TV Забавное" tvg-logo="http://ttvrun.one/uploads/Y3rHNVYQW7lzgLfJovkmcg6nrYrk0s.png",YOSSO TV Забавное
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/1776/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-id="ttv28361" tvg-name="YOSSO TV Ковбойское" tvg-logo="http://ttvrun.one/uploads/w7EFq6i0tMJzmEMTvbtAjOReLvHcNZ.png",YOSSO TV Ковбойское
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/1778/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-id="ttv29269" tvg-name="YOSSO TV Мелодрама" tvg-logo="http://ttvrun.one/uploads/OWEABecmTTjMSj8wvKH7pJrHWb87ha.png",YOSSO TV Мелодрама
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/2147/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-id="ttv28353" tvg-name="YOSSO TV Русские фильмы" tvg-logo="http://ttvrun.one/uploads/cMpFyBRdGQdoexspE9X51RL3ssg7qn.png",YOSSO TV Русские фильмы
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/1769/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-id="ttv27076" tvg-name="YOSSO TV Советские фильмы" tvg-logo="http://ttvrun.one/uploads/aapvmvQIFCMLNcsKBmydXWtVj7XM93.png",YOSSO TV Советские фильмы
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/1770/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-id="ttv29270" tvg-name="YOSSO TV Советские фильмы 4K" tvg-logo="http://ttvrun.one/uploads/xwzlBDjRMv2O9NikD90ma1tBAkfqE7.png",YOSSO TV Советские фильмы 4K
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/2148/stream.m3u8
-#EXTINF:-1 group-title="📽️ Фильмовые" tvg-id="ttv28358" tvg-name="YOSSO TV Трагичное" tvg-logo="http://ttvrun.one/uploads/3ie790njBycIHG98MSmfQykxFZfdUI.png",YOSSO TV Трагичное
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/1775/stream.m3u8
 #EXTINF:-1 group-title="📽️ Фильмовые",VIP Serial HD
 http://127.0.0.1:6878/ace/getstream?id=d13dd140058b7a528959e2b709aca4111b7cc076&.mp4
 #EXTINF:-1 group-title="📽️ Фильмовые",VIP Premiere HD
