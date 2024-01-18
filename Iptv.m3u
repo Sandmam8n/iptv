@@ -519,10 +519,6 @@ https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Суббота HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",СТС Kids HD
-https://livetv.mylifeisgood.net.ru/channels/ctckids.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",СТС Kids HD
-http://iptv.mega.net.ru:8888/CTC_Kids_HD/index.m3u8
 #EXTINF:-1 tvg-id="zvezda" group-title="📺 Эфирные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="http://www.oreol.tv/img/027_u.jpg" group-title="📺 Эфирные",Ю ТВ
