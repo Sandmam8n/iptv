@@ -58,8 +58,6 @@ http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&
 http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",MMA-TV.COM
 https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Окко Спорт HD
-http://158.101.194.132:8888/channel/79f180dd/index.mpeg?q=f601bfe6ca637f5e7f8b0c32a2e23796
 #EXTINF:-1 group-title="⚽ Спортивные",UFC HD
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Боец HD
