@@ -102,6 +102,12 @@ http://127.0.0.1:6878/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570&
 http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",МАТЧ! Планета
 http://127.0.0.1:6878/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af&.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES FHD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="⚽ Спортивные",ES: LIGA DE CAMPEONES FHD
+http://358236817559246282.ofd0126.xyz:80/play/hu317398/vtd45DBmTj3/246282.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: LA LIGA FHD (H 265)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-laliga-es.png" group-title="⚽ Спортивные",ES: LA LIGA FHD (H 265)
+http://358236817559262413.ofd0126.xyz:80/play/hu317398/vtd45DBmTj3/262413.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: LIGUE 1 AMAZON PRIME 7 HEVC" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZMv73WrZejth_H7OmiHbJNx3of4M7uwa2b6uYlOWTWlxi860p1yHg1LNNA8_oYeYJWixX-wspPRrZ_7ObGgaldg.png" group-title="⚽ Спортивные",FR: LIGUE 1 AMAZON PRIME 7 HEVC
+http://358236817559312768.ofd0126.xyz:80/play/hu317398/vtd45DBmTj3/312768.ts
 #EXTINF:-1 group-title="⚽ Спортивные" Eleven Sports 1 4k 
 http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Eleven Sports 1 HD 
