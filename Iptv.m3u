@@ -550,11 +550,7 @@ http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/3r.png" tvg-name="Радость_Моя" group-title="📺 Эфирные",Радость Моя
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 
-#EXTINF:-1 tvg-id="dozhd" group-title="📰 Новости",Дождь
-http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 group-title="📰 Новости",Мир 24 HD
-https://livetv.mylifeisgood.net.ru/channels/mirhdpremium.m3u8
-##EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📰 Новости" ,360 Новости
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📰 Новости" ,360 Новости
 http://api.peers.tv/timeshift/360_novosti/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDI2MjcyNjAsImlhdCI6MTcwMjU0MDg2MCwiY2lkIjo2LCJ1aWQiOjcxNTA0MDA3NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODQsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0._iaUL25vE7Wq5ichFxr8246QShO7brARLofNpf7cwHU&offset=10
 #EXTINF:-1 group-title="📰 Новости",Россия 24
 https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
