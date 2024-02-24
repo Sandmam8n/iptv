@@ -1,11 +1,35 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz,https://iptvx.one/EPG"
 
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
+http://hls.k-telecom.org:8081/kt/222/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
+http://hls.k-telecom.org:8081/kt/210/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
+http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDI0IDc6NTc6MzcgUE0maGFzaF92YWx1ZT1TTEhKYUw0UXBoYXl5S1MrL01uM2l3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDI0IDc6NTc6MzcgUE0maGFzaF92YWx1ZT1TTEhKYUw0UXBoYXl5S1MrL01uM2l3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
+http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDI0IDc6NTc6MzcgUE0maGFzaF92YWx1ZT1TTEhKYUw0UXBoYXl5S1MrL01uM2l3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 2 HD
+http://95.181.17.26/7nvenc/NTVplusfut2HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDI0IDc6NTc6MzcgUE0maGFzaF92YWx1ZT1TTEhKYUw0UXBoYXl5S1MrL01uM2l3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Арена HD
+http://188.190.222.48:80/Match_Arena_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Игра HD
+http://188.190.222.48:80/Match_Igra_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="⚽ Спортивные",МАТЧ ТВ HD
+http://91.207.115.228:5000/c101
+#EXTINF:-1 group-title="⚽ Спортивные",МАТЧ! ФУТБОЛ 1 HD
+http://91.207.115.228:5000/c114
+#EXTINF:-1 group-title="⚽ Спортивные",МАТЧ! ФУТБОЛ 2 HD
+http://91.207.115.228:5000/c115
+#EXTINF:-1 group-title="⚽ Спортивные",МАТЧ! ФУТБОЛ 3 HD
+http://91.207.115.228:5000/c116
 #EXTINF:-1 group-title="⚽ Спортивные" tvg-id="ttv25303" tvg-name="Матч! Премьер HD" catchup="default" catchup-source="http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/264/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/4ijjo31TSRM8kkSO1xYTp6bKqib13c.png",Матч! Премьер HD
 #EXTGRP:⚽ Спортивные
 http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/264/stream.m3u8
@@ -155,6 +179,8 @@ http://195.191.208.80:80/jwt/2e1072857bfd77c6959e9674455f0217d6105966-5633-0-24h
 http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/87/stream.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные" tvg-id="ttv20404" tvg-name="Investigation Discovery HD" tvg-logo="http://ttvrun.one/uploads/zifOmPy8GU7lrzAt3LHPWsVC8jSwFA.png",Investigation Discovery HD
 http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/86/stream.m3u8
+#EXTINF:-1 group-title="🌏 Познавательные",Investigation Discovery HD
+http://91.207.115.228:5000/c150
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
 http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery HD
