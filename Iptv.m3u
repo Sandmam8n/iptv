@@ -1,10 +1,6 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz,https://iptvx.one/EPG"
 
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
-http://hls.k-telecom.org:8081/kt/222/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
-http://hls.k-telecom.org:8081/kt/210/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч ТВ HD
 http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
