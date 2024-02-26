@@ -162,8 +162,6 @@ http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/87/strea
 #EXTINF:-1 group-title="🌏 Познавательные" tvg-id="ttv20404" tvg-name="Investigation Discovery HD" tvg-logo="http://ttvrun.one/uploads/zifOmPy8GU7lrzAt3LHPWsVC8jSwFA.png",Investigation Discovery HD
 http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/86/stream.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Investigation Discovery HD
-http://91.207.115.228:5000/c150
-#EXTINF:-1 group-title="🌏 Познавательные",Investigation Discovery HD
 http://1mir-iptv.ru/hhh/testx.php?channel_id=160&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
 http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
@@ -222,6 +220,8 @@ http://127.0.0.1:6878/ace/getstream?id=07b0f15c3571584ecee786e2b05bec75a6b4485b&
 http://127.0.0.1:6878/ace/getstream?id=f57378901dec9cb1d110f3893f355becb6cae39d&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Усадьба
 http://127.0.0.1:6878/ace/getstream?id=8753c67ddaedb391cca8e6a043ec85999f6b3199&.mp4
+#EXTINF:-1 group-title="🌏 Познавательные",2x2
+http://127.0.0.1:6878/ace/getstream?id=ae0290d2b26b326c76a6842c1f62b643e29a6801&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Точка отрыва
 http://127.0.0.1:6878/ace/getstream?id=ee5cd7316e917f156bf8d176a11da98fe403b0b2&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",ТВ XXI
@@ -680,8 +680,6 @@ http://127.0.0.1:6878/ace/getstream?id=0ef17cf868ef54b443dd41516803276779b76aac&
 http://127.0.0.1:6878/ace/getstream?id=78f1672c711f67c5588ecc96580f7524c0fb87fb&.mp4
 #EXTINF:-1 group-title="👶 Детские",Карусель
 http://127.0.0.1:6878/ace/getstream?id=c008e67929d47855b43f7a9af7305a6c32504132&.mp4
-#EXTINF:-1 group-title="👶 Детские",2x2
-http://127.0.0.1:6878/ace/getstream?id=ae0290d2b26b326c76a6842c1f62b643e29a6801&.mp4
 #EXTINF:-1 group-title="👶 Детские",СуперГерои
 http://127.0.0.1:6878/ace/getstream?id=42f4491e03e5730330457e7c49c55362bf2cbc7e&.mp4
 #EXTINF:-1 group-title="👶 Детские",Cartoon Network
