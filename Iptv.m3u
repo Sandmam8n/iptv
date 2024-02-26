@@ -524,7 +524,7 @@ https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Пятница HD
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Суббота HD
-https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
+http://127.0.0.1:6878/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69&.mp4
 #EXTINF:-1 tvg-id="zvezda" group-title="📺 Эфирные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Ю ТВ
@@ -559,7 +559,9 @@ http://31.148.48.15:80/Telekafe/index.m3u8
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/2s.png" tvg-name="Спас ТВ" group-title="📺 Эфирные",Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",СПАС
+#EXTINF:-1 group-title="📺 Эфирные",Спас
+http://1MIR-IPTV.RU/hhh/rutube1.php?id=2bbfa9ebf9d79ade480d7281fcef1008&token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1 group-title="📺 Эфирные",Спас
 https://livetv.mylifeisgood.net.ru/channels/spas.m3u8
 #EXTINF:-1 tvg-id="tri-angela" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/3ABN-Rusia-en-directo-Online.png" group-title="📺 Эфирные",Три Ангела
 http://hls.tv.3angels.ru/stream/HQ.m3u8
