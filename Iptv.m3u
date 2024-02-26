@@ -10,6 +10,9 @@ http://194.143.148.28:8080/MatchFutbol1/mpegts
 http://188.190.222.48:80/Match_Arena_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Игра HD
 http://188.190.222.48:80/Match_Igra_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="⚽ Спортивные"  tvg-id="match-premier" tvg-logo="http://cdn.server-iptv.live/logo/tv/match-premier-ru.png",Матч! Премьер HD
+#EXTGRP:⚽ Спортивные
+http://ip1.orgip.net/208/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 group-title="⚽ Спортивные" tvg-id="ttv25303" tvg-name="Матч! Премьер HD" catchup="default" catchup-source="http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/264/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/4ijjo31TSRM8kkSO1xYTp6bKqib13c.png",Матч! Премьер HD
 #EXTGRP:⚽ Спортивные
 http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/264/stream.m3u8
