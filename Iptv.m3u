@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz,https://iptvx.one/EPG"
 
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
+http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjQgODowNDo0MiBBTSZoYXNoX3ZhbHVlPUtqZjJ1Sml4MDU5ajVIcFk4cXYzTGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
 http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjQgODowNDo0MiBBTSZoYXNoX3ZhbHVlPUtqZjJ1Sml4MDU5ajVIcFk4cXYzTGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
