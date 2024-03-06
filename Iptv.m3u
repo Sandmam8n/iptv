@@ -170,16 +170,12 @@ http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91&
 #EXTINF:-1 group-title="⚽ Спортивные",SKY Bundesliga UHD
 http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390&.mp4
 
-#EXTINF:-1 group-title="🌏 Познавательные",Galaxy TV
-http://1mir-iptv.ru/hhh/testx.php?channel_id=98&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 #EXTINF:-1 group-title="🌏 Познавательные" ,Galaxy TV
 http://185.37.150.40:8092/Galaxy/playlist.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные" tvg-id="ttv8712" tvg-name="TLC HD" catchup="default" catchup-source="http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/87/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/AuzAn9btGy7PX1a0hOsBAc3PZMPJGT.png",TLC HD
 http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/87/stream.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные" tvg-id="ttv20404" tvg-name="Investigation Discovery HD" tvg-logo="http://ttvrun.one/uploads/zifOmPy8GU7lrzAt3LHPWsVC8jSwFA.png",Investigation Discovery HD
 http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/86/stream.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",Investigation Discovery HD
-http://1mir-iptv.ru/hhh/testx.php?channel_id=160&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
 http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery HD
@@ -580,21 +576,15 @@ http://1MIR-IPTV.RU/hhh/rutube1.php?id=2bbfa9ebf9d79ade480d7281fcef1008&token=RG
 http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/3r.png" tvg-name="Радость_Моя" group-title="📺 Эфирные",Радость Моя
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-
-
-#EXTINF:-1 group-title="📰 Новости",РБК
+#EXTINF:-1 group-title="📺 Эфирные",РБК
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="📰 Новости",FreeДОМ
+#EXTINF:-1 group-title="📺 Эфирные",FreeДОМ
 https://m3u8.ott.blue/watch/7431/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 group-title="📰 Новости",Настоящее время HD
+#EXTINF:-1 group-title="📺 Эфирные",Настоящее время HD
 https://m3u8.ott.blue/watch/207/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 tvg-id="rt-doc" group-title="📰 Новости",RT Doc
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="📰 Новости",Мир 24
+#EXTINF:-1 group-title="📺 Эфирные",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="krik-tv" group-title="📰 Новости",Крик-ТВ
-http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📰 Новости",Россия 24
+#EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Эфирные",Россия 24
 #EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 
