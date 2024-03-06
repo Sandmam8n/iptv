@@ -1,43 +1,11 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz,https://iptvx.one/EPG"
 
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
-https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
 http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1 group-title="⚽ Спортивные" ,Матч! Премьер HD
 http://185.37.150.40:8092/Nash_futbol_HD/playlist.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные" tvg-id="ttv25303" tvg-name="Матч! Премьер HD" catchup="default" catchup-source="http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/264/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/4ijjo31TSRM8kkSO1xYTp6bKqib13c.png",Матч! Премьер HD
-#EXTGRP:⚽ Спортивные
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/264/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные" tvg-id="ttv26336" tvg-name="Матч! HD" catchup="default" catchup-source="http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/681/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/vx7B7YIwqzYXFHaufUQPSZIA9ugl0h.png"Матч! HD
-#EXTGRP:⚽ Спортивные
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/681/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные" tvg-id="ttv420" tvg-name="Матч! Арена HD" catchup="default" catchup-source="http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/259/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/sp3EQmxO7UZiB4FhDDsX9aXBwp5gmQ.png",Матч! Арена HD
-#EXTGRP:⚽ Спортивные
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/259/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные" tvg-id="ttv28815" tvg-name="Матч! Боец HD" tvg-logo="http://ttvrun.one/uploads/Mc2oUfw4Q5q6WDe5VQj7F3W6CrkyHs.png",Матч! Боец HD
-#EXTGRP:⚽ Спортивные
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/1887/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные" tvg-id="ttv1461" tvg-name="Матч! Игра HD" catchup="default" catchup-source="http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/258/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/oCgNL7ovnLMqOpq6jxZLUKM45uLmgZ.png",Матч! Игра HD
-#EXTGRP:⚽ Спортивные
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/258/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные" tvg-id="ttv4527" tvg-name="Матч! Планета" tvg-logo="http://ttvrun.one/uploads/mWQ92sSmszzmjme9GTueLPCxagJGtl.png",Матч! Планета
-#EXTGRP:⚽ Спортивные
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/1188/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные" tvg-id="ttv28861" tvg-name="Матч! Страна HD" tvg-logo="http://ttvrun.one/uploads/kfY9n3GI7lGy9U8Ot83ojJTnEgl8MV.png",Матч! Страна HD
-#EXTGRP:⚽ Спортивные
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/1903/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные" tvg-id="ttv3256" tvg-name="Матч! Футбол 1 HD" catchup="default" catchup-source="http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/261/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/vZLzcZJy6LW2oITy8yJJYMb7bdQotL.png",Матч! Футбол 1 HD
-#EXTGRP:⚽ Спортивные
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/261/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные" tvg-id="ttv2977" tvg-name="Матч! Футбол 2 HD" catchup="default" catchup-source="http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/262/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/3YVv4zSDartWra0QPjdSGdHtdDGicV.png",Матч! Футбол 2 HD
-#EXTGRP:⚽ Спортивные
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/262/stream.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные" tvg-id="ttv6313" tvg-name="Матч! Футбол 3 HD" catchup="default" catchup-source="http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/263/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/Mz4rmdoVbalChPXVwPqzgBRFbhkXnb.png",Матч! Футбол 3 HD
-#EXTGRP:⚽ Спортивные
-http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/263/stream.m3u8
 
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
 http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9My81LzIwMjQgODowNDo0MiBBTSZoYXNoX3ZhbHVlPUtqZjJ1Sml4MDU5ajVIcFk4cXYzTGc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
