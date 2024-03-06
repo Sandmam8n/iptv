@@ -530,8 +530,6 @@ http://127.0.0.1:6878/ace/getstream?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6&
 http://127.0.0.1:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993&.mp4
 #EXTINF:-1 group-title="📺 Эфирные" ,РЕН ТВ
 http://185.37.150.40:8092/RenTV_HD/playlist.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",РЕН ТВ
-http://127.0.0.1:6878/ace/getstream?id=5d2b34377ff010af21f777600c6be77d4479f2eb&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",ТНТ HD
 http://127.0.0.1:6878/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094b&.mp4
 #EXTINF:-1 group-title="📺 Эфирные" ,ТНТ4
@@ -544,8 +542,6 @@ https://mobdrm.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/friday/tracks-
 http://127.0.0.1:6878/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69&.mp4
 #EXTINF:-1 tvg-id="zvezda" group-title="📺 Эфирные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Ю ТВ
-http://1MIR-IPTV.RU/hhh/rutube1.php?id=5c9327074e25ca86f3111d4085cbbb65&token=RGltb25vdmljaDoxOTgyMTk4Mg==
 #EXTINF:-1 tvg-id="yu" tvg-logo="http://www.oreol.tv/img/027_u.jpg" group-title="📺 Эфирные",Ю ТВ
 https://strm.yandex.ru/kal/utv/utv0.m3u8
 #EXTINF:-1 group-title="📺 Эфирные" ,ЧЕ
@@ -592,8 +588,6 @@ http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 
 #EXTINF:-1 group-title="📰 Новости",РБК
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="📰 Новости",Дождь HD
-https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 group-title="📰 Новости",FreeДОМ
 https://m3u8.ott.blue/watch/7431/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 group-title="📰 Новости",Настоящее время HD
