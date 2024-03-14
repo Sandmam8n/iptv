@@ -468,16 +468,12 @@ https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",MediaService Lorenz TV
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
 
-#EXTINF:-1 group-title="📺 Эфирные", Первый канал HD
-https://mobdrm.mediavitrina.ru/hls-livef2/1tv/index.m3u8?cdn=https%3A%2F%2F1tv-live-vitrina.cdn.gblnet.ru&token=v2.o6Rxqhg8liy8qIQbLrZirja_DtgYIXI20LnT5t_P2ow.CAlaKvj7Pz2cbVXIXA36qUw6wYGs1cWKibyyUbdccro.1710230679.5ae045a6fb40f9afc59724c78c495832
-#EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
+#EXTINF:-1 group-title="📺 Эфирные",Первый канал
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="📺 Эфирные" ,Россия 1
-http://185.37.150.40:8092/PTP_planeta/playlist.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Первый канал
+http://127.0.0.1:6878/ace/getstream?id=50bc2f512793f1e745fb5bd5b5a6afca199c2d19&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",Россия 1
 http://127.0.0.1:6878/ace/getstream?id=9644f162efbefc1b38601eeaeeed25591fd2832e&.mp4
-#EXTINF:-1 group-title="📺 Эфирные", НТВ HD
-https://mobdrm.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/ntv0h/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.o6Rxqhg8liy8qIQbLrZirja_DtgYIXI20LnT5t_P2ow.CAlaKvj7Pz2cbVXIXA36qUw6wYGs1cWKibyyUbdccro.1710230679.5ae045a6fb40f9afc59724c78c495832
 #EXTINF:-1 group-title="📺 Эфирные",НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Хит
@@ -492,14 +488,8 @@ http://127.0.0.1:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&
 http://127.0.0.1:6878/ace/getstream?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Сериал
 http://127.0.0.1:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993&.mp4
-#EXTINF:-1 group-title="📺 Эфирные", ТНТ HD
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tnt/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.o6Rxqhg8liy8qIQbLrZirja_DtgYIXI20LnT5t_P2ow.CAlaKvj7Pz2cbVXIXA36qUw6wYGs1cWKibyyUbdccro.1710230679.5ae045a6fb40f9afc59724c78c495832
 #EXTINF:-1 group-title="📺 Эфирные",ТНТ HD
 http://127.0.0.1:6878/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094b&.mp4
-#EXTINF:-1 group-title="📺 Эфирные",СТС HD
-https://mobdrm.mediavitrina.ru/dash-livef2/ctc/index.mpd?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.o6Rxqhg8liy8qIQbLrZirja_DtgYIXI20LnT5t_P2ow.CAlaKvj7Pz2cbVXIXA36qUw6wYGs1cWKibyyUbdccro.1710230679.5ae045a6fb40f9afc59724c78c495832
-#EXTINF:-1 group-title="📺 Эфирные",Пятница HD
-https://mobdrm.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/friday/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.o6Rxqhg8liy8qIQbLrZirja_DtgYIXI20LnT5t_P2ow.CAlaKvj7Pz2cbVXIXA36qUw6wYGs1cWKibyyUbdccro.1710230679.5ae045a6fb40f9afc59724c78c495832
 #EXTINF:-1 group-title="📺 Эфирные",Суббота HD
 http://127.0.0.1:6878/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69&.mp4
 #EXTINF:-1 tvg-id="zvezda" group-title="📺 Эфирные",Звезда HD
@@ -508,12 +498,8 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 https://bkm.beetv.kz/btv/live/hls/000002472.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="http://www.oreol.tv/img/027_u.jpg" group-title="📺 Эфирные",Ю ТВ
 https://strm.yandex.ru/kal/utv/utv0.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Че
-https://mobdrm.mediavitrina.ru/dash-livef2/ctc-che/index.mpd?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.o6Rxqhg8liy8qIQbLrZirja_DtgYIXI20LnT5t_P2ow.CAlaKvj7Pz2cbVXIXA36qUw6wYGs1cWKibyyUbdccro.1710230679.5ae045a6fb40f9afc59724c78c495832
 #EXTINF:-1 tvg-id="mir" group-title="📺 Эфирные",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="📺 Эфирные", ТВ3 HD 
-https://mobdrm.mediavitrina.ru:443/hls-livec1/streams/vitrina-hls/tv3/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.o6Rxqhg8liy8qIQbLrZirja_DtgYIXI20LnT5t_P2ow.CAlaKvj7Pz2cbVXIXA36qUw6wYGs1cWKibyyUbdccro.1710230679.5ae045a6fb40f9afc59724c78c495832
 #EXTINF:-1 group-title="📺 Эфирные",ТВ3 HD
 http://127.0.0.1:6878/ace/getstream?id=3b878b202b26e2b15bf7304e21a7d5283ebf236b&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",ТНТ4 HD
@@ -526,8 +512,6 @@ http://127.0.0.1:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&
 http://127.0.0.1:6878/ace/getstream?id=5e06a45d6939341fb7427189245380086c1d63c7&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",РЕН ТВ
 http://127.0.0.1:6878/ace/getstream?id=5d2b34377ff010af21f777600c6be77d4479f2eb&.mp4
-#EXTINF:-1 group-title="📺 Эфирные", Россия К
-https://mobdrm.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/russiak/tracks-v3a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.o6Rxqhg8liy8qIQbLrZirja_DtgYIXI20LnT5t_P2ow.CAlaKvj7Pz2cbVXIXA36qUw6wYGs1cWKibyyUbdccro.1710230679.5ae045a6fb40f9afc59724c78c495832
 #EXTINF:-1 group-title="📺 Эфирные",КВН ТВ
 http://31.148.48.15:80/KVN_TV/index.m3u8?token=test
 #EXTINF:-1 group-title="📺 Эфирные",Твоё ТВ
