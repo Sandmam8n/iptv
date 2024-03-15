@@ -1,5 +1,20 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz,https://iptvx.one/EPG"
 
+#EXTINF:-1 timeshift="3" group-title="⚽ Спортивные" tvg-id="match",Матч! FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/45327
+#EXTINF:-1 timeshift="3" group-title="⚽ Спортивные" tvg-id="sport1_rus",Матч! Арена FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63425
+#EXTINF:-1 timeshift="3" group-title="⚽ Спортивные" tvg-id="sport2_rus",Матч! Игра FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/36548
+#EXTINF:-1 timeshift="3" group-title="⚽ Спортивные" tvg-id="ntv-nashfootball",Матч! Премьер FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/26385
+#EXTINF:-1 timeshift="3" group-title="⚽ Спортивные" tvg-id="ntv-football-1",Матч! Футбол 1 FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/44628
+#EXTINF:-1 timeshift="3" group-title="⚽ Спортивные" tvg-id="ntv-football-2",Матч! Футбол 2 FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/61663
+#EXTINF:-1 timeshift="3" group-title="⚽ Спортивные" tvg-id="ntv-football-3",Матч! Футбол 3 FHD
+http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/38742
+
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
 http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
 
