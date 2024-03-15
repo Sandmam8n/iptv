@@ -3,29 +3,11 @@
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
 http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
 
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
-http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI0IDc6NTk6MzQgQU0maGFzaF92YWx1ZT1xYzMzUlUrSWlCeW80WlZKQWcxNDZBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="⚽ Спортивные" ,Матч! HD
+https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
-http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI0IDc6NTk6MzQgQU0maGFzaF92YWx1ZT1xYzMzUlUrSWlCeW80WlZKQWcxNDZBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 2 HD
-http://95.181.17.26/7nvenc/NTVplusfut2HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI0IDc6NTk6MzQgQU0maGFzaF92YWx1ZT1xYzMzUlUrSWlCeW80WlZKQWcxNDZBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 3 HD
-http://95.181.17.14/dvr02/mobile1/NTVplusfut3HD/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI0IDc6NTk6MzQgQU0maGFzaF92YWx1ZT1xYzMzUlUrSWlCeW80WlZKQWcxNDZBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Игра HD
-http://95.181.17.14/7nvenc/sport2HD/71/fhd/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI0IDc6NTk6MzQgQU0maGFzaF92YWx1ZT1xYzMzUlUrSWlCeW80WlZKQWcxNDZBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI0IDc6NTk6MzQgQU0maGFzaF92YWx1ZT1xYzMzUlUrSWlCeW80WlZKQWcxNDZBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Арена HD
-http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI0IDc6NTk6MzQgQU0maGFzaF92YWx1ZT1xYzMzUlUrSWlCeW80WlZKQWcxNDZBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Страна HD
-http://95.181.17.6/4nvenc/ntvsport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDI0IDc6NTk6MzQgQU0maGFzaF92YWx1ZT1xYzMzUlUrSWlCeW80WlZKQWcxNDZBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 group-title="⚽ Спортивные" ,Матч! HD
+http://194.143.148.28:8080/MatchHD/mpegts
 
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
@@ -56,7 +38,13 @@ http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0&
 #EXTINF:-1 group-title="⚽ Спортивные",KHL Prime HD
 http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",VIASAT SPORT HD
+https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
+#EXTINF:-1 group-title="⚽ Спортивные",VIASAT SPORT HD
 http://127.0.0.1:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b&.mp4
+#EXTINF:-1 group-title="⚽ Спортивные",Setanta Sports 1
+https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
+#EXTINF:-1 group-title="⚽ Спортивные",Setanta Sports 2
+https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",UFC HD
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Футбольный HD
@@ -141,7 +129,9 @@ http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91&
 http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390&.mp4
 
 #EXTINF:-1 group-title="🌏 Познавательные" ,Galaxy TV
-http://185.37.150.40:8092/Galaxy/playlist.m3u8
+https://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
+#EXTINF:-1 group-title="🌏 Познавательные",Galaxy TV
+https://bkm.beetv.kz/btv/live/hls/000000332.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные" tvg-id="ttv8712" tvg-name="TLC HD" catchup="default" catchup-source="http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/87/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/AuzAn9btGy7PX1a0hOsBAc3PZMPJGT.png",TLC HD
 http://streamer.enchart.one/42/9aac8ee4396694b7ce9b241f19913d4d73ed8b55/87/stream.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные" tvg-id="ttv20404" tvg-name="Investigation Discovery HD" tvg-logo="http://ttvrun.one/uploads/zifOmPy8GU7lrzAt3LHPWsVC8jSwFA.png",Investigation Discovery HD
@@ -474,6 +464,10 @@ http://84.38.180.145:8080/Uhierjfk/index.m3u8
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал
 http://127.0.0.1:6878/ace/getstream?id=50bc2f512793f1e745fb5bd5b5a6afca199c2d19&.mp4
+#EXTINF:-1 group-title="📺 Эфирные",Россия 1 HD
+http://176.113.48.221:8986/90
+#EXTINF:-1 group-title="📺 Эфирные" ,Россия 1
+http://45.15.43.12:80/rossiya1/video.m3u8?token=test
 #EXTINF:-1 group-title="📺 Эфирные",Россия 1
 http://127.0.0.1:6878/ace/getstream?id=9644f162efbefc1b38601eeaeeed25591fd2832e&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",НТВ HD
@@ -496,10 +490,20 @@ http://127.0.0.1:6878/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094b&
 http://127.0.0.1:6878/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69&.mp4
 #EXTINF:-1 tvg-id="zvezda" group-title="📺 Эфирные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Пятница!
+https://mobdrm.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/friday/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.ijuYTsasgDwDaSKvg60PUZxFOTnhLNRCGdY6KFz5UzM.chUBedwufs0pj2Q__SQN110Ne9GpUt8GQ7f7vtYsHik.1711007975.8f31412bbdbb94e3c79203a91553a6b2
 #EXTINF:-1 group-title="📺 Эфирные",РЕН ТВ
 https://bkm.beetv.kz/btv/live/hls/000002472.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="http://www.oreol.tv/img/027_u.jpg" group-title="📺 Эфирные",Ю ТВ
 https://strm.yandex.ru/kal/utv/utv0.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Че
+http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Россия К
+http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Звезда
+http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Пятница!
+http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
 #EXTINF:-1 tvg-id="mir" group-title="📺 Эфирные",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",ТВ3 HD
@@ -530,6 +534,8 @@ http://1MIR-IPTV.RU/hhh/rutube1.php?id=2bbfa9ebf9d79ade480d7281fcef1008&token=RG
 http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/3r.png" tvg-name="Радость_Моя" group-title="📺 Эфирные",Радость Моя
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Дождь
+http://127.0.0.1:6878/ace/getstream?id=4b91bbf01a5574583e7e4af5b258de3e454d83e4&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",РБК
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",FreeДОМ
@@ -542,6 +548,30 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 
+#EXTINF:-1 group-title="🎵 Музыкальные",ТНТ Music
+https://bkm.beetv.kz/btv/live/hls/000000013.m3u8
+#EXTINF:-1 group-title="🎵 Музыкальные",GAKKU
+https://bkm.beetv.kz/btv/live/hls/000001383.m3u8
+#EXTINF:-1 group-title="🎵 Музыкальные",KZ MUZZONE
+https://bkm.beetv.kz/btv/live/hls/000000783.m3u8
+#EXTINF:-1 group-title="🎵 Музыкальные",Hit TV Channel
+https://bkm.beetv.kz/btv/live/hls/000001213.m3u8
+#EXTINF:-1 group-title="🎵 Музыкальные",1HD
+https://bkm.beetv.kz/btv/live/hls/000001020.m3u8
+#EXTINF:-1 group-title="🎵 Музыкальные",MCM TOP
+https://bkm.beetv.kz/btv/live/hls/000000327.m3u8
+#EXTINF:-1 group-title="🎵 Музыкальные",MEZZO
+https://bkm.beetv.kz/btv/live/hls/000000030.m3u8
+#EXTINF:-1 group-title="🎵 Музыкальные",MTV
+https://bkm.beetv.kz/btv/live/hls/000000447.m3u8
+#EXTINF:-1 group-title="🎵 Музыкальные",YES-MTV 00s
+https://bkm.beetv.kz/btv/live/hls/000000264.m3u8
+#EXTINF:-1 group-title="🎵 Музыкальные",МузТВ
+https://bkm.beetv.kz/btv/live/hls/000000073.m3u8
+#EXTINF:-1 group-title="🎵 Музыкальные",МУЗЫКА ПЕРВОГО
+https://bkm.beetv.kz/btv/live/hls/000000204.m3u8
+#EXTINF:-1 group-title="🎵 Музыкальные",ШАНСОН ТВ
+https://bkm.beetv.kz/btv/live/hls/000000210.m3u8
 #EXTINF:-1 group-title="🎵 Музыкальные",МузТВ
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1 group-title="🎵 Музыкальные",ТНТ Music
