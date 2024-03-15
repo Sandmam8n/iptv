@@ -9,6 +9,12 @@ https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные" ,Матч! HD
 http://194.143.148.28:8080/MatchHD/mpegts
 
+#EXTINF:-1 group-title="⚽ Спортивные",МАТЧ! Футбол 1 HD
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
+http://cdn01.ath.cx:2500/live/matchpremierhd50fps?token=510f8e0f42ba98ca9127a58d72addafd
+
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
