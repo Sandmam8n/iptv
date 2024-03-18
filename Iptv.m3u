@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-id="match-tv" group-title="⚽ Спортивные",Матч! HD
 https://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTIxOTAwODUzMzYyMiIsImV4cCI6MTcxMDgzNDI1OSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzEwMjI5NDU5LCJzZXNzaW9uX2lkIjoiNDRkMGJkYTMxMjg0YWRiYzczODFhODlhNGZjZDYyZTIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.m0f7VvuPv3TQvy9zcNBit-Jej_Ko36QwpekQZlEpfyk
 
+#EXTINF:-1 tvg-id="match-premier" group-title="⚽ Спортивные",Матч! Премьер HD
+http://158.101.214.187:8080/channel/n2fa54dbb/index.m3u8?q=6cca621bb017c120be8f52125b06b1c2
+
+#EXTINF:-1 tvg-id="match-premier" group-title="⚽ Спортивные",Матч! Премьер HD
+http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 http://cdn01.ath.cx:2500/live/matchpremierhd50fps?token=510f8e0f42ba98ca9127a58d72addafd
 
@@ -41,9 +47,6 @@ http://194.143.148.28:8080/MatchHD/mpegts
 
 #EXTINF:-1 group-title="⚽ Спортивные",МАТЧ! Футбол 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
-
-#EXTINF:-1 tvg-id="match-premier" group-title="⚽ Спортивные",Матч! Премьер HD
-http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
