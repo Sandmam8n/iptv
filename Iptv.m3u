@@ -475,6 +475,58 @@ https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",MediaService Lorenz TV
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
 
+#EXTINF:-1 group-title="📺 Эфирные",Первый HD
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Россия 1
+https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Россия К
+https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Россия 24
+https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Москва 24
+https://livetv.mylifeisgood.net.ru/channels/moscow24.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",НТВ HD
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",РЕН ТВ HD
+https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",ТНТ HD
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",ТНТ4 HD
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",ОТР
+https://livetv.mylifeisgood.net.ru/channels/otr24.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",МИР HD
+https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Пятый канал
+https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",ТВЦ
+https://livetv.mylifeisgood.net.ru/channels/tvc24.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",СПАС
+https://livetv.mylifeisgood.net.ru/channels/spas.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",СТС HD
+https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",СТС Love
+https://livetv.mylifeisgood.net.ru/channels/stslove.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Домашний HD
+https://livetv.mylifeisgood.net.ru/channels/domashnii
+#EXTINF:-1 group-title="📺 Эфирные",ТВ3 HD
+https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Пятница HD
+https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Звезда
+https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",ЧЕ
+https://livetv.mylifeisgood.net.ru/channels/che.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Ю
+https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Суббота
+https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",2x2
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",360°
+https://livetv.mylifeisgood.net.ru/channels/ch360.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Известия
+https://livetv.mylifeisgood.net.ru/channels/iz.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал
@@ -483,8 +535,6 @@ http://127.0.0.1:6878/ace/getstream?id=50bc2f512793f1e745fb5bd5b5a6afca199c2d19&
 http://45.15.43.12:80/rossiya1/video.m3u8?token=test
 #EXTINF:-1 group-title="📺 Эфирные",Россия 1
 http://127.0.0.1:6878/ace/getstream?id=9644f162efbefc1b38601eeaeeed25591fd2832e&.mp4
-#EXTINF:-1 group-title="📺 Эфирные",НТВ HD
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Хит
 https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Стиль
@@ -561,6 +611,26 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 
+#EXTINF:-1 group-title="🎵 Музыкальные",МузТВ
+https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+#EXTINF:-1 group-title="🎵 Музыкальные",Russian Music Box
+https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
+#EXTINF:-1 group-title="🎵 Музыкальные",ТНТ Music
+https://livetv.mylifeisgood.net.ru/channels/tntmusicru.m3u8
+#EXTINF:-1 group-title="🎵 Музыкальные",Европа Плюс ТВ
+https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
+#EXTINF:-1 group-title="🎵 Музыкальные",Bridge TV
+https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
+#EXTINF:-1 group-title="🎵 Музыкальные",Bridge TV Classic
+https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
+#EXTINF:-1 group-title="🎵 Музыкальные",Bridge TV Deluxe
+https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
+#EXTINF:-1 group-title="🎵 Музыкальные",Bridge TV Hits
+https://livetv.mylifeisgood.net.ru/channels/bridgehitstv.m3u8
+#EXTINF:-1 group-title="🎵 Музыкальные",Bridge TV Русский хит
+https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
+#EXTINF:-1 group-title="🎵 Музыкальные",Bridge TV Шлягер
+https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
 #EXTINF:-1 group-title="🎵 Музыкальные",ТНТ Music
 https://bkm.beetv.kz/btv/live/hls/000000013.m3u8
 #EXTINF:-1 group-title="🎵 Музыкальные",GAKKU
