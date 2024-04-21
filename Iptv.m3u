@@ -142,6 +142,32 @@ http://127.0.0.1:6878/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a&
 http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",SKY Bundesliga UHD
 http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390&.mp4
+#EXTINF:-1, group-title="⚽ Спортивные",4K| ZIGGO SPORT UHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:99:E2:CF&stream=1481950&extension=ts
+#EXTINF:-1, group-title="⚽ Спортивные",4K| ESPN UHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:99:E2:CF&stream=1481941&extension=ts
+#EXTINF:-1, group-title="⚽ Спортивные",4K| SUPERSPORT 360 UHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:99:E2:CF&stream=1470603&extension=ts
+#EXTINF:-1, group-title="⚽ Спортивные",4K| ASTRO SUPERSPORT UHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:99:E2:CF&stream=1479590&extension=ts
+#EXTINF:-1, group-title="⚽ Спортивные",4K| SKY SPORTS F1 UHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:99:E2:CF&stream=1471382&extension=ts
+#EXTINF:-1, group-title="⚽ Спортивные",4K| SKY SPORTS MAIN EVENT UHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:99:E2:CF&stream=1471381&extension=ts
+#EXTINF:-1, group-title="⚽ Спортивные",4K| VIAPLAY SPORTS UHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:99:E2:CF&stream=1471379&extension=ts
+#EXTINF:-1, group-title="⚽ Спортивные",4K| NOW SPORTS (EPL) UHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:99:E2:CF&stream=1470622&extension=ts
+#EXTINF:-1, group-title="⚽ Спортивные",4K| DAZN LA LIGA TV UHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:99:E2:CF&stream=1471376&extension=ts
+#EXTINF:-1, group-title="⚽ Спортивные", 4K| LIGA CAMPEONES UHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:99:E2:CF&stream=1471377&extension=ts
+#EXTINF:-1, group-title="⚽ Спортивные",4K| 5SPORT UHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:99:E2:CF&stream=1470620&extension=ts
+#EXTINF:-1, group-title="⚽ Спортивные",4K| ELEVEN SPORTS 1 UHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:99:E2:CF&stream=1470618&extension=ts
+#EXTINF:-1, group-title="⚽ Спортивные",4K| SPORT TV UHD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:99:E2:CF&stream=1471378&extension=ts
 
 #EXTINF:-1 group-title="🌏 Познавательные" ,Galaxy TV
 https://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
