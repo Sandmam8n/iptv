@@ -190,8 +190,6 @@ http://91.207.115.228:5000/c150
 #EXTINF:-1  group-title="🌏 Познавательные" ,Investigation Discovery HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://flussonic.beeonline.az:80/idextra/index.m3u8?token=test
-#EXTINF:-1 group-title="🌏 Познавательные",Investigation Discovery HD
-https://livetv.mylifeisgood.net.ru/channels/discoveryxtra.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
 http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery HD
@@ -558,8 +556,6 @@ https://livetv.mylifeisgood.net.ru/channels/domashnii
 https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Пятница!
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Звезда
-https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",ЧЕ
 https://livetv.mylifeisgood.net.ru/channels/che.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Ю
@@ -635,10 +631,6 @@ https://livetv.mylifeisgood.net.ru/channels/spas.m3u8
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/2s.png" tvg-name="Спас ТВ" group-title="📺 Эфирные",Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Спас
-http://1MIR-IPTV.RU/hhh/rutube1.php?id=2bbfa9ebf9d79ade480d7281fcef1008&token=RGltb25vdmljaDoxOTgyMTk4Mg==
-#EXTINF:-1 tvg-id="tri-angela" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/07/3ABN-Rusia-en-directo-Online.png" group-title="📺 Эфирные",Три Ангела
-http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/3r.png" tvg-name="Радость_Моя" group-title="📺 Эфирные",Радость Моя
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Россия К
@@ -816,46 +808,7 @@ http://127.0.0.1:6878/ace/getstream?id=9eb31bd34245c4bbe60f0fe6081f854b7d1dde52&
 #EXTINF:-1 group-title="👶 Детские",Disney
 http://127.0.0.1:6878/ace/getstream?id=a257179a41c0f69411ed7fe86260fe7cc5c823f3&.mp4
 
-#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=1 group-title="➕ Федеральные плюс",Матч! (-1)
-#EXTINF:-1 tvg-shift=1 group-title="➕ Федеральные плюс",Матч! (-1)
-#EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
-http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-3600
-#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=-2 group-title="➕ Федеральные плюс",Матч! (-2)
-#EXTINF:-1 tvg-shift=-2 group-title="➕ Федеральные плюс",Матч! (-2)
-#EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
-http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-7200
-#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=3 group-title="➕ Федеральные плюс",Матч! (-3)
-#EXTINF:-1 tvg-shift=3 group-title="➕ Федеральные плюс",Матч! (-3)
-#EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
-http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-10800
-#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=4 group-title="➕ Федеральные плюс",Матч! (-4)
-#EXTINF:-1 tvg-shift=4 group-title="➕ Федеральные плюс",Матч! (-4)
-#EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
-http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-14400
-#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=5 group-title="➕ Федеральные плюс",Матч! (-5)
-#EXTINF:-1 tvg-shift=5 group-title="➕ Федеральные плюс",Матч! (-5)
-#EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
-http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-18000
-#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=6 group-title="➕ Федеральные плюс",Матч! (-6)
-#EXTINF:-1 tvg-shift=6 group-title="➕ Федеральные плюс",Матч! (-6)
-#EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
-http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-21600
-#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=7 group-title="➕ Федеральные плюс",Матч! (-7)
-#EXTINF:-1 tvg-shift=7 group-title="➕ Федеральные плюс",Матч! (-7)
-#EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
-http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-25200
-#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=8 group-title="➕ Федеральные плюс",Матч! (-8)
-#EXTINF:-1 tvg-shift=8 group-title="➕ Федеральные плюс",Матч! (-8)
-#EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
-http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-28800
-#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=9 group-title="➕ Федеральные плюс",Матч! (-9)
-#EXTINF:-1 tvg-shift=9 group-title="➕ Федеральные плюс",Матч! (-9)
-#EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
-http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-32400
-#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=10 group-title="➕ Федеральные плюс",Матч! (-10)
-#EXTINF:-1 tvg-shift=10 group-title="➕ Федеральные плюс",Матч! (-10)
-#EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
-http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-36000
+
 #EXTINF:-1 tvg-id="kaskad24" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="➕ Федеральные плюс",Каскад-24
 #EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8
