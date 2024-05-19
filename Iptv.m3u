@@ -44,6 +44,9 @@ http://193.201.98.10:5000/c115
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 http://cdn01.ath.cx:2500/live/matchpremierhd50fps?token=510f8e0f42ba98ca9127a58d72addafd
 
+#EXTINF:-1 tvg-id="match-premier" group-title="⚽ Спортивные",Матч! Премьер HD
+http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 
