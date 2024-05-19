@@ -555,12 +555,6 @@ https://livetv.mylifeisgood.net.ru/channels/che.m3u8
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Суббота
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",2x2
-https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",360°
-https://livetv.mylifeisgood.net.ru/channels/ch360.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Известия
-https://livetv.mylifeisgood.net.ru/channels/iz.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал
@@ -618,16 +612,14 @@ http://31.148.48.15:80/KVN_TV/index.m3u8?token=test
 http://84.38.180.145:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Телекафе
 http://31.148.48.15:80/Telekafe/index.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",СПАС
-https://livetv.mylifeisgood.net.ru/channels/spas.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Союз
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/2s.png" tvg-name="Спас ТВ" group-title="📺 Эфирные",Спас
-http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/3r.png" tvg-name="Радость_Моя" group-title="📺 Эфирные",Радость Моя
-http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Россия К
 https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",2x2
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",360°
+https://livetv.mylifeisgood.net.ru/channels/ch360.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Известия
+https://livetv.mylifeisgood.net.ru/channels/iz.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Россия 24
 https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Москва 24
@@ -645,6 +637,14 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Эфирные",Россия 24
 #EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",СПАС
+https://livetv.mylifeisgood.net.ru/channels/spas.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/2s.png" tvg-name="Спас ТВ" group-title="📺 Эфирные",Спас
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/3r.png" tvg-name="Радость_Моя" group-title="📺 Эфирные",Радость Моя
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 
 #EXTINF:-1 group-title="🎵 Музыкальные",МузТВ
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
