@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz,https://iptvx.one/EPG"
-#EXTINF:-1 group-title="⚽ Спортивные" ,Матч! HD
-https://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные" ,Матч! HD
-http://194.143.148.28:8080/MatchHD/mpegts
+
+
 #EXTINF:-1  group-title="⚽ Спортивные" ,МАТЧ! HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://erlyvideo.beeonline.az/MatchTVHD/index.m3u8?token=test
@@ -41,17 +39,13 @@ http://193.201.98.10:5000/c114
 http://193.201.98.10:5000/c115
 #EXTINF:-1 group-title="⚽ Спортивные",МАТЧ! ФУТБОЛ 3 HD
 
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
-http://cdn01.ath.cx:2500/live/matchpremierhd50fps?token=510f8e0f42ba98ca9127a58d72addafd
-
 #EXTINF:-1 tvg-id="match-premier" group-title="⚽ Спортивные",Матч! Премьер HD
 http://185.37.150.46:8092/Nash_futbol_HD/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 
-#EXTINF:-1 group-title="⚽ Спортивные" ,Матч! HD
-http://194.143.148.28:8080/MatchHD/mpegts
 
 #EXTINF:-1 group-title="⚽ Спортивные",МАТЧ! Футбол 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
@@ -534,6 +528,9 @@ https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:-1  group-title="📺 Эфирные" ,НТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://erlyvideo.beeonline.az/NTVRUSHD/index.m3u8?token=test
 #EXTINF:-1  group-title="📺 Эфирные" ,РЕН ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://flussonic.beeonline.az:80/rentv/index.m3u8?token=test
