@@ -83,10 +83,6 @@ http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b&
 https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",VIASAT SPORT HD
 http://127.0.0.1:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",Setanta Sports 1
-https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",Setanta Sports 2
-https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",UFC HD
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Футбольный HD
