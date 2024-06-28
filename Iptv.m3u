@@ -1,17 +1,62 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz,https://iptvx.one/EPG"
 
-#EXTINF:-1 group-title="⚽ Спортивные",МАТЧ! HD
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Арена
+http://147.45.48.241:8090/RU_MATCh_ARENA_HD/video.m3u8?token=rD_MOZUq-1
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Боец
+http://147.45.48.241:8090/RU_Match_Boets_HD/video.m3u8?token=rD_MOZUq-1
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
+http://147.45.48.241:8090/RU_Match_Futbol_1_HD/video.m3u8?token=rD_MOZUq-1
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 2 HD
+http://147.45.48.241:8090/RU_Match_Futbol_2_HD/video.m3u8?token=rD_MOZUq-1
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 3 HD
+http://147.45.48.241:8090/RU_Match_Futbol_3_HD/video.m3u8?token=rD_MOZUq-1
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Игра HD
+http://147.45.48.241:8090/RU_MATCh_IGRA_HD/video.m3u8?token=rD_MOZUq-1
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
+http://147.45.48.241:8090/RU_MATCh_PREMYeR_HD/video.m3u8?token=rD_MOZUq-1
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Страна
+http://147.45.48.241:8090/RU_MATCh_STRANA_HD/video.m3u8?token=rD_MOZUq-1
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
+http://147.45.48.241:8090/RU_Match_TV_HD/video.m3u8?token=rD_MOZUq-1
+#EXTINF:-1 group-title="⚽ Спортивные",MMA-TV.COM
+http://147.45.48.241:8090/RU_MMA_TV_HD/video.m3u8?token=rD_MOZUq-1
+
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
+http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDI0IDY6NTg6NTEgUE0maGFzaF92YWx1ZT1HajdxU3VhSDFZMGIwTVdvWVQ0aW13PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
+http://95.181.17.26/dvr02/sd2/sport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDI0IDY6NTg6NTEgUE0maGFzaF92YWx1ZT1HajdxU3VhSDFZMGIwTVdvWVQ0aW13PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
+http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDI0IDY6NTg6NTEgUE0maGFzaF92YWx1ZT1HajdxU3VhSDFZMGIwTVdvWVQ0aW13PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 2 HD
+http://95.181.17.26/7nvenc/NTVplusfut2HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDI0IDY6NTg6NTEgUE0maGFzaF92YWx1ZT1HajdxU3VhSDFZMGIwTVdvWVQ0aW13PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 3 HD
+http://95.181.17.14/dvr02/mobile1/NTVplusfut3HD/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDI0IDY6NTg6NTEgUE0maGFzaF92YWx1ZT1HajdxU3VhSDFZMGIwTVdvWVQ0aW13PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Игра HD
+http://95.181.17.14/7nvenc/sport2HD/71/fhd/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDI0IDY6NTg6NTEgUE0maGFzaF92YWx1ZT1HajdxU3VhSDFZMGIwTVdvWVQ0aW13PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Боец
+http://95.181.17.14/4nvenc/boets/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDI0IDY6NTg6NTEgUE0maGFzaF92YWx1ZT1HajdxU3VhSDFZMGIwTVdvWVQ0aW13PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDI0IDY6NTg6NTEgUE0maGFzaF92YWx1ZT1HajdxU3VhSDFZMGIwTVdvWVQ0aW13PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Арена HD
+http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDI0IDY6NTg6NTEgUE0maGFzaF92YWx1ZT1HajdxU3VhSDFZMGIwTVdvWVQ0aW13PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! Страна HD
+http://95.181.17.6/4nvenc/ntvsport/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDI0IDY6NTg6NTEgUE0maGFzaF92YWx1ZT1HajdxU3VhSDFZMGIwTVdvWVQ0aW13PT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+
+#EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
 http://31.210.208.171:8080/match_hd/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",МАТЧ! Футбол 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1  group-title="⚽ Спортивные" ,Eurosport 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://erlyvideo.beeonline.az/EuroSport1HD/index.m3u8?token=test
-#EXTINF:-1  group-title="⚽ Спортивные" ,Eurosport 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://erlyvideo.beeonline.az/EuroSport2HD/index.m3u8?token=test
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
