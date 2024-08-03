@@ -1,26 +1,5 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz,https://iptvx.one/EPG"
 
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Арена
-http://147.45.48.241:8090/RU_MATCh_ARENA_HD/video.m3u8?token=rD_MOZUq-1
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Боец
-http://147.45.48.241:8090/RU_Match_Boets_HD/video.m3u8?token=rD_MOZUq-1
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 1 HD
-http://147.45.48.241:8090/RU_Match_Futbol_1_HD/video.m3u8?token=rD_MOZUq-1
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 2 HD
-http://147.45.48.241:8090/RU_Match_Futbol_2_HD/video.m3u8?token=rD_MOZUq-1
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Футбол 3 HD
-http://147.45.48.241:8090/RU_Match_Futbol_3_HD/video.m3u8?token=rD_MOZUq-1
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Игра HD
-http://147.45.48.241:8090/RU_MATCh_IGRA_HD/video.m3u8?token=rD_MOZUq-1
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
-http://147.45.48.241:8090/RU_MATCh_PREMYeR_HD/video.m3u8?token=rD_MOZUq-1
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Страна
-http://147.45.48.241:8090/RU_MATCh_STRANA_HD/video.m3u8?token=rD_MOZUq-1
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
-http://147.45.48.241:8090/RU_Match_TV_HD/video.m3u8?token=rD_MOZUq-1
-#EXTINF:-1 group-title="⚽ Спортивные",MMA-TV.COM
-http://147.45.48.241:8090/RU_MMA_TV_HD/video.m3u8?token=rD_MOZUq-1
-
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
 http://31.210.208.171:8080/match_hd/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Планета
@@ -41,8 +20,6 @@ http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e&
 http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Арена HD
 http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",MMA-TV.COM
-https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",UFC HD
 http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Боец HD
@@ -142,13 +119,6 @@ http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91&
 #EXTINF:-1 group-title="⚽ Спортивные",SKY Bundesliga UHD
 http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390&.mp4
 
-
-#EXTINF:-1 group-title="🌏 Познавательные" ,Galaxy TV
-https://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",Galaxy TV
-https://bkm.beetv.kz/btv/live/hls/000000332.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",Investigation Discovery HD
-http://91.207.115.228:5000/c150
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
 http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery HD
@@ -703,16 +673,12 @@ http://cdn.radio1.news:1935/rtvp/live/playlist.m3u8
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
 #EXTINF:-1 group-title="📻 Радио",Говорит Москва (Веб-камера)
 https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📻 Радио",Джем FM [ЕКБ]
-https://m.jamfm.ru/cam/hls/jam.m3u8
 #EXTINF:-1 group-title="📻 Радио",Крым (Веб-камера)
 https://cdn.1tvcrimea.ru/radio.m3u8
 #EXTINF:-1 group-title="📻 Радио",Макс FM [Сочи] (Веб-камера)
 http://serv30.vintera.tv:8081/sochi/maks_fm/playlist.m3u8
 #EXTINF:-1 group-title="📻 Радио",Мир [BY]
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
-#EXTINF:-1 group-title="📻 Радио",Трансмит (Череповец)
-https://live.35media.ru/transmit-video/1080/s.m3u8
 #EXTINF:-1 group-title="📻 Радио",Спутник (Веб-камера)
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:-1 group-title="📻 Радио",Хит (Орск)
