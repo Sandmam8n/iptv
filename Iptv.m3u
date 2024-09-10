@@ -463,9 +463,13 @@ https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",MediaService Lorenz TV
 http://84.38.180.145:8080/Uhierjfk/index.m3u8
 
-#EXTINF:-1 group-title="📺 Эфирные",Первый канал
+#EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
+http://tv.newline.in.ua:9009/play/a00g
+#EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Россия 1
+#EXTINF:-1 group-title="📺 Эфирные",Россия 1 HD
+http://tv.newline.in.ua:9019/play/y02p
+#EXTINF:-1 group-title="📺 Эфирные",Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
