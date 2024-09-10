@@ -473,8 +473,6 @@ http://tv.newline.in.ua:9019/play/y02p
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📺 Эфирные" ,РЕН ТВ
-http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MjYwMzk3MDgsImlhdCI6MTcyNTk1MzMwOCwiY2lkIjo2LCJ1aWQiOjgyMzkwNDkxMiwicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.5cWUHIcdfjtgIeF_sffpdm7aKtXhglnLFcWHe7VucrM&offset=10
 #EXTINF:-1 group-title="📺 Эфирные", РЕН ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd116.iptv2022.com/p/RhiwQWp02kuSEOlEAkpwyw,1725958802/streaming/rentvott/324/1/index.m3u8
