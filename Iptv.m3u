@@ -498,10 +498,6 @@ https://livetv.mylifeisgood.net.ru/channels/che.m3u8
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Суббота
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Первый канал
-http://127.0.0.1:6878/ace/getstream?id=50bc2f512793f1e745fb5bd5b5a6afca199c2d19&.mp4
-#EXTINF:-1 group-title="📺 Эфирные",Россия 1
-http://127.0.0.1:6878/ace/getstream?id=9644f162efbefc1b38601eeaeeed25591fd2832e&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Хит
 https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Стиль
@@ -543,8 +539,6 @@ http://127.0.0.1:6878/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d&
 http://127.0.0.1:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",СТС HD
 http://127.0.0.1:6878/ace/getstream?id=5e06a45d6939341fb7427189245380086c1d63c7&.mp4
-#EXTINF:-1 group-title="📺 Эфирные",РЕН ТВ
-http://127.0.0.1:6878/ace/getstream?id=5d2b34377ff010af21f777600c6be77d4479f2eb&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",КВН ТВ
 http://31.148.48.15:80/KVN_TV/index.m3u8?token=test
 #EXTINF:-1 group-title="📺 Эфирные",Твоё ТВ
