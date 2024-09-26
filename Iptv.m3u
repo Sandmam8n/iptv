@@ -478,8 +478,6 @@ https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 http://ott.server-iptv.live/104/video.m3u8?token=S793FB1732
 #EXTINF:-1 group-title="📺 Эфирные",ТНТ4 HD
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",ОТР
-https://livetv.mylifeisgood.net.ru/channels/otr24.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",МИР HD
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Пятый канал
