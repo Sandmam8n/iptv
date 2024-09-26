@@ -12,8 +12,6 @@ http://31.210.208.171:8080/match_hd/index.m3u8?token=+W2MSER
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",МАТЧ! Футбол 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
-http://91.224.169.250:5000/c169
 #EXTINF:-1 group-title="⚽ Спортивные" ,Матч! Премьер HD
 http://77.243.112.149:8080/nash_football_hd/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Eurosport 1 HD
