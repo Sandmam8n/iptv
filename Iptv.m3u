@@ -2,8 +2,6 @@
 
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
 http://91.224.169.250:5000/c69
-#EXTINF:-1 group-title="⚽ Спортивные" ,Матч! HD
-http://77.243.112.149:8080/match_hd/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
 http://91.224.169.250:5000/c69
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
@@ -12,8 +10,6 @@ http://31.210.208.171:8080/match_hd/index.m3u8?token=+W2MSER
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",МАТЧ! Футбол 1 HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 group-title="⚽ Спортивные" ,Матч! Премьер HD
-http://77.243.112.149:8080/nash_football_hd/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Eurosport 1 HD
 http://91.224.169.250:5000/c167
 #EXTINF:-1 group-title="⚽ Спортивные",Eurosport 2 HD
@@ -44,8 +40,6 @@ http://127.0.0.1:6878/ace/getstream?id=0eb8444f75bfe89d5a92c1497ac34ff4c4441207&
 http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",KHL Prime HD
 http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",VIASAT SPORT HD
-https://bkm.beetv.kz/btv/live/hls/000000135.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",VIASAT SPORT HD
 http://127.0.0.1:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",UFC HD
