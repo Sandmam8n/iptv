@@ -456,8 +456,6 @@ http://84.38.180.145:8080/Uhierjfk/index.m3u8
 http://ott.server-iptv.live/101/video.m3u8?token=S793FB1732
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
 http://tv.newline.in.ua:9009/play/a00g
-#EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
-https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1 tvg-id="rossia1",Россия 1 HD
 #EXTGRP:📺 Эфирные
 http://ott.server-iptv.live/102/video.m3u8?token=S793FB1732
@@ -498,12 +496,12 @@ https://livetv.mylifeisgood.net.ru/channels/che.m3u8
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Суббота
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",НТВ Хит
-https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",НТВ Стиль
-https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",НТВ Сериал
-https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+#EXTINF:-1 tvg-id="ntv-xit",НТВ Хит
+#EXTGRP:📺 Эфирные
+http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
+#EXTINF:-1 tvg-id="ntv-serial",НТВ Сериал
+#EXTGRP:📺 Эфирные
+http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ ХИТ
 http://127.0.0.1:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Стиль
