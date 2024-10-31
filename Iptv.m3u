@@ -8,12 +8,22 @@ http://91.224.169.250:5000/c69
 http://31.210.208.171:8080/match_hd/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
-#EXTINF:-1 group-title="⚽ Спортивные",МАТЧ! Футбол 1 HD
-http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 tvg-id="match-football1",Матч! Футбол 1 HD
+#EXTGRP:⚽ Спортивные
+http://ott.server-iptv.live/202/video.m3u8?token=S793FB1732
+#EXTINF:-1 tvg-id="match-football2",Матч! Футбол 2 HD
+#EXTGRP:⚽ Спортивные
+http://ott.server-iptv.live/203/video.m3u8?token=S793FB1732
+#EXTINF:-1 tvg-id="match-football3",Матч! Футбол 3 HD
+#EXTGRP:⚽ Спортивные
+http://ott.server-iptv.live/204/video.m3u8?token=S793FB1732
 #EXTINF:-1 group-title="⚽ Спортивные",Eurosport 1 HD
 http://91.224.169.250:5000/c167
 #EXTINF:-1 group-title="⚽ Спортивные",Eurosport 2 HD
 http://91.224.169.250:5000/c168
+#EXTINF:-1 tvg-id="okko-sport",Окко Спорт HD
+#EXTGRP:⚽ Спортивные
+http://9a649a6c.tvclub.xyz/iptv/AY99TNY7TTNU4N/6554/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
@@ -230,6 +240,52 @@ http://127.0.0.1:6878/ace/getstream?id=ac7762efa1c33ece2dd0e97abe1e9149e3ddafc6&
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig",WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-rec="3" tvg-id="bcu-premiere-1-hd",BCU Кинозал Premiere 1 HD
+#EXTGRP:📽️ Фильмовые
+http://c986383a.tvclub.xyz/iptv/NMES8T6ZCFEU65/11015/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="bcu-premiere-2-hd",BCU Кинозал Premiere 2 HD
+#EXTGRP:📽️ Фильмовые
+http://9a649a6c.tvclub.xyz/iptv/NMES8T6ZCFEU65/11016/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="bcu-premiere-3-hd",BCU Кинозал Premiere 3 HD
+#EXTGRP:📽️ Фильмовые
+http://9a649a6c.tvclub.xyz/iptv/NMES8T6ZCFEU65/11013/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="bcu-action-hd",BCU Action HD
+#EXTGRP:📽️ Фильмовые
+http://9a649a6c.tvclub.xyz/iptv/NMES8T6ZCFEU65/11027/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="bcu-catastrophe-hd",BCU Catastrophe HD
+#EXTGRP:📽️ Фильмовые
+http://9a649a6c.tvclub.xyz/iptv/NMES8T6ZCFEU65/11028/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="bcu-cinema-plus-hd",BCU Cinema+ HD
+#EXTGRP:📽️ Фильмовые
+http://9a649a6c.tvclub.xyz/iptv/AY99TNY7TTNU4N/11030/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="bcu-criminal-hd",BCU Criminal HD
+#EXTGRP:📽️ Фильмовые
+http://9a649a6c.tvclub.xyz/iptv/AY99TNY7TTNU4N/11048/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="bcu-fantastic-hd",BCU Fantastic HD
+#EXTGRP:📽️ Фильмовые
+http://9a649a6c.tvclub.xyz/iptv/NMES8T6ZCFEU65/11032/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="bcu-filmystic-hd",BCU FilMystic HD
+#EXTGRP:📽️ Фильмовые
+http://9a649a6c.tvclub.xyz/iptv/NMES8T6ZCFEU65/11033/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="bcu-history-hd",BCU History HD
+#EXTGRP:📽️ Фильмовые
+http://9a649a6c.tvclub.xyz/iptv/NMES8T6ZCFEU65/11034/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="bcu-kinorating-hd",BCU Kinorating HD
+#EXTGRP:📽️ Фильмовые
+http://9a649a6c.tvclub.xyz/iptv/AY99TNY7TTNU4N/11033/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="bcu-kinozakaz-hd",BCU Media HD
+#EXTGRP:📽️ Фильмовые
+http://9a649a6c.tvclub.xyz/iptv/NMES8T6ZCFEU65/11043/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="bcu-stars-hd",BCU Stars HD
+#EXTGRP:📽️ Фильмовые
+http://9a649a6c.tvclub.xyz/iptv/NMES8T6ZCFEU65/11044/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="bcu-russian-hd",BCU Russian HD
+#EXTGRP:📽️ Фильмовые
+http://9a649a6c.tvclub.xyz/iptv/NMES8T6ZCFEU65/11041/index.m3u8
+#EXTINF:-1 tvg-id="viju-tv1000-novella",Viju TV1000 Новелла HD
+#EXTGRP:📽️ Фильмовые
+http://158.101.214.187:8080/channel/n60cfbb4/index.m3u8?q=443d5edac354972a97f67425879f54e1
 
 #EXTINF:-1 group-title="📽️ Фильмовые",VIP Serial HD
 http://127.0.0.1:6878/ace/getstream?id=d13dd140058b7a528959e2b709aca4111b7cc076&.mp4
@@ -465,8 +521,9 @@ https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Пятый канал
 https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",ТВЦ
-https://livetv.mylifeisgood.net.ru/channels/tvc24.m3u8
+#EXTINF:-1 tvg-id="tvcentr" channelId="13",ТВЦ 
+#EXTGRP:📺 Эфирные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",СТС HD
 https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",СТС Love
@@ -506,8 +563,6 @@ https://bkm.beetv.kz/btv/live/hls/000002472.m3u8
 https://strm.yandex.ru/kal/utv/utv0.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Че
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Россия К
-http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Звезда
 http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Пятница!
