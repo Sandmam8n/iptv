@@ -241,52 +241,6 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig",WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
-#EXTINF:0 tvg-rec="3" tvg-id="bcu-premiere-1-hd",BCU Кинозал Premiere 1 HD
-#EXTGRP:📽️ Фильмовые
-http://c986383a.tvclub.xyz/iptv/NMES8T6ZCFEU65/11015/index.m3u8
-#EXTINF:0 tvg-rec="3" tvg-id="bcu-premiere-2-hd",BCU Кинозал Premiere 2 HD
-#EXTGRP:📽️ Фильмовые
-http://9a649a6c.tvclub.xyz/iptv/NMES8T6ZCFEU65/11016/index.m3u8
-#EXTINF:0 tvg-rec="3" tvg-id="bcu-premiere-3-hd",BCU Кинозал Premiere 3 HD
-#EXTGRP:📽️ Фильмовые
-http://9a649a6c.tvclub.xyz/iptv/NMES8T6ZCFEU65/11013/index.m3u8
-#EXTINF:0 tvg-rec="3" tvg-id="bcu-action-hd",BCU Action HD
-#EXTGRP:📽️ Фильмовые
-http://9a649a6c.tvclub.xyz/iptv/NMES8T6ZCFEU65/11027/index.m3u8
-#EXTINF:0 tvg-rec="3" tvg-id="bcu-catastrophe-hd",BCU Catastrophe HD
-#EXTGRP:📽️ Фильмовые
-http://9a649a6c.tvclub.xyz/iptv/NMES8T6ZCFEU65/11028/index.m3u8
-#EXTINF:0 tvg-rec="3" tvg-id="bcu-cinema-plus-hd",BCU Cinema+ HD
-#EXTGRP:📽️ Фильмовые
-http://9a649a6c.tvclub.xyz/iptv/AY99TNY7TTNU4N/11030/index.m3u8
-#EXTINF:0 tvg-rec="3" tvg-id="bcu-criminal-hd",BCU Criminal HD
-#EXTGRP:📽️ Фильмовые
-http://9a649a6c.tvclub.xyz/iptv/AY99TNY7TTNU4N/11048/index.m3u8
-#EXTINF:0 tvg-rec="3" tvg-id="bcu-fantastic-hd",BCU Fantastic HD
-#EXTGRP:📽️ Фильмовые
-http://9a649a6c.tvclub.xyz/iptv/NMES8T6ZCFEU65/11032/index.m3u8
-#EXTINF:0 tvg-rec="3" tvg-id="bcu-filmystic-hd",BCU FilMystic HD
-#EXTGRP:📽️ Фильмовые
-http://9a649a6c.tvclub.xyz/iptv/NMES8T6ZCFEU65/11033/index.m3u8
-#EXTINF:0 tvg-rec="3" tvg-id="bcu-history-hd",BCU History HD
-#EXTGRP:📽️ Фильмовые
-http://9a649a6c.tvclub.xyz/iptv/NMES8T6ZCFEU65/11034/index.m3u8
-#EXTINF:0 tvg-rec="3" tvg-id="bcu-kinorating-hd",BCU Kinorating HD
-#EXTGRP:📽️ Фильмовые
-http://9a649a6c.tvclub.xyz/iptv/AY99TNY7TTNU4N/11033/index.m3u8
-#EXTINF:0 tvg-rec="3" tvg-id="bcu-kinozakaz-hd",BCU Media HD
-#EXTGRP:📽️ Фильмовые
-http://9a649a6c.tvclub.xyz/iptv/NMES8T6ZCFEU65/11043/index.m3u8
-#EXTINF:0 tvg-rec="3" tvg-id="bcu-stars-hd",BCU Stars HD
-#EXTGRP:📽️ Фильмовые
-http://9a649a6c.tvclub.xyz/iptv/NMES8T6ZCFEU65/11044/index.m3u8
-#EXTINF:0 tvg-rec="3" tvg-id="bcu-russian-hd",BCU Russian HD
-#EXTGRP:📽️ Фильмовые
-http://9a649a6c.tvclub.xyz/iptv/NMES8T6ZCFEU65/11041/index.m3u8
-#EXTINF:-1 tvg-id="viju-tv1000-novella",Viju TV1000 Новелла HD
-#EXTGRP:📽️ Фильмовые
-http://158.101.214.187:8080/channel/n60cfbb4/index.m3u8?q=443d5edac354972a97f67425879f54e1
-
 #EXTINF:-1 group-title="📽️ Фильмовые",VIP Serial HD
 http://127.0.0.1:6878/ace/getstream?id=d13dd140058b7a528959e2b709aca4111b7cc076&.mp4
 #EXTINF:-1 group-title="📽️ Фильмовые",VIP Premiere HD
