@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Первый канал
 http://192.168.1.92:6878/ace/getstream?id=50bc2f512793f1e745fb5bd5b5a6afca199c2d19&.mp4
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="↕️ Торрент ТВ ↕️",Ю (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Первый канал Евразия
 http://192.168.1.92:6878/ace/getstream?id=8599818264dd7fdc068ac0a9fac8447fd52ad270&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Россия 1 HD
