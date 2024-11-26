@@ -468,6 +468,8 @@ https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTGRP:📺 Эфирные
 http://ott.server-iptv.live/106/video.m3u8?token=S793FB1732
 #EXTINF:-1 group-title="📺 Эфирные",ТНТ HD
+http://185.50.148.2:7710/TNT_HD/index.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",ТНТ HD
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",ТНТ4 HD
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
