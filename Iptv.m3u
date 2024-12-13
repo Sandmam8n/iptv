@@ -1,10 +1,6 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz,https://iptvx.one/EPG"
 
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
-http://91.224.169.250:5000/c69
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
-http://91.224.169.250:5000/c69
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
 http://31.210.208.171:8080/match_hd/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Планета
 https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
@@ -17,10 +13,6 @@ http://ott.server-iptv.live/203/video.m3u8?token=S793FB1732
 #EXTINF:-1 tvg-id="match-football3",Матч! Футбол 3 HD
 #EXTGRP:⚽ Спортивные
 http://ott.server-iptv.live/204/video.m3u8?token=S793FB1732
-#EXTINF:-1 group-title="⚽ Спортивные",Eurosport 1 HD
-http://91.224.169.250:5000/c167
-#EXTINF:-1 group-title="⚽ Спортивные",Eurosport 2 HD
-http://91.224.169.250:5000/c168
 #EXTINF:-1 tvg-id="okko-sport",Окко Спорт HD
 #EXTGRP:⚽ Спортивные
 http://9a649a6c.tvclub.xyz/iptv/AY99TNY7TTNU4N/6554/index.m3u8
@@ -459,9 +451,10 @@ http://84.38.180.145:8080/Uhierjfk/index.m3u8
 #EXTINF:-1 tvg-id="pervy",Первый канал HD
 #EXTGRP:📺 Эфирные
 http://ott.server-iptv.live/101/video.m3u8?token=S793FB1732
-#EXTINF:-1 tvg-id="rossia1",Россия 1 HD
-#EXTGRP:📺 Эфирные
-http://player.smotrim.ru/iframe/stream/live_id/2961?43e=5.m3u8
+#EXTINF:-1 group-title="📺 Эфирные",Россия 1 HD
+#EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
+https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 tvg-id="rentv",Рен ТВ HD
