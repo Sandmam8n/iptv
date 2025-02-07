@@ -452,9 +452,9 @@ http://84.38.180.145:8080/Uhierjfk/index.m3u8
 #EXTGRP:📺 Эфирные
 http://ott.server-iptv.live/101/video.m3u8?token=S793FB1732
 #EXTINF:-1 group-title="📺 Эфирные",Россия 1 HD
+https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
-https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 tvg-id="rentv",Рен ТВ HD
