@@ -25,9 +25,6 @@ http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707&
 http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Setanta Sports 3 HD
 http://127.0.0.1:6878/ace/getstream?infohash=04759f636ad9c8dc35b5eb560d393eab3e2a6f30&.mp4
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="↕️ Торрент ТВ ↕️",Ю (+7)
-#EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",BCU Сваты HD
 http://127.0.0.1:6878/ace/getstream?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",BCU Romantic HD
