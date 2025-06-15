@@ -440,8 +440,6 @@ https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Ю
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Суббота
-https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1 tvg-id="ntv-xit",НТВ Хит
 #EXTGRP:📺 Эфирные
 http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
