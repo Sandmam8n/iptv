@@ -1,21 +1,5 @@
 #EXTM3U url-tvg="https://github.com/iFrez/EPG-EdemTV/raw/master/edem.xml.gz"
 
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
-http://31.210.208.171:8080/match_hd/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="⚽ Спортивные",Матч! Планета
-https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
-#EXTINF:-1 tvg-id="match-football1",Матч! Футбол 1 HD
-#EXTGRP:⚽ Спортивные
-http://ott.server-iptv.live/202/video.m3u8?token=S793FB1732
-#EXTINF:-1 tvg-id="match-football2",Матч! Футбол 2 HD
-#EXTGRP:⚽ Спортивные
-http://ott.server-iptv.live/203/video.m3u8?token=S793FB1732
-#EXTINF:-1 tvg-id="match-football3",Матч! Футбол 3 HD
-#EXTGRP:⚽ Спортивные
-http://ott.server-iptv.live/204/video.m3u8?token=S793FB1732
-#EXTINF:-1 tvg-id="okko-sport",Окко Спорт HD
-#EXTGRP:⚽ Спортивные
-http://9a649a6c.tvclub.xyz/iptv/AY99TNY7TTNU4N/6554/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
@@ -44,8 +28,6 @@ http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0&
 http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",VIASAT SPORT HD
 http://127.0.0.1:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b&.mp4
-#EXTINF:-1 group-title="⚽ Спортивные",UFC HD
-http://127.0.0.1:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Футбольный HD
 http://127.0.0.1:6878/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Хоккейный HD
@@ -442,49 +424,20 @@ http://127.0.0.1:6878/ace/getstream?id=21f0299cce733ec3a481135553de468440b3630f&
 http://127.0.0.1:6878/ace/getstream?id=00d0649880b17050d8a9ed559fc824f98fd578be&.mp4
 #EXTINF:-1 group-title="📽️ Фильмовые",Bollywood HD
 http://127.0.0.1:6878/ace/getstream?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0&.mp4
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",Cinema Classic
-https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/kinozal.png" group-title="📽️ Фильмовые",MediaService Lorenz TV
-http://84.38.180.145:8080/Uhierjfk/index.m3u8
 
-
-#EXTINF:-1 tvg-id="pervy",Первый канал HD
-#EXTGRP:📺 Эфирные
-http://ott.server-iptv.live/101/video.m3u8?token=S793FB1732
-#EXTINF:-1 group-title="📺 Эфирные",Россия 1 HD
-https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-#EXTINF:-1 tvg-id="rentv",Рен ТВ HD
-#EXTGRP:📺 Эфирные
-http://ott.server-iptv.live/106/video.m3u8?token=S793FB1732
-#EXTINF:-1 group-title="📺 Эфирные",ТНТ HD
-http://185.50.148.2:7710/TNT_HD/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",ТНТ HD
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",ТНТ4 HD
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",МИР HD
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Пятый канал
-https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 #EXTINF:-1 tvg-id="tvcentr" channelId="13",ТВЦ 
 #EXTGRP:📺 Эфирные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",СТС HD
-https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",СТС Love
-https://livetv.mylifeisgood.net.ru/channels/stslove.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Домашний HD
-https://livetv.mylifeisgood.net.ru/channels/domashnii
-#EXTINF:-1 group-title="📺 Эфирные",ТВ3 HD
-https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Пятница!
-https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",ЧЕ
-https://livetv.mylifeisgood.net.ru/channels/che.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Ю
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Суббота
@@ -510,12 +463,6 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 https://bkm.beetv.kz/btv/live/hls/000002472.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="http://www.oreol.tv/img/027_u.jpg" group-title="📺 Эфирные",Ю
 https://strm.yandex.ru/kal/utv/utv0.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Че
-http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Звезда
-http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Пятница!
-http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
 #EXTINF:-1 tvg-id="mir" group-title="📺 Эфирные",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",ТВ3 HD
@@ -534,36 +481,17 @@ http://31.148.48.15:80/KVN_TV/index.m3u8?token=test
 http://84.38.180.145:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Телекафе
 http://31.148.48.15:80/Telekafe/index.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Россия К
-https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",2x2
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",360°
-https://livetv.mylifeisgood.net.ru/channels/ch360.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Известия
-https://livetv.mylifeisgood.net.ru/channels/iz.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Россия 24
-https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Москва 24
-https://livetv.mylifeisgood.net.ru/channels/moscow24.m3u8
-#EXTINF:-1 tvg-id="dozhd",Дождь HD
-#EXTGRP:📺 Эфирные
-https://m3u8.ott.blue/watch/7319/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 group-title="📺 Эфирные",Дождь
 http://127.0.0.1:6878/ace/getstream?id=4b91bbf01a5574583e7e4af5b258de3e454d83e4&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",РБК
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",FreeДОМ
-https://m3u8.ott.blue/watch/7431/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 group-title="📺 Эфирные",Настоящее время HD
-https://m3u8.ott.blue/watch/207/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 group-title="📺 Эфирные",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 catchup="append" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_24.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Эфирные",Россия 24
 #EXTVLCOPT:http-user-agent=WINK/1.31.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",СПАС
-https://livetv.mylifeisgood.net.ru/channels/spas.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://profi-rus.narod.ru/iptv/logo/2s.png" tvg-name="Спас ТВ" group-title="📺 Эфирные",Спас
@@ -573,56 +501,10 @@ http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 
 #EXTINF:-1 group-title="🎵 Музыкальные",МузТВ
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",Russian Music Box
-https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
 #EXTINF:-1 group-title="🎵 Музыкальные",ТНТ Music
 https://livetv.mylifeisgood.net.ru/channels/tntmusicru.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",Европа Плюс ТВ
-https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",Bridge TV
-https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",Bridge TV Classic
-https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",Bridge TV Deluxe
-https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",Bridge TV Hits
-https://livetv.mylifeisgood.net.ru/channels/bridgehitstv.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",Bridge TV Русский хит
-https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",Bridge TV Шлягер
-https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",ТНТ Music
-https://bkm.beetv.kz/btv/live/hls/000000013.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",GAKKU
-https://bkm.beetv.kz/btv/live/hls/000001383.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",KZ MUZZONE
-https://bkm.beetv.kz/btv/live/hls/000000783.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",Hit TV Channel
-https://bkm.beetv.kz/btv/live/hls/000001213.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",1HD
-https://bkm.beetv.kz/btv/live/hls/000001020.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",MCM TOP
-https://bkm.beetv.kz/btv/live/hls/000000327.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",MEZZO
-https://bkm.beetv.kz/btv/live/hls/000000030.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",MTV
-https://bkm.beetv.kz/btv/live/hls/000000447.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",YES-MTV 00s
-https://bkm.beetv.kz/btv/live/hls/000000264.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",МузТВ
-https://bkm.beetv.kz/btv/live/hls/000000073.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",МУЗЫКА ПЕРВОГО
-https://bkm.beetv.kz/btv/live/hls/000000204.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",ШАНСОН ТВ
-https://bkm.beetv.kz/btv/live/hls/000000210.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",МузТВ
-https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 #EXTINF:-1 group-title="🎵 Музыкальные",ТНТ Music
 https://livetv.mylifeisgood.net.ru/channels/tntmusicru.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",Европа Плюс ТВ
-https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные",Bridge TV Deluxe
-https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
 #EXTINF:-1 group-title="🎵 Музыкальные",TMF RUS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
 https://hls.goodgame.ru/hls/201891.m3u8
