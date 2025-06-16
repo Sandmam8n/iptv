@@ -110,8 +110,6 @@ http://127.0.0.1:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771&
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o5/discovery/playlist.m3u8
-#EXTINF:-1 group-title="🌏 Познавательные",Investigation Discovery HD
-http://tv.newline.in.ua:9023/play/d02l
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat Nature/History HD
 http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat Nature HD
