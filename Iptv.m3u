@@ -427,10 +427,6 @@ http://127.0.0.1:6878/ace/getstream?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0&
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",ТНТ HD
-https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",ТНТ4 HD
-https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",МИР HD
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 #EXTINF:-1 tvg-id="tvcentr" channelId="13",ТВЦ 
@@ -438,12 +434,6 @@ https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Ю
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
-#EXTINF:-1 tvg-id="ntv-xit",НТВ Хит
-#EXTGRP:📺 Эфирные
-http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
-#EXTINF:-1 tvg-id="ntv-serial",НТВ Сериал
-#EXTGRP:📺 Эфирные
-http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ ХИТ
 http://127.0.0.1:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Стиль
@@ -475,8 +465,6 @@ http://127.0.0.1:6878/ace/getstream?id=5e06a45d6939341fb7427189245380086c1d63c7&
 http://31.148.48.15:80/KVN_TV/index.m3u8?token=test
 #EXTINF:-1 group-title="📺 Эфирные",Твоё ТВ
 http://84.38.180.145:8080/tvoetv/index.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",Телекафе
-http://31.148.48.15:80/Telekafe/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",2x2
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Дождь
@@ -5312,3 +5300,4 @@ https://online.melodiafm.ua/MelodiaFM_Romantic_HD
 http://62.80.190.246:8000/PRK128
 #EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",NRJ (Европа Плюс)
 http://cast.nrj.in.ua/nrj
+
