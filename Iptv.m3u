@@ -474,8 +474,6 @@ http://178.217.72.72/TV3/index.m3u8
 http://178.217.72.72/TNT_HD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ4" tvg-logo="" group-title="📺 Эфирные",ТНТ4
 http://178.217.72.72/TNT4/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ю ТВ" tvg-logo="" group-title="📺 Эфирные",Ю ТВ
-http://prokazov.ottolok.net/iptv/GEUL7CCKBHLXYN69ZHGZ3H5R/534/index.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" group-title="Эфирные", НТВ Хит HD
 http://iptv46.mcx-ix.ru:8077/ntv_hit/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ ХИТ
@@ -5348,6 +5346,7 @@ https://online.melodiafm.ua/MelodiaFM_Romantic_HD
 http://62.80.190.246:8000/PRK128
 #EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",NRJ (Европа Плюс)
 http://cast.nrj.in.ua/nrj
+
 
 
 
