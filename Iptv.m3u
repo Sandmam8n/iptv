@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч ТВ HD" tvg-logo="" group-title="⚽ Спортивные",Матч ТВ HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч ТВ HD" tvg-logo="" group-title="⚽ Спортивные",Матч! HD
 http://iptv46.mcx-ix.ru:8077/match_hd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! Премьер HD" tvg-logo="" group-title="⚽ Спортивные",Матч! Премьер HD
 http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
@@ -5424,6 +5424,7 @@ https://online.melodiafm.ua/MelodiaFM_Romantic_HD
 http://62.80.190.246:8000/PRK128
 #EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",NRJ (Европа Плюс)
 http://cast.nrj.in.ua/nrj
+
 
 
 
