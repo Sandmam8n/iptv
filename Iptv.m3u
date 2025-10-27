@@ -552,15 +552,15 @@ http://178.217.72.72/TNT4/index.m3u8
 http://178.217.72.72/Domashniy/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ю" tvg-logo="" group-title="📺 Эфирные",Ю
 http://178.217.72.72/Yu_TV/index.m3u8
-#EXTINF:-1 tvg-id="ntv-xit" group-title="Эфирные", НТВ Хит HD
+#EXTINF:-1 tvg-id="ntv-xit" group-title="📺 Эфирные", НТВ Хит HD
 http://iptv46.mcx-ix.ru:8077/ntv_hit/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ ХИТ
 http://127.0.0.1:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&.mp4
-#EXTINF:-1 tvg-id="ntv-style" group-title="Эфирные", НТВ Стиль HD
+#EXTINF:-1 tvg-id="ntv-style" group-title="📺 Эфирные", НТВ Стиль HD
 http://iptv46.mcx-ix.ru:8077/ntv_stil/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Стиль
 http://127.0.0.1:6878/ace/getstream?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6&.mp4
-#EXTINF:-1 tvg-id="ntv-serial" group-title="Эфирные", НТВ Сериал HD
+#EXTINF:-1 tvg-id="ntv-serial" group-title="📺 Эфирные", НТВ Сериал HD
 http://iptv46.mcx-ix.ru:8077/ntv_serial/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Сериал
 http://127.0.0.1:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993&.mp4
@@ -5424,6 +5424,7 @@ https://online.melodiafm.ua/MelodiaFM_Romantic_HD
 http://62.80.190.246:8000/PRK128
 #EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",NRJ (Европа Плюс)
 http://cast.nrj.in.ua/nrj
+
 
 
 
