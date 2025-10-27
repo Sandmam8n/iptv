@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
 
+#EXTINF:-1 tvg-id="match-premier" group-title="⚽ Спортивные",Матч! Премьер HD
+http://iptv46.mcx-ix.ru:8077/nash_football_hd/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
@@ -103,6 +105,16 @@ http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91&
 #EXTINF:-1 group-title="⚽ Спортивные",SKY Bundesliga UHD
 http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390&.mp4
 
+#EXTINF:-1 tvg-id="discovery-channel" group-title="🌏 Познавательные", Discovery Channel HD
+http://iptv46.mcx-ix.ru:8077/DiscoveryChannelHD/index.m3u8
+#EXTINF:-1 tvg-id="id-xtra-eu" group-title="🌏 Познавательные", ID Investigation Discovery Европа
+http://46.8.46.14/InvestigationDiscovery/index.m3u8
+#EXTINF:-1 tvg-id="history" group-title="🌏 Познавательные", History HD
+http://iptv46.mcx-ix.ru:8077/History-HD/index.m3u8
+#EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="🌏 Познавательные", Дикая охота HD
+http://217.21.34.160:38007/dikayaohotahd/index.m3u8
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="🌏 Познавательные", Дикая рыбалка HD
+http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
 http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery HD
@@ -425,6 +437,8 @@ http://127.0.0.1:6878/ace/getstream?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0&
 
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
+#EXTINF:-1 group-title="📺 Эфирные", Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",МИР HD
@@ -434,10 +448,16 @@ https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Ю
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
+#EXTINF:-1 tvg-id="ntv-xit" group-title="Эфирные", НТВ Хит HD
+http://iptv46.mcx-ix.ru:8077/ntv_hit/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ ХИТ
 http://127.0.0.1:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&.mp4
+#EXTINF:-1 tvg-id="ntv-style" group-title="Эфирные", НТВ Стиль HD
+http://iptv46.mcx-ix.ru:8077/ntv_stil/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Стиль
 http://127.0.0.1:6878/ace/getstream?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6&.mp4
+#EXTINF:-1 tvg-id="ntv-serial" group-title="Эфирные", НТВ Сериал HD
+http://iptv46.mcx-ix.ru:8077/ntv_serial/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Сериал
 http://127.0.0.1:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",ТНТ HD
@@ -5300,4 +5320,5 @@ https://online.melodiafm.ua/MelodiaFM_Romantic_HD
 http://62.80.190.246:8000/PRK128
 #EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",NRJ (Европа Плюс)
 http://cast.nrj.in.ua/nrj
+
 
