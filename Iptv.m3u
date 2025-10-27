@@ -295,7 +295,7 @@ http://178.217.72.72/vip_comedy/index.m3u8
 http://178.217.72.72/vip_megahit/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Premiere HD" tvg-logo="" group-title="📽️ Фильмовые",VIP Premiere HD
 http://178.217.72.72/vip_premiere/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом 📽️ Фильмовые Премиум HD" tvg-logo="" group-title="📽️ Фильмовые",Дом 📽️ Фильмовые Премиум HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом Кино Премиум HD" tvg-logo="" group-title="📽️ Фильмовые",Дом Кино Премиум HD
 http://178.217.72.72/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинопоказ HD" tvg-logo="" group-title="📽️ Фильмовые",Кинопоказ HD
 http://178.217.72.72/kinopokazhd/index.m3u8
@@ -5424,6 +5424,7 @@ https://online.melodiafm.ua/MelodiaFM_Romantic_HD
 http://62.80.190.246:8000/PRK128
 #EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",NRJ (Европа Плюс)
 http://cast.nrj.in.ua/nrj
+
 
 
 
