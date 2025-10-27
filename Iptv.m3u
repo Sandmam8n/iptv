@@ -462,6 +462,18 @@ https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Ю
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятница HD" tvg-logo="" group-title="📺 Эфирные",Пятница HD
+http://178.217.72.72/Pyatnitsa/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Рен ТВ HD" tvg-logo="" group-title="📺 Эфирные",Рен ТВ HD
+http://178.217.72.72/REN_TV/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС HD" tvg-logo="" group-title="📺 Эфирные",СТС HD
+http://178.217.72.72/STS/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТВ3 HD" tvg-logo="" group-title="📺 Эфирные",ТВ3 HD
+http://178.217.72.72/TV3/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ HD" tvg-logo="" group-title="📺 Эфирные",ТНТ HD
+http://178.217.72.72/TNT_HD/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ4" tvg-logo="" group-title="📺 Эфирные",ТНТ4
+http://178.217.72.72/TNT4/index.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" group-title="Эфирные", НТВ Хит HD
 http://iptv46.mcx-ix.ru:8077/ntv_hit/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ ХИТ
@@ -5334,6 +5346,7 @@ https://online.melodiafm.ua/MelodiaFM_Romantic_HD
 http://62.80.190.246:8000/PRK128
 #EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",NRJ (Европа Плюс)
 http://cast.nrj.in.ua/nrj
+
 
 
 
