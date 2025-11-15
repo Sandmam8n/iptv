@@ -1,19 +1,11 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч ТВ HD" tvg-logo="" group-title="⚽ Спортивные",Матч! HD
-http://iptv46.mcx-ix.ru:8077/match_hd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! Премьер HD" tvg-logo="" group-title="⚽ Спортивные",Матч! Премьер HD
 http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! Премьер HD" tvg-logo="" group-title="⚽ Спортивные",Матч! Премьер HD
-http://iptv46.mcx-ix.ru:8077/nash_football_hd/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! Футбол 1 HD 50" tvg-logo="https://lighticons.art/storage/images/channels/94de502ffcf196ab78801841206c642d.png?d=1709804063" group-title="⚽ Спортивные",Матч! Футбол 1 HD 50
-http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Окко Футбол HD" tvg-logo="" group-title="⚽ Спортивные",Окко Футбол HD
 http://50.7.28.226/9170/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Окко Спорт 2 HD" tvg-logo="" group-title="⚽ Спортивные",Окко Спорт 2 HD
 http://50.7.28.226/9183/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport 1 HD" tvg-logo="" group-title="⚽ Спортивные",Eurosport 1 HD
-http://178.217.72.72/Eurosport_HD/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
@@ -119,29 +111,16 @@ http://127.0.0.1:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390&
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Глазами туриста HD" tvg-logo="https://iptvx.one/picons/glazami-turista.png" group-title="🌏 Познавательные",Глазами туриста HD
 http://217.21.34.160:38007/glazami_turista/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Animal Planet HD" tvg-logo="" group-title="🌏 Познавательные",Animal Planet HD
-http://178.217.72.72/Animal_Planet_HD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Galaxy HD" tvg-logo="" group-title="🌏 Познавательные",Galaxy HD
-http://178.217.72.72/galaxyhd/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="🌏 Познавательные",Nat Geo Wild HD
-http://178.217.72.72/Nat_Geo_Wild_HD/index.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" group-title="🌏 Познавательные", Discovery Channel HD
 http://iptv46.mcx-ix.ru:8077/DiscoveryChannelHD/index.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="🌏 Познавательные", ID Investigation Discovery Европа
 http://46.8.46.14/InvestigationDiscovery/index.m3u8
-#EXTINF:-1 tvg-id="history" group-title="🌏 Познавательные", History HD
-http://iptv46.mcx-ix.ru:8077/History-HD/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="🌏 Познавательные", Дикая охота HD
 http://217.21.34.160:38007/dikayaohotahd/index.m3u8
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="🌏 Познавательные", Дикая рыбалка HD
 http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Discovery Science HD
 http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
-#EXTINF:-1 group-title="🌏 Познавательные",Discovery HD
-http://127.0.0.1:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771&.mp4
-#EXTINF:-1 group-title="🌏 Познавательные",Discovery
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o5/discovery/playlist.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat Nature/History HD
 http://127.0.0.1:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&.mp4
 #EXTINF:-1 group-title="🌏 Познавательные",Viasat Nature HD
@@ -245,72 +224,6 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
 #EXTINF:-1 group-title="🌏 Познавательные" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig",WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом Кино Премиум HD" tvg-logo="" group-title="📽️ Фильмовые",Дом Кино Премиум HD
-http://178.217.72.72/Dom_Kino_Premium_HD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинопоказ HD" tvg-logo="" group-title="📽️ Фильмовые",Кинопоказ HD
-http://178.217.72.72/kinopokazhd/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Комедийное HD" tvg-logo="" group-title="📽️ Фильмовые",Комедийное HD
-http://178.217.72.72/komediynoe/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Наш кинопоказ HD" tvg-logo="" group-title="📽️ Фильмовые",Наш кинопоказ HD
-http://178.217.72.72/nashkinopokazhd/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Наше HD" tvg-logo="" group-title="📽️ Фильмовые",Наше HD
-http://178.217.72.72/nashekrutoe/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Хит HD" tvg-logo="" group-title="📽️ Фильмовые",Хит HD
-http://178.217.72.72/hithd/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amedia 1 HD" tvg-logo="" group-title="📽️ Фильмовые",Amedia 1 HD
-http://178.217.72.72/A1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amedia Hit HD" tvg-logo="" group-title="📽️ Фильмовые",Amedia Hit HD
-http://178.217.72.72/Amedia_Hit/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amedia Premium HD" tvg-logo="" group-title="📽️ Фильмовые",Amedia Premium HD
-http://178.217.72.72/Amedia_Premium_HD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BCU Action HD" tvg-logo="" group-title="📽️ Фильмовые",BCU Action HD
-http://178.217.72.72/BCUActionHD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BCU Fantastic HD" tvg-logo="" group-title="📽️ Фильмовые",BCU Fantastic HD
-http://178.217.72.72/BCUFantasticHD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BCU Romantic HD" tvg-logo="" group-title="📽️ Фильмовые",BCU Romantic HD
-http://178.217.72.72/BCURomanticHD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BCU VHS HD" tvg-logo="" group-title="📽️ Фильмовые",BCU VHS HD
-http://178.217.72.72/BCUVHSHD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollywood HD" tvg-logo="" group-title="📽️ Фильмовые",Bollywood HD
-http://178.217.72.72/Bollywood_HD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineMan Action HD" tvg-logo="" group-title="📽️ Фильмовые",CineMan Action HD
-http://178.217.72.72/CineMan_Action/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineMan Comedy HD" tvg-logo="" group-title="📽️ Фильмовые",CineMan Comedy HD
-http://178.217.72.72/CineMan_Comedy/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineMan HD" tvg-logo="" group-title="📽️ Фильмовые",CineMan HD
-http://178.217.72.72/CineMan/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineMan Marvel HD" tvg-logo="" group-title="📽️ Фильмовые",CineMan Marvel HD
-http://178.217.72.72/CineMan_Marvel/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineMan Melodrama HD" tvg-logo="" group-title="📽️ Фильмовые",CineMan Melodrama HD
-http://178.217.72.72/CineMan_Melodrama/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineMan Thriller HD" tvg-logo="" group-title="📽️ Фильмовые",CineMan Thriller HD
-http://178.217.72.72/CineMan_Thriller/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CineMan Top HD" tvg-logo="" group-title="📽️ Фильмовые",CineMan Top HD
-http://178.217.72.72/CineMan_Top/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hollywood HD" tvg-logo="" group-title="📽️ Фильмовые",Hollywood HD
-http://178.217.72.72/hollywoodhd/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Comedy HD" tvg-logo="" group-title="📽️ Фильмовые",VIP Comedy HD
-http://178.217.72.72/vip_comedy/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Megahit HD" tvg-logo="" group-title="📽️ Фильмовые",VIP Megahit HD
-http://178.217.72.72/vip_megahit/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIP Premiere HD" tvg-logo="" group-title="📽️ Фильмовые",VIP Premiere HD
-http://178.217.72.72/vip_premiere/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Дом Кино Премиум HD" tvg-logo="" group-title="📽️ Фильмовые",Дом Кино Премиум HD
-http://178.217.72.72/Dom_Kino_Premium_HD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Кинопоказ HD" tvg-logo="" group-title="📽️ Фильмовые",Кинопоказ HD
-http://178.217.72.72/kinopokazhd/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Комедийное HD" tvg-logo="" group-title="📽️ Фильмовые",Комедийное HD
-http://178.217.72.72/komediynoe/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BCU Catastrophe HD" tvg-logo="" group-title="📽️ Фильмовые",BCU Catastrophe HD
-http://178.217.72.72/BCUCatastropheHD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BCU Comedy HD" tvg-logo="" group-title="📽️ Фильмовые",BCU Comedy HD
-http://178.217.72.72/BCUComedyHD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BCU Fantastic HD" tvg-logo="" group-title="📽️ Фильмовые",BCU Fantastic HD
-http://178.217.72.72/BCUFantasticHD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BCU Kinorating HD" tvg-logo="" group-title="📽️ Фильмовые",BCU Kinorating HD
-http://178.217.72.72/BCUKinoratingHD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BCU Romantic HD" tvg-logo="" group-title="📽️ Фильмовые",BCU Romantic HD
-http://178.217.72.72/BCURomanticHD/index.m3u8
 #EXTINF:-1 group-title="📽️ Фильмовые",VIP Serial HD
 http://127.0.0.1:6878/ace/getstream?id=d13dd140058b7a528959e2b709aca4111b7cc076&.mp4
 #EXTINF:-1 group-title="📽️ Фильмовые",VIP Premiere HD
@@ -536,32 +449,10 @@ https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Ю
 https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Пятница HD" tvg-logo="" group-title="📺 Эфирные",Пятница HD
-http://178.217.72.72/Pyatnitsa/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Рен ТВ HD" tvg-logo="" group-title="📺 Эфирные",Рен ТВ HD
-http://178.217.72.72/REN_TV/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="СТС HD" tvg-logo="" group-title="📺 Эфирные",СТС HD
-http://178.217.72.72/STS/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТВ3 HD" tvg-logo="" group-title="📺 Эфирные",ТВ3 HD
-http://178.217.72.72/TV3/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ HD" tvg-logo="" group-title="📺 Эфирные",ТНТ HD
-http://178.217.72.72/TNT_HD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ТНТ4" tvg-logo="" group-title="📺 Эфирные",ТНТ4
-http://178.217.72.72/TNT4/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Домашний HD" tvg-logo="" group-title="📺 Эфирные",Домашний HD
-http://178.217.72.72/Domashniy/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ю" tvg-logo="" group-title="📺 Эфирные",Ю
-http://178.217.72.72/Yu_TV/index.m3u8
-#EXTINF:-1 tvg-id="ntv-xit" group-title="📺 Эфирные", НТВ Хит HD
-http://iptv46.mcx-ix.ru:8077/ntv_hit/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ ХИТ
 http://127.0.0.1:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&.mp4
-#EXTINF:-1 tvg-id="ntv-style" group-title="📺 Эфирные", НТВ Стиль HD
-http://iptv46.mcx-ix.ru:8077/ntv_stil/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Стиль
 http://127.0.0.1:6878/ace/getstream?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6&.mp4
-#EXTINF:-1 tvg-id="ntv-serial" group-title="📺 Эфирные", НТВ Сериал HD
-http://iptv46.mcx-ix.ru:8077/ntv_serial/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ Сериал
 http://127.0.0.1:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",ТНТ HD
@@ -5424,6 +5315,7 @@ https://online.melodiafm.ua/MelodiaFM_Romantic_HD
 http://62.80.190.246:8000/PRK128
 #EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",NRJ (Европа Плюс)
 http://cast.nrj.in.ua/nrj
+
 
 
 
