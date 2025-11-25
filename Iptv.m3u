@@ -2,10 +2,6 @@
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матч! Премьер HD" tvg-logo="" group-title="⚽ Спортивные",Матч! Премьер HD
 http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Окко Футбол HD" tvg-logo="" group-title="⚽ Спортивные",Окко Футбол HD
-http://50.7.28.226/9170/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Окко Спорт 2 HD" tvg-logo="" group-title="⚽ Спортивные",Окко Спорт 2 HD
-http://50.7.28.226/9183/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
@@ -5315,6 +5311,7 @@ https://online.melodiafm.ua/MelodiaFM_Romantic_HD
 http://62.80.190.246:8000/PRK128
 #EXTINF:-1 group-title="Украина" tvg-logo="https://i.postimg.cc/WzLh40Th/image.png",NRJ (Европа Плюс)
 http://cast.nrj.in.ua/nrj
+
 
 
 
