@@ -424,7 +424,7 @@ https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Россия 1 HD
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",НТВ HD
+#EXTINF:-1 group-title="📺 Эфирные",НТВ
 https://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8
 #EXTINF:-1 tvg-id="tvcentr" channelId="13",ТВЦ 
 #EXTINF:-1 group-title="📺 Эфирные",ТНТ HD
@@ -464,9 +464,9 @@ https://strm.yandex.ru/kal/utv/utv0.m3u8
 https://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8
 #EXTINF:-1 tvg-id="mir" group-title="📺 Эфирные",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="📺 Эфирные",ТВ3 HD
+#EXTINF:-1 group-title="📺 Эфирные",ТВ3
 http://127.0.0.1:6878/ace/getstream?id=3b878b202b26e2b15bf7304e21a7d5283ebf236b&.mp4
-#EXTINF:-1 group-title="📺 Эфирные",ТНТ4 HD
+#EXTINF:-1 group-title="📺 Эфирные",ТНТ4
 http://127.0.0.1:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
 #EXTINF:-1 group-title="📺 Эфирные",СТС Love
 http://127.0.0.1:6878/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d&.mp4
