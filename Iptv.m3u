@@ -1,5 +1,26 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
 
+#EXTINF:0 tvg-rec="7",Матч! HD
+#EXTGRP:⚽ Спортивные
+http://25b1e908.akadatel.com/iptv/2C5SYDAMZTLNLK/212/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Премьер HD
+#EXTGRP:⚽ Спортивные
+http://25b1e908.akadatel.com/iptv/2C5SYDAMZTLNLK/220/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1 HD
+#EXTGRP:⚽ Спортивные
+http://25b1e908.akadatel.com/iptv/2C5SYDAMZTLNLK/222/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2 HD
+#EXTGRP:⚽ Спортивные
+http://25b1e908.akadatel.com/iptv/2C5SYDAMZTLNLK/211/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
+#EXTGRP:⚽ Спортивные
+http://25b1e908.akadatel.com/iptv/2C5SYDAMZTLNLK/206/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Прайм Спорт HD
+#EXTGRP:⚽ Спортивные
+http://25b1e908.akadatel.com/iptv/2C5SYDAMZTLNLK/20135/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Спорт HD
+#EXTGRP:⚽ Спортивные
+http://25b1e908.akadatel.com/iptv/2C5SYDAMZTLNLK/20138/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! Премьер HD
 http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
 #EXTINF:-1 group-title="⚽ Спортивные",Матч! HD
@@ -418,6 +439,27 @@ http://127.0.0.1:6878/ace/getstream?id=00d0649880b17050d8a9ed559fc824f98fd578be&
 #EXTINF:-1 group-title="📽️ Фильмовые",Bollywood HD
 http://127.0.0.1:6878/ace/getstream?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0&.mp4
 
+#EXTINF:0 tvg-rec="0",Первый канал UHD
+#EXTGRP:📺 Эфирные
+http://25b1e908.akadatel.com/iptv/2C5SYDAMZTLNLK/19241/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 UHD
+#EXTGRP:📺 Эфирные
+http://25b1e908.akadatel.com/iptv/2C5SYDAMZTLNLK/19242/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ UHD
+#EXTGRP:📺 Эфирные
+http://25b1e908.akadatel.com/iptv/2C5SYDAMZTLNLK/19405/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ Хит
+#EXTGRP:📺 Эфирные
+http://25b1e908.akadatel.com/iptv/2C5SYDAMZTLNLK/741/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ Сериал
+#EXTGRP:📺 Эфирные
+http://25b1e908.akadatel.com/iptv/2C5SYDAMZTLNLK/744/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ UHD
+#EXTGRP:📺 Эфирные
+http://25b1e908.akadatel.com/iptv/2C5SYDAMZTLNLK/19238/index.m3u8
+#EXTINF:0 tvg-rec="0",РЕН ТВ UHD
+#EXTGRP:📺 Эфирные
+http://25b1e908.akadatel.com/iptv/2C5SYDAMZTLNLK/19404/index.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",Первый канал HD
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 group-title="📺 Эфирные", Россия 1 HD
@@ -427,8 +469,6 @@ http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",НТВ
 https://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8
 #EXTINF:-1 tvg-id="tvcentr" channelId="13",ТВЦ 
-#EXTINF:-1 group-title="📺 Эфирные",ТНТ HD
-http://188.225.31.197/bpk-tv/000007833/tve/index.m3u8
 #EXTGRP:📺 Эфирные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 group-title="📺 Эфирные",ТВ-3
