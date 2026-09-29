@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
-#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Матч! HD
+#EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Матч ТВ HD
 http://192.168.1.142:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2&.mp4
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Матч! Премьер HD
 http://192.168.1.142:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
